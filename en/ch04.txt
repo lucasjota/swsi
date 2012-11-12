@@ -1,0 +1,476 @@
+[!-- The Legislative Parasite --]
+
+This has been a hard chapter to write. After four or five complete rewrites, what remains is somewhat of a rant. The problem is that what I want to write about is some of the most tedious material imaginable. It's about the laws we call "patents", how they work, why they exist, and their impact.
+
+Anything legal is wrapped in painful language, designed to keep the amateur far away. But these particular laws are worse, since they don't even talk about real things. They focus entirely on imaginary concepts and unreal values.
+
+++ Welcome to Software Patents
+
+If you know me, you know that I take my work seriously. People mess with me in many ways, and mostly I'll laugh. But when a fool with an ego tries to steal or corrupt my work, I'll focus my intellect, time, and resources on bringing him down, even if it takes years.
+
+So imagine my shock and cold rage when I discovered first-hand that my lifelong profession -- building software products and convincing people to give me money in exchange -- was potentially illegal. Simply sitting down, taking a clear problem, and solving it step-by-step using my talent and experience could land me in court.
+
+I'd known this academically since 1999 or so, when it became clear that software patents, like little cancerous cells, had started to grow in the heart of my chosen profession. But in 2003 my firm received a polite letter from a patent lawyer representing a firm called AllisBlue, claiming that we were infringing on the "invention" of storing an email address and mobile phone number together in a database.
+
+We'd spent several years building a product, something like Twitter, that let people send and receive text messages in interesting ways. The economy was deep in crisis. We'd put most of our capital, maybe a quarter of a million Euro, into this product. The lawyer told us, "//stop selling your product, and license our invention//". They didn't sell software. Just the rights to use that trivial patent.
+
+I called the European Patent Office (EPO), eventually found a human, and asked them, "how can someone patent software?" They answered, "that's not possible in Europe, it's forbidden by law". What? "Yes, the patent law specifically excludes data processing."
+
+The pain in my brain was just a taste of what would come. I contacted the other Belgian wireless application firms, and over the next months we organized a forum to discuss the issue. Most of them had also been in touch with AllisBlue. One had already been in court. It turned out that AllisBlue consisted of, literally, one pending patent and a million Euro in cash. The money was just there to litigate. AllisBlue's first target was a competing patent holder, which they managed to take over.
+
+It was scary to see how afraid these firms were of going to court. AllisBlue had an easy strategy. Rather than attack firms directly, it attacked their clients. It sued a newspaper for using an text message service. The newspaper canceled its service immediately. The firm providing the service turned around and licensed AllisBlue's patents. It never went to a real judge.
+
+The simple threat of going to court was more than enough to force these businessmen into unethical deals. They did the math, and it was cheaper to pay off the blackmailer than to stand up to him. AllisBlue didn't make software, so was immune to any counter-attack, if anyone would have had the stomach for that.
+
+Worse, practically no-one around the table really understood what was happening. They had only the weakest understanding of patent law, how it was enforced, what the consequences were. Like me, they were focused on business, not on arcane legal topics. None had lawyers capable of explaining patent law. There was one noted Belgian patent lawyer, and he worked for AllisBlue.
+
+This ignorance led to real fear. The European Patent Office is proud of its process, which allows interested parties to contest a patent during a so-called "opposition window" of a few months after it's granted. When we started our forum, AllisBlue's patent wasn't even granted. In June 2005, it was granted and I tried to organize opposition on the basis of subject matter.
+
+Here we have to enter the murky and bitter waters of patent language, and I'm sorry for that. There is no gentle way to rape your brain with this. Patent law has several filters for "low-quality patents". (Oh, don't imagine for a second this is for your benefit as citizen. Patent law is written //by// the patent industry //for// the patent industry. These filters are just meant to stop general inflation of patents.) A patent must be new, it must be non-trivial, and it must not be for software. In other words it can't be for some area of technology that is explicitly excluded by the law.
+
+So one firm tried to oppose the AllisBlue patent by finding examples of existing software that did the same thing, years before. They failed because the EPO didn't accept that evidence. Ah, you see, "prior art" is only valid if it's documented in a database the patent office will search. Which means certain academic journals, and previous patents. Since no-one had patented the AllisBlue "invention" before, it was, in the eyes of the EPO, "innovative".
+
+Perhaps you're start to see how the patent system creatively redefines words like "invention" and "innovation", but I'm getting ahead of myself. Back to the story.
+
+AllisBlue then took that firm to court anyhow, as a lesson. Unwilling to spend money on endless fees for patent experts, they settled, and licensed the patent. The forum decided that appeasement was the only option, and AllisBlue went into profit.
+
+Our own product was barely making money. The mobile operators charged huge fees just to let us connect to their networks. I figured, if we pay one patent troll, what stops us being blackmailed by a second, and a third? I canceled the product, fired the team, wrote off the investment, and cursed the system. It was heartbreaking.
+
+As I'd been exploring the ins and outs of patent law, I'd come across the FFII network. In early 2005, they asked me to come and speak at a debate in the European Parliament. I sat politely while different firms stood up and justified their innovative patent-based strategy (all Microsoft partners, and none, I noticed, actually making real software). I watched while the European Patent Office experts spoke proudly of their system and how it promoted innovation. Then there were some presentations from others arguing against software patents.
+
+I got up, switched off the projector, which the EPO guy kept messing with to disrupt opposing speakers. I didn't have slides. Instead I stood in front of the audience, and explained that I'd been making software for twenty years, that my business was entirely based on being innovative, and that we were the epitome of a small, creative business. I've written millions of lines of code. My firm worked for the largest firms, helping them become more efficient. We funded ourselves, got no subsidies, asked for no help.
+
+Then I stated something like, "Software patents are evil. There is nothing good about them at all. Nothing. They destroy jobs. They bring lawyers into the business of making software. They destroy investment. As far as I can tell none of these firms here" -- I waved my hand at the sock puppets who'd praised software patents -- "make anything of value". They squirmed. I told the audience: ban software patents, period." It was a pretty brutal first speech. The FFII defeated the EPO and its allies that year.
+
+A little later the FFII members elected me as president and I spent two years in those bitter waters, focusing all my time and remaining money to slow down the patent system's expansion in Europe. It was an education: today I know more about patent and copyright law than even most specialized lawyers. I also learned how to organize groups of people, which I explained in the first chapters of this book. It takes more than pretty speeches.
+
+++ The Cost of Patents
+
+Let's explore some figures. I'm writing this in late 2011. In March, Microsoft paid Nokia about $1 billion for a deal that gave Microsoft access to Nokia's patents. A little later, HTC bought S3 for $300 million, to get access to S3's patents, mainly because Microsoft and Apple were attacking it. Then in July, a group of firms (Apple, Microsoft, Oracle, RIM, Sony, EMC, Ericsson) paid $4.5 billion for a set of patents from Nortel. Google bid somewhat less, and lost the auction. In October, Sony paid $1.45 billion for Ericsson's patent portfolio. Then in November, Google got Motorola Mobility, and its patents, for $12.5 billion.
+
+What's staggering here is that in 2011, firms paid about $20 billion for patent rights. In 2010, Apple spent $1.8 billion in R&D. Google spent about $4 billion. The total for the whole software industry can't be much more than that $20 billion.
+
+Yet those patents are just for mobile phones, essentially yesterday's technology. My guesstimate of $20 billion for R&D is mostly for cloud computing, social networks, and the rest of tomorrow's infrastructure.
+
+The patent wars for one segment of technology are costing as much as R&D into the future of all software technology combined. Worse than that, whereas mobile technology was one of the few software fields heavily patented a decade or so ago (expanding into Internet telephony, and audio-video encoding), today patents are claimed across the whole spectrum.
+
+Patent litigation was rare eight years ago, when AllisBlue knocked on my door. It's grown in an exponential curve, and will continue to grow until it reaches its natural limit. There are no barriers except the budget of firms to fight.
+
+One difficulty with tracking patent costs is that settlements are mostly secret. For instance, today Microsoft makes more money from extorting license fees from Android vendors than it does from its own failed mobile operating systems. Most of these deals are secret. Only a few firms, like Barnes & Noble, come out and fight. B&N are courageous, presumably as angry as I was at the time, but they won't win. The patent system is a game you cannot win, unless you change sides.
+
+I hope you're asking how this is possible, how a legal system can be so destructive and yet invulnerable. The answer is both simple, and profound. Put simply, the patent industry is so profitable that it corrupts anyone it does not destroy. More profoundly, the patent system is a classic example of the hijacking of the State by special interests. It's a case study in legislative parasitism, in which a group of people gain enough power to create laws that exist solely to perpetuate their power at any cost.
+
+The irony is that without exception, a business that embraces the patent system will die. Motorola, Ericsson, and Nokia were once powerful firms that drove entire economies. Their slow death was predictable and I'll explain later how it happened, and why Microsoft and Apple will follow. It's such a predictable process that it deserves its own Law.
+
+It's not just software. For decades, the jack-booted thugs of the patent system have been the pharmaceutical industry. This industry is really split into two halves, roughly equal in size. One half (the "generics") produce drugs at the lowest possible cost, and get these into sick peoples' hands as efficiently as possible. It's no different from the food or clothing industry. The other half (the "big pharma") sell drugs at the highest possible prices, and pump their money back into enforcing their monopolies on production and distribution.
+
+In fact this dichotomy between competition and cartel divides many industries and I'll come back to it often.
+
+Big pharma absolutely depends on patents because it's the only way they can keep their profits high. They don't just send letters. They use patents to invoke the power of the state, to search and seize "illegal" imports, to punish countries which allow generics through trade agreements, to criminalize their competitors.
+
+There are two reasons, however, why the brands will lose, why my second Law is real. The first direct reason is that money spent on buying patents, on enforcing them, on paying lobbyists, and on buying politicians is money wasted for research and development. The brands are simply worse at producing new drugs than their generic competitors. Ironically they explain their high prices as justified, given the high cost of developing new drugs.
+
+The second indirect reason is that patents are infectious and contaminate the whole "pipeline" of research. The truth is that new drugs, like new software, are never the product of single teams working in shiny white laboratories. All innovation comes from mass effort, over time, to solve numerous individual problems. it's not just the formula for a drug. It's ten thousand answers to a thousand problems, along the whole process. At some stage these come together into viable products.
+
+In 1980 the US passed the Bayh-Dole act, ostensibly to promote research into cancer and other diseases. The sausage machine of lawmaking doesn't just run itself. Most if not all laws are written and promoted and voted by special interests, i.e. for someone's profit. So who benefited from Bayh-Dole?
+
+The Bayh-Dole act allowed universities to keep the patents on federally-funded research. This is an extraordinary model. The public pays for research that is then owned by private business and sold back to the public at an extortionate profit. Bayh-Dole was written and pushed by a consortium of universities and big pharma. Lucky universities privatized every significant part of the drug research pipeline, and sold these rights off to their big pharma partners. The public saw new drugs for HIV/AIDS, but at a thousand dollars a pop. Hey, that's what health insurance is for, right?
+
+But what was really happening was worse than a simple hijacking of public research and blackmailing of the sick and vulnerable. The drug pipeline stretches 15-20 years. It's a slow process of turning data into knowledge. The process depends on collaboration between teams, across the world. Patents poison this process. You cannot at the same time collaborate on research, and file patents. Simply publishing or discussing a new idea means you can't patent it.
+
+Successful patenting demands secrecy, whereas successful innovation demands open discussion. Ah, you see the conundrum. But if secrecy is so much more lucrative today, which would you choose? Luxury holidays, private schools for the children, mistresses, champagne, business class and first class upgrades. The lust for money corrupts, without pity.
+
+Not everyone is corruptible. When the human genome project was launched, there was a huge fight between those who wanted to patent and license every plausible gene and technique, and those who insisted it should remain open. The "open" camp won, finally, and this fight helped researchers across the world organize into new, innovative teams. There are still way too many patents on genes, waiting to ambush the sick and vulnerable in years to come.
+
+The drug research pipeline is layered. That is, a product floats on a sea of techniques and intermediate tools, and primary research, each a necessary step on the way to the market. As Bayh-Dole bit, and universities across the USA and then Europe and Asia started to cash in, they patented more and more of these layers, until even basic research techniques were patented as "products". Meaning that researchers could no longer share techniques and basic knowledge.
+
+The consequences were predictable. By the late 90's, the drug pipeline was almost empty. Pfizer and Merck and the other big pharma brands saw their profits falling off a cliff. Their older billion-dollar drugs were coming out of patent protection, and they had nothing to replace them with. They used techniques like "green-fielding", i.e. making small improvements and claiming the whole as a new patent. They turned the screws on the generics. And they took the few new drugs they could find and sold the hell out of these.
+
+I once met a beautiful woman in Dallas Fort-Worth airport and both waiting for lunch, we ate together. I thought she was a high-class call girl so I asked her about herself. As people do, she told me. She'd been a drug sales rep. Now she'd stopped that, worked with her husband in his business. She told me of a life of five-star hotels, conferences in exotic places, business-class travel, limousines and champagne. Money, she said smiling at the memory, it was always about the money. We told doctors what they wanted to hear, and we competed for our bonuses.
+
+In 2009, six years after John Kopchinski filed a whistle-blower lawsuit that led to a Justice Department investigation, Pfizer was fined $2.3 billion for illegally marketing four of its drugs: a pain killer, an anti-psychotic, an antibiotic, and an anti-epileptic. First, the firm paid for the original studies and pushed through limited approval before independent studies could flag the dangerous side-effects of their new drugs. Then the firm took this narrow approval as a green light to sell aggressively to the whole market. Bextra, for example, was limited in small doses to severe arthritis and menstrual pains, but Pfizer sold it widely, even to dentists, in larger doses. Much more expensive than alternatives, Bextra and the other new drugs rapidly became billion-dollar product lines.
+
+The side-effects of Bextra were (the drug is no longer sold) quite nasty, twice as bad as those of generic alternatives, though it was no more effective as a pain killer. Thousands of people were made seriously ill, or died, before these drugs were pulled from the shelves. One of the side-effects involved total loss of skin. Those risks were known to Pfizer from the start, and we can assume were part of its business model.
+
+Today Pfizer's share price has fallen by 62% from its high in April 1999. The Bayh-Dole act has not cured cancer. It has not helped the drug industry past that 20-year pipeline window. The universities that jumped on that ship have lost their best researchers. It hasn't produced a single new success in medicine. Instead, it has allowed a few to profit from what was already in the pipeline, and poisoned the well of US medical research for at least three decades. If we're lucky, the research has gone elsewhere: to India, South Africa, China, Brazil. If we're unlucky, it has just gone.
+
+Any firm that lives by patents will eventually die by patents.
+
+You should be shaking your head. How can law-makers be so stupid? Surely there is some scientific basis for patents, some benefit to these billions squandered and hoarded. The short answer is no, there is no scientific basis. Patents make about as much sense as witch hunting. To understand better, we need to jump into the cold, unpleasant water of patent law.
+
+++ Origins of Patent Law
+
+The concept of "intellectual property" dates from the French revolution, and patents in their modern form were solidified in the 1850s. At that time, Europe debated the pros and cons of patents exhaustively. The Economist newspaper was founded as an anti-Corn Laws pro-free trade paper. Most familiar arguments for and against patents date to this era. In the 19th century, free-trade advocates managed to end the patent system in several countries (Switzerland, Netherlands, Germany). However, the free-trade economists lost their power after a serious economic crisis, and the patent system came back into full force by the 1870s. It has remained largely unquestioned until modern times.
+
+The term "intellectual property" was coined to replace "exclusive privilege", which became politically incorrect during the French revolution. At the time, the argument was that by defining ideas as property, with backing of the State and potentially infinite lifespan -- though this was quickly rejected as too extreme -- one could create wealth, and by extension, general prosperity. This belief underlies copyright law as well as patent law. The hypothesis has never really been proven, and goes against basic economic theory -- since it builds localized wealth through friction for the wider market -- but remains powerful.
+
+Over the last 150 years, the patent establishment invested heavily in expanding and solidifying "Intellectual Property" as a legal concept. This is seen today in the establishment of international lobbying groups like WIPO (World Intellectual Property Organization), and international agreements like TRIPS. TRIPS on the one hand represents heavy lobbying by some groups (e.g. pharmaceutical industry lobbyists working through the US government), and a justification for domestic legislation ("we're required by international law to keep software and drugs under a single patent system").
+
+Technically, today, "intellectual property" encompasses: patents, copyrights, trademarks, domain names, plant variety rights, design patents, game design patents, industrial patents (depending on jurisdiction), indigenous intellectual property, ship hull design rights, etc. By mixing all these different legal forms into the mayonnaise of "IP", patent advocates make it harder to discuss the specifics.
+
+The patent establishment has worked hard to reinforce "intellectual property" with the concepts of the "inventor" and the "invention". This underpins the "David vs. Goliath" rationale we'll see later. In reality there are many problems with the notion of inventor and inventions. Innovation appears to happen in parallel, involving many groups and individuals, across wide fronts of technology. Thus, there are often many groups working on the same problems, while the first to patent will get a monopoly on the market. There is no real correlation between innovation and patenting. All we can say with accuracy is that "inventor" is the patent holder (usually a lawyer), and "invention" are the patent claims.
+
+For example, Thomas Edison did not literally invent the light bulb. He was just the first to mass produce it, and he bought and bullied the real inventors into giving him their patents, and thus a monopoly over it.
+
+++ How Patents Work
+
+A patent is a civil claim on the market of products based on some idea. That is:
+
+* All patents, no matter what their domain, cover ideas. There is no inherent difference between a patent on the way you bake a cake, write a software algorithm, or construct a steam engine. One may try to distinguish ideas (inventions) from naturally occurring designs (e.g. genes) but the distinction is fairly arbitrary. We innovate in much the same way as nature does, by exploring the solution landscape.
+
+* Patents are valid only insofar as a court has decided they are valid. Until they go to court, patents have only hypothetical weight. Compared to copyright, trademark, or domain names, the cost of proving or disproving this hypotheses is very high. It typically costs from EUR 25,000 (in the very cheapest courts in Europe) to GBP 250,000 in the UK, and USD 3M to 10M in the USA to defend or enforce a patent in court.
+
+The patent process varies a little between countries but generally works thus:
+
+* A specialist takes an idea and writes this as a set of claims, with some descriptive abstract. The claims should set out precisely what the "invention" is. The patent often refers to other patents, which it may build on.
+
+* The patent is filed at the national patent office, or in Europe, the European Patent Office, which is an international organization, not part of the European Union.
+
+* A patent examiner reviews the patent and if it passes various criteria -- which vary between countries -- issues or rejects the patent. Because patent offices live from patent registration fees, there is often strong pressure on examiners to accept plausible patents, on the assumption that courts will catch bad patents.
+
+* In some countries, a new patent can be opposed for a certain period. This is equivalent to going to court, except before specialist judges at the patent office, rather than national (real) judges). Opposition is expensive and scary enough that small firms will not do it.
+
+* The patent is formally issued, and its owner can now assert it. The owner can leave the patent unused for any period of time, so long as he pays the annual fees. Patents expire after about twenty years (depending on jurisdiction) in any case. Firms can "greenfield" by making small changes to the idea, or claim methods of using the idea, and filing those as a new patent.
+
+* Armed with the patent, its owner can now ask other businesses to pay license fees, or stop producing their infringing products. If the target of such an action refuses to comply, the patent owner can go to court and ask for damages and a temporary or permanent injunction to stop sales. As in all court cases, the losing party can appeal.
+
+* A defendant may claim the patent is invalid, on a number of grounds, or claim that they do not actually infringe it. Most courts will assume the patent office correctly examined the patent, so invalidating the patent may be difficult.
+
+* Firms who fear they may be targeted by a specific patent can, in some jurisdictions, go to court to request an upfront decision of non-infringement. In some countries such proceedings could be drawn out for the full lifespan of a patent.
+
+Traditionally, patents -- like other forms of IP -- are handled by civil courts. Two trends make the patent system more virulent than it might be. First, specialization, in which patent cases are heard by, for instance in the USA, the Court of Appeals for the Federal Circuit (CAFC) hears patent cases. In Europe, there have been long efforts to create a similar institution, i.e. a European Patent Court.
+
+The arguments for specialization are that patent cases are complex and technical, and need specialized judges. The arguments against are that specialist judges tend to favor patent holders above defendants, that specialization appears to have been followed by significant expansion of patentability in the USA, and that specialized courts tend to be much more expensive than general civil courts.
+
+Since the early 21st Century, patent lobbyists have pushed for IP to move from civil to criminal law. We see this in legal initiatives such as IPRED and IPRED2 in Europe, and ACTA more recently. The argument for this move is that "pirate" products represent a threat to society. This push comes mainly from pharmaceutical firms (using imported generics as the threat), the entertainment industry (trying to stop copying of music and films) and patent licensing specialists (such as the various groups who live off MP3 patents).
+
+There are obvious attractions to enforcing patents via criminal law: it is much faster, cheaper, and more effective. The police can seize goods at trade fairs, the courts can freeze bank accounts of executives, and infringement can be punished with prison sentences.
+
+However for those threatened by patents, criminalization turns a business risk into a life and death scenario. When infringing a patent is treated as a crime against the state, one assumes there are strong safeguards against accidental or necessary infringement.
+
+Patents are an intervention by the state in an otherwise free market. When you buy a patent from the patent office, you own the market in that idea for two decades. The rationale is that society gets something in return. We'll look at this later.
+
+The economics of patenting are this:
+
+* Patents cost perhaps $10,000 to write and file, depending on size and complexity. Compare to copyright (free), trademark ($250), and domain names ($10 per year).
+
+* Pending patents can be used immediately to convince other firms to pay license fees, or enter into various types of agreement.
+
+* Patents are expensive to litigate, the average cost in the USA being around $250,000 for each party, for a first action, and more at appeal.
+
+* The cheapest way for a defendant to avoid extensive court costs, eventual damages, and license costs, is to not infringe on the patent. Thus, the 'best' patents from point of view of the holder are those which are broadest, vaguest, or most fundamental. I.e. the hardest to avoid infringing.
+
+* If firm A attacks firm B with a patent, firm B's obvious response is to find a patent that it can argue firm A infringes on. A counter-suit is a good lever to getting a settlement and eventually cross-licensing deal between firms.
+
+* The most successful patent holders are thus firms which never infringe on others' patents, which means firms that either make only a very narrow range of products, or firms that produce nothing at all.
+
+Thus, by competition and elimination, successful patents tend to be low-level (on genes, general research techniques, basic business concepts, etc.) or very vague (using language and concepts that can be twisted to apply to many cases). And, patent holders tend to be very large firms (which can afford the costs) or specialized non-productive entities (NPEs) which are immune to counter claims.
+
+There are very few small firms that successfully use patents. In a 2007 study the EU Commission looking for small-to-medium businesses who successfully used patents was forced to include Israeli firms.
+
+++ Regulatory Capture
+
+The patent system is a case study for "regulatory capture", in which an industry captures the organization that is meant to regulate it. People speak of a "revolving door" between lawmakers, patent offices, and businesses. Thus the USPTO is headed by the man (Dave Kappos) who was previously responsible for patent policy at IBM (the world's largest patent holder). One of his official titles is "the Under Secretary of Commerce for Intellectual Property".
+
+Patent offices, run by those who profit directly from patents, draft legislation and then lobby for it without shame. The only semi-neutral regulation of the patent system comes from civil courts, but as we've seen it's a game where the rules are stacked in favor of large firms and NPEs.
+
+++ Patent Conflicts
+
+Patents can make their holders extremely rich. They are key to legal battles over enormous amounts of money. There are a number of scenarios in which patents enable conflict:
+
+* When an NPE convinces firms to pay licenses, it starts with the smallest firms, and as these becoming licensees, it moves to larger and larger firms. At a certain point firms will refuse to pay, and court cases start. The NPE should have collected enough of a "war chest" to win these battles.
+
+* When one large firm wants to stop another competing, it files for injunctions in various courts, often to stop imports of products (domestic products are more favorably treated by many courts). The targeted firm will respond with counter-claims and appeals. The end result, after much legal activity, is usually a cross-licensing deal.
+
+* When one larger firm wants the patents of a smaller firm (for example to counter-attack a competitor), it may start proceedings against the smaller firm. The smaller firm, unable to retaliate (holding perhaps only a few patents and without a significant war-chest), will often accept a low-valued take-over.
+
+There are many strategies. A large firm may license a patent from a smaller firm, exclusively, so that its competitors cannot use that idea or technique. Larger firms may create patent pools that exclude smaller competitors from the market. Patent holders may give licenses freely or cheaply to some firms, to convince a judge that the patent is more "valid", and thus get larger rents from richer firms.
+
+There are some perhaps surprising elements about patent conflicts. These are mostly secret, consisting of letters, threats, counter-threats, and agreements that remain out of public view. What we see in the news is a tiny fraction of the actual conflict. Second, patent ownership and licensing is secret. We know who files the original patent but we have no idea who currently owns it, or has licensed it, or the amounts of money involved.
+
+Further, in many countries all patent licensing income is free of taxes, as a motivation for innovation. This creates interesting financial vehicles where all profits of a firm are exported as patent license fees to a sister firm, which then pays no taxes.
+
+++ Defensive Patents
+
+"Defensive patents" are a powerful part of the patent mythology. In order to do business securely, the belief goes, one needs patents to defend against attack. Let's look at several common scenarios and see whether and how a patent could be a defensive weapon, and what the outcome would be:
+
+* A small firm gets a letter from a patent troll claiming damages and demanding a license deal. Would a patent defend the small firm? No, because the troll makes no products, so infringes no patents.
+
+* A small firm gets a letter from a large competitor, claiming damages and demanding a license deal. Would a patent defend the small firm? Yes, but only if the large firm was making product covered by the patent. Otherwise no. And if the small firm counter-attacked with its own patent claim, the larger firm would easily scale up its attack. End result: the small firm will exhaust its capital and be bought cheaply by the larger firm.
+
+* A large firm gets a letter from a patent holder, claiming damages and demanding a deal. The large firm pulls out its vast portfolio, and discovers it's useless against the patent holder, who makes no products or only a single very narrow product. After years of litigation, a court grants the troll a huge sum in damages.
+
+* A large firm gets sued by a competitor for some obscure patent. The large firm counter sues with its defensive patent portfolio. Happily, the competitor is exposed, and finally the two settle into a licensing deal. End result: the market turns into a cartel based on a cross-licensed patent pool, and small competitors are excluded or heavily taxed.
+
+* One troll sues another. This happens more often than you'd imagine. The target counter-sues with its own "defensive" patents. The troll with the broadest patent and deepest pockets wins, and gets the other troll's patents as reward. End result: larger trolls.
+
+It's been said that claiming a patent is, for a small firm, somewhat like painting a large target on your back. Patenting your //own// innovations is close to suicidal unless you're a wealthy business. Patenting others' innovations is rather smarter.
+
+++ Patent Pools as Legal Cartels
+
+In some sectors, patent cross-licensing effectively creates a legal cartel that escapes anti-trust law. The mobile phone sector is a case worth studying.
+
+Ewan Sutherland of the LINK Centre, University of Witwatersrand and CRID, University of Namur in Belgium, [http://swsi.info/eurr wrote that] in 1996 the European Commission (EC) opened its first dossier on international mobile roaming (IMR), at the behest of the mobile operators, who sought and received an exemption from anti-trust laws of the EC Treaty (now Article 105 (1) EU).
+
+In 1999 the International Telecommunications Users Group (INTUG) filed a complaint with the EC about persistently high prices. Cases against four operators were closed without any penalties, and an inquiry into the handling of these cases was abandoned, with no explanation to the high prices. There were a set of directives in 2002, and two more Roaming Regulations in 2007, but prices for IMR remain high, especially for roaming data. Sutherland concludes "The mobile network operators maintain there was no problem. The EU institutions,... and many users maintain that there was and is -- even if they can only describe the symptoms, not explain its causes."
+
+To uncover the causes of the problem, and why national and EU regulators have been unable to correct what looks very much like collusion by dominant market players, we need to understand that the mobile telephony market depends on standards, and these are very heavily patented. As Tobias Kaufmann [http://swsi.info/kaufmann explains], the GSM (Global System for Mobile Communications) market depends on 554 patent families (not individual patents) declared “essential” by their holders. 74% of these patents are held by four firms.
+
+Kaufmann explains how patent licensing is used to create the cartels that dominate the European and American mobile phone markets:
+
+> In 1998, the ITSUG (International Telecommunications Standards, User Group) authored a complaint to the European Commission in which it summarized the GSM licensing problems in stating that the inability to acquire timely licenses coupled with the uncertainty of essentials lead to "costly and complex licensing negotiations" and "excessive cumulative royalty rates", thereby creating substantial transaction costs and high barriers to entry to the GSM market. In addition, the ITSUG alleged the existence of a "low/zero club for established European telecommunications players" while others have to pay royalties of up to 40% of the ex-works selling price".
+
+So while GSM depends on standards, those standards and the market they depend on are entirely captured through patents, and escape normal competition pressure to lower prices. By adding new patents to the pool of patents that a business must license, the normal 20 year lifespan of a technology like GSM -- which originates from 1991 -- can be extended almost indefinitely, and indeed Kaufmann reports that only 149 of the 554 patent families in the GSM patent pool are judged essential by technical experts. The rest exist only to perpetuate the licensing barriers.
+
+As [http://en.wikipedia.org/wiki/GSM Wikipedia states], “Patents remain a problem for any open source GSM implementation, because it is not possible for GNU or any other free software distributor to guarantee immunity from all lawsuits by the patent holders against the users. Furthermore new features are being added to the standard all the time which means they have patent protection for a number of years.”
+
+In a properly competitive market based on free and open technological standards -- such as the traditional wired phone network -- we would expect costs to fall by 50% every 18-24 months, or value to double every 18-24 months (compare “Moore’s Law”, stating that chip density will double every two years). If it cost 1.00 UKP to make a 1-minute international phone call in 1990, today that cost should have fallen by half ten times: 1000 times.
+
+++ The Politics of Patents
+
+As late as 2007, public policy makers were arguing that patenting activity was equivalent to innovation. It's the classic "his penis is larger than yours" argument: slide after slide showing how many patents are filed per year in the USA vs Europe. Since there are no other simple figures for innovation, and since large industrial firms systematically boast of their patenting activity, it's understandable how politicians get confused.
+
+Of course correlation is not causation. It's just as possible (and more plausible) that patents follow innovation like predators follow a prey. And as US economic growth stutters and fails, this argument also starts to fail. But it has been enormously powerful for the last decades. Politicians -- who are not economists, not innovators, not businessmen -- truly believed that patents were a key policy tool, and have literally boosted the numbers of patents filed in their countries by:
+
+* Appointing patent office executives with the mission of increasing patent office "productivity", in terms of numbers of patents filed each year.
+
+* Making it easier and cheaper for firms to file patents, encouraging universities to seek patents, and subsidizing small firms claiming patents.
+
+* Treating patent claimants as "customers" of the patent system, and focusing patent examiners on keeping claimants happy.
+
+* Giving the patent establishment open space in which to expand, by lowering barriers to patenting, increasing patent lifespan, lowering patent costs, and opening new areas (like software) to patentability.
+
+* Redirecting public funds to subsidizing patenting activity in universities, research institutions, and businesses.
+
+Unlike most government initiatives, patent politics have been successful too: the number of patents has risen sharply in the last ten years. High-five all round, you might think.
+
+Except that of course it hasn't helped a bit, but has rather made things much worse. Patent conflicts have exploded. There are fewer new firms and fewer jobs in high tech than before. Europe and the USA and Japan, which pushed these policies hardest, find themselves barely able to innovate at all. Major industrial firms have turned into hollow shells.
+
+There are no long term winners except for the specialized NPEs (trolls) and the specialist lawyers and patent experts who profit from conflict.
+
+Conflict is expensive for society, and patents can raise the cost of ordinary goods quite significantly. It's been estimated that consumer goods such as DVD players, MP3 players, cameras, and smart-phones carry about $15-$25 in patent license fees. We do not know the end-consumer cost of patent litigation, but it is non-trivial.
+
+Since the patent system is a major intervention in an otherwise free market, we might expect to see some solid proof that it is worthwhile. However there is not a single economic study that shows how patents promote innovation. The first major study in a generation comes from economists James Bessen and Michael J. Meurer. In "Patent Failure: How Judges, Bureaucrats, and Lawyers Put Innovators at Risk" (Princeton University Press, March 2008), they write "Despite all the rhetoric calling for “protection of inventors’ property,” today’s patents fail as property, and to­morrow's might yet do even worse."
+
+Economic studies are rare. In Europe, economists who start critical studies of the patent system seem to get hired or sponsored by the European Patent Office, and their research withers. Lacking an economic basis, patents exist on the basis of argument and debate. Here is a typically naive endorsement of the patent system from a software engineer called Nathan Marz. [http://swsi.info/marz In January 2011, Marz wrote:]
+
+> The patent system exists to provide an incentive for innovation where that incentive would not have existed otherwise.
+> Imagine you're an individual living in the 19th century. Let's say the patent system does not exist and you have an idea to make a radically better kind of sewing machine. If you invested the time to develop your idea into a working invention, the existing sewing machine companies would just steal your design and crush you in the marketplace. They have massive distribution and production advantages that you wouldn't be able to compete with. You wouldn't be able to monetize the initial investment you made into developing that invention. Therefore, you wouldn't have invented the radically better sewing machine in the first place.
+> From this perspective, patents are actually a rather clever hack on society to encourage innovation. By excluding others from using your invention for a fixed amount of time, you get a temporary monopoly on your invention. This lets you monetize your invention which makes your initial investment worthwhile. This in turn benefits society as a whole, as now society has inventions that it wouldn't have had otherwise.
+
+We can call this the "inducement to innovate" argument. Without patents, the argument goes, people would not innovate because their ideas would be stolen. Another argument is the "appeal to fairness". Here is another commentator, on the Slashdot discussion site, writing in August 2011:
+
+> Mobile phone patents are deserved and the companies that have them have spend billions to develop the technology. It's only fair that someone who wants to profit from that research pays some of the costs via patent licenses.
+
+These two arguments, and others, are not new. Rather than debunk the arguments directly, we can draw on others' voices from the past. I'm going to draw heavily on Fritz Machlup's "an Economic Review of the Patent System" from 1958. Machlup's paper (http://swsi.info/machlup) is not easy to find, but it's essential reading for anyone who really wants to understand the history of the patent system.
+
+++ The 19th Century Patent Debate
+
+In the 19th century, as patent advocates sold governments across Europe their modern patent system, they developed four main arguments to justify these new laws:
+
+* **Calling on natural law**. The argument claims that inventors have a natural right to their ideas and inventions, which like all property must be exclusive, and that society must recognize and protect this right.
+
+* **Appealing to fairness**. The argument claims that exclusive rights to an invention are the most appropriate way to reward inventors for their work.
+
+* **Inducement to innovate**. The argument claims that inventors will not invent and capitalists will not invest in new inventions, unless they are given exclusive rights to their inventors.
+
+* **Inducement to disclose**. The argument claims that inventors will not publish their secrets, and thus ideas would be lost to society, unless they are granted exclusive rights to their inventors.
+
+The first argument depends on accepting the notion of natural law. The use of the word "property" to cover ideas was part of the propaganda fight to establish patent laws in France in 1791 and again in 1843. The previous term was "exclusive privilege", more accurate but not the best thing to push for after the French Revolution. By the late 1800's the notion that patents derived from natural property rights in ideas was being heavily attacked, especially in Germany, and we saw the second argument evolve.
+
+The Swiss, stubbornly, disagreed that society had a moral obligation to reward inventors. Why inventors and not musicians, authors, and painters? Others pointed to the theory of social origins of inventions to explain why individual inventors did not deserve rewards. Others argued that real inventors had a head start that should give them enough profits to reward their work.
+
+Even those who agreed that inventors needed rewarding, and that competition might wipe-out any head-start advantage too quickly, did not necessarily support patent privileges. The Economist wrote, "...what the community requires is that inventors be rewarded; that skillful men who contribute to the progress of society be well paid for their exertions. The Patent Laws are supported because it is erroneously supposed that they are the means to this end."
+
+The favorite proposed alternative to patents were bonuses paid to inventors by the state, by industry associations, by intergovernmental agencies, or by international industry associations. The bonus system was dismissed as corruptible and arbitrary, and patents were pushed as the best method of delivering fair rewards to inventors.
+
+Others pointed out that with patents it was impossible to ensure the reward went to the real inventor, that rewards were proportional, and impossible to prevent great damage being done to others by the exclusive monopoly.
+
+The visible injustices of the patent system meant that the "society's moral obligation to reward inventors" argument was fairly weak. So, the patent advocates formed the argument that exclusive privilege, fair or unfair, was the best way to stimulate invention.
+
+In the mid-1800's, writers claimed that the industrial progress of England and the United States was due to their patent system. Other writers claimed that the progress of Germany and Switzerland was due to their lack of any patent system. In fact any causal relationship is very hard to prove, or disprove. So the argument that patents promote innovation is mainly a thought exercise and works as follows:
+
+# Industrial progress is desirable;
+# Invention is a necessary part of industrial progress;
+# Not enough invention will happen unless effective incentives are used;
+# Patents are the cheapest and most effective form of incentive.
+
+There are two straight-forward counter arguments to the last two points. First, that invention will occur with or without legislative interference. Second, that patents are not the best and cheapest form of incentive -- that prizes, for example, would work better. Either of these two counter-arguments breaks the whole thesis that patents are necessary to industrial progress.
+
+Economists thus began to debate the costs and benefits of the patent system. Some argued that the costs were zero, and the benefits infinite. Others argued that a heavy social cost was unavoidable and the net benefits were negative.
+
+The costs of the patent system are as follows: first, the cost of diverting one's activity away from patented areas towards other domains; second the bureaucratic cost of administering the patent system; third, the economic cost of monopolies sustained by patents; fourth, the cost of legal disputes, and last, the cost to those unable to use the most efficient processes.
+
+Thus in 1851 the Economist wrote, "//the privileges granted to inventors by patent law are prohibitions on other men, and the history of inventions accordingly teems with accounts of trifling improvements patented, that have put a stop, for a long period, to other similar and much greater improvements... Every patent is a prohibition against improvements in a particular direction, except by the patentee, for a certain number of years; and, however beneficial that may be to him who receives the privilege, the community cannot be benefited by it.//".
+
+For a while, patent advocates argued that the patent system cost nothing. This argument was shown to be wrong: the patent deprived others of the opportunity to evolve and use the same idea that the patentee had, no matter how much they had already invested in it. The monopoly also derived society of the benefits of wider use of the idea.
+
+Another nail in the "incentive to inventors" argument's coffin was the fact that many inventors were employees, or too poor to exploit their inventions without financial help. Thus the "inventor" was often the financier or patent attorney. So the "incentive to invent" theory also has a variant, which is the "incentive to invest", and these two arguments remain the strongest ones used today.
+
+Modern criticism of the patent system thus focuses on its costs and benefits, and economists are now starting to have the tools to actually measure this empirically, with results that match the logical analyses of the mid-19th century.
+
+One last argument of the patent advocates remains: that exclusive privilege is the best incentive to disclose valuable secrets. Even if inventors worked without other incentives or rewards, without strong incentives for disclosure, said patent advocates, inventors might take valuable secrets to the grave and thus rob society of its general fund of technological knowledge.
+
+The post-revolutionary French patent advocates used this explanation to avoid having to defend patents as privileges. Patents, rather than being a privilege, were the result of a fair bargain between inventors and society.
+
+There were (and still are) four objections to this argument. First, since most ideas develop simultaneously and independently in different places, no single disclosure is worth very much. Second, technological secrets are very hard to keep for long in any case. Third, when inventors think they can keep their techniques secret, they will not claim patents at all since competitors will be unable to duplicate the technique. Lastly, the patent system creates a disincentive for inventors to publish their ideas early on, since premature publication can ruin the chances of getting patents. So, rather than promote disclosure, the patent system actually hurts it.
+
+Each of these four counter-arguments was used in the 19th century. The Economist wrote that useful inventions depended not on individuals but on general social progress. Many writers argued that most inventions could not be kept secret for long, so the bargain with society was decidedly unfair. The notion that only a few inventions could be kept secret made the third objection all the stronger - the patent system now protected the otherwise unprotected ideas, and did nothing to prompt disclosure of those which could be kept secret. Prince-Smith wrote if the patent system was abolished then "//secret and isolated work on inventions would cease and its place would be taken by a cooperation of all qualified talent//" and predicted a meritocracy that looks more or less like today's open source software communities.
+
+++ Who Benefits from Patents Today?
+
+The most common argument these days is that patents protect the small inventor against larger firms who would steal their ideas. This is Marz's suggestion. It's combines all four classic arguments into one emotional appeal to our sense of fairness. The hypothesis that patents are necessary to level the playing field depends on this chain of argument:
+
+* That small firms need protection from larger firms;
+* That small firms deserve such protection, if they need it;
+* That patents are the best way to provide such protection.
+
+The first two claims are dubious at best. However, it is not even necessary to debate whether the State should intervene to protect small firms or not, because it is easy to show that patents cannot help small firms except in very narrow cases.
+
+* The very high cost of acquiring and defending patents means normal small firms cannot use these. The budget for acquiring and defending a single patent can easily exceed the annual turnover of a small firm.
+
+* In any conflict with a larger firm, the smaller firm, having fewer patents but more innovative products, is likely to infringe on many times more patents than it holds.
+
+* In any judicial conflict, the high cost of prosecuting a claim, and often an appeal, will favor the larger firm with its deeper pockets.
+
+Only an armchair academic could believe the David vs. Goliath story, which doesn't survive even the slightest contact with reality.
+
+So who benefits from patents? Obviously, patent trolls of all sizes. For a small product-making firm to use patents, they must essentially make specific improvements to old technology so they are not vulnerable to counter-attack. They can then exploit this improvement for twenty years to build up a wider market and brand. It's a rare model, and one example would be [http://en.wikipedia.org/wiki/James_Dyson Dyson], who reinvented the classic vacuum cleaner.
+
+Research organizations and universities can benefit financially from patents, since they produce no products and are not vulnerable to counter attack. For instance, the Fraunhofer Institute made its fortune from MP3 patent licenses (though they did not invent the basic techniques on which MP3 was based).
+
+Large firms have three main ways to profit from patents. Like Apple, Microsoft, and IBM they can use patents to control competition. They must build up portfolios of patents that they hope will be valuable in 5 or 10 years' time. Then, if they are lucky and they have patents that hit important market sectors, they can get patent license revenues, or exclude competitors.
+
+Secondly they can use patents to reduce their tax burden. The mechanism is simple: find a country, like Ireland, which treats patent income as tax-free -- to promote innovation, of course -- and establish a "research center" there. File patents and then license these to business units across the region. Ensure that the majority of profits arrive in the tax haven as patent revenues.
+
+Thirdly large firms can use patents to create legal price-fixing cartels. This is essentially the business model for the mobile telephone business. It lets firms keep prices high, stop innovation, and exclude new competitors. In the long run, it fails to promote innovation: we are still using and paying for SMS text messages, which is an obscene retardation of progress. It also fails to keep firms like Nokia from collapse.
+
+Finally, patents are profitable for the patent industry: the patent experts, offices, and officials who deal in patents. Like arms salesmen, they don't care who gets killed, so long as they can sell more guns and bullets. Like arms salesmen, conflict means money. Every patent lawsuit pays off in lucrative fees, so patent experts have a powerful economic incentive to push the patent system towards the worst possible scenario.
+
+So, patents are bad for the vast majority of small innovative firms, and they are good for trolls that produce no wealth, publicly funded research institutions that should not be driven by a profit motive, tax avoiders, legal cartels that engage in global price fixing, wealthy firms that speculate on future market movements, and patent experts who benefit from conflict.
+
+The story of patents is playing out at high speed in the software industry, which was essentially patent-free until the late 1990's. The Internet is built on patent-free standards and innovations. As the patent system expanded into software and the Internet, conflict has exploded. Software patent conflict now makes the headlines almost every day.
+
+++ The Documentary Argument
+
+There is one remaining argument for patents that is rarely cited but does make sense at least until the Internet changed everything. That is, "inducement to document". When the English burned Washington in 1814, they [http://swsi.info/1814 left the patent office untouched]:
+
+> The United States Patent Office building was saved by the efforts of William Thornton -- Architect of the Capitol and then superintendent of patents -- who convinced the British of the importance of its preservation.
+
+At the close of WWII in Europe, in 1944, the Allied forces set in motion a search for the scientific, industrial, and military secrets of Nazi Germany. They found them hidden in a mine, behind a door marked [http://swsi.info/gpo "Opening Will Cause Explosion"]:
+
+> The German Patent Office put some of its most secret patents down a sixteen-hundred-foot mine. shaft at Heringen, then piled liquid oxygen, in cylinders, on top of them. When the American Joint Intelligence Objectives team found them, it was doubtful that they could be saved. They were legible, but in such bad shape that a trip to the surface would make them disintegrate. Photo equipment and a crew were therefore lowered into the shaft and a complete microfilm record made of the patents there.
+
+In that patent treasure chest were tens of thousands of filings, many explaining techniques that seemed like science fiction:
+
+> The biggest windfall came from the laboratories and plants of the great German cartel, I. G. Farbenindustrie. Never before, it is claimed, was there such a store-house of secret information. It covers liquid and solid fuels, metallurgy, synthetic rubber, textiles, chemicals, plastics. drugs, dyes. One American dye authority declares: "It includes the production know-how and the secret formulas for over fifty thousand dyes. Many of them are faster and better than ours. Many are colors we were never able to make. The American dye industry will be advanced at least ten years."
+
+Historically, patents on steam engines delayed the industrial revolution by almost 20 years, and a ten-year battle over aircraft patents almost crippled the US air-force in World War One, forcing the US government to intervene (creating one of the first patent licensing pools). However, today we can look at these old patents and understand how to rebuild every single valuable machine ever made. Without the patent system, and the incentive it creates for formal documentation of industrially useful ideas, we would have lost vast amounts of knowledge.
+
+It is arguably worth the costs. One could still argue that without the patent system, I. G. Farbenindustrie would never have become a dominant cartel, capable of keeping its processes secret. But we can give the patent system the benefit of the doubt. The documentation is arguably worth all the pain.
+
+At least in the industrial era. Several trends have weakened and eventually nullified this final justification for patents. The first is that we simply have much better, cheaper, and faster ways to collect knowledge. Every idea that is worth documenting is documented, rapidly and accurately. Compare the patent system to Wikipedia, or Wolfram Alpha, or Google search and one sees just how outdated the patent system is.
+
+Secondly the move towards a digital economy means that ideas and inventions are no longer as tangible as they were. We once powered our economies with steam, but today it is with algorithms. There is no essential difference, it is one of scale. As ideas become more abstract, they become more layered. In the construction of steam engines there may be ten layers of ideas. In a web site, tens of thousands. Where a steam engine patent affected 100 firms, a software patent may affect a million businesses.
+
+The economic incentive is towards patents that capture more market, thus are less precise. One does not speak of a table, but of a horizontal planar surface with multiple support structures. That could mean a table, a stool, or a bridge. It is much, much worse than this in modern software patents. And today, the majority of patents have some software claims.
+
+So, as our knowledge goes digital, patents become useless as documentation. We are left with all the costs of the patent system, and none of the benefits.
+
+++ The Rise of Software Patents
+
+In the late 90s, the patent industry, sponsored by some specific firms such as IBM, Microsoft, Phillips, and Siemens, realized that software was a gold mine which they could best control by buying shiploads of patents. Only problem was that European patent law (the European Patent Convention) explicitly excluded patents on software "as such", in its infamous Article 52(3).
+
+The patent industry set about changing that law. First they tried to modify the EPC but failed to get the necessary unanimity. So, through a series of interpretative steps by its own tribunals, the patent industry found a formula to work around the law. Software "as such" could not be patented, but so-called "computer implemented inventions" could, so long as they had a "technical effect". No-one could really define these terms, nor explain how the patent tribunals managed to get the power to change the law. There is no such thing as a "CII", of course. It's a mythical animal designed to be indecipherable and unstoppable. How do you stop a vampire? Answer: you can't, because vampires aren't real. The author always wins.
+
+So by 2000, the European Patent Office was allowing software patents (like AllisBlue's) if properly formulated as mythical inventions with a technical effect. Some national courts assumed that the patent office knew its business, and started to accept these new patents. But others refused them. This typically European inconsistency annoyed the large mostly American patent holders, who pushed for an EU-wide law to allow software patents. After several abortive attempts this culminated a proposed 2005 European Directive allowing patents on software patents.
+
+This sleazy and cynical attempt to bypass the written law and hijack the European software industry was met by the fury of a small army of geeks, academics and businessmen. This coalition fought the Software Patents Directive to a standstill over several years up to 2005. I first heard of this fight when the Commission was trying to slide the proposed law through the fisheries committee.
+
+The law failed. It was a massive lobbying effort, the largest ever, according to parliamentarians. It politicized the patent debate, and forged the FFII out of that network of European activists.
+
+Microsoft was the most aggressive and persistent promoter of software patents in Europe, and in 2007 we began to see why, as they started a campaign to attack Linux and free software for infringements on "their" technology. It had been clear for years that Windows could not survive against Linux forever. Indeed, today, Microsoft has convinced most Android vendors (Android is based on Linux) to pay them royalties of $5 to $15 for each phone and tablet sold.
+
+It was and still is an intensely political issue. The FFII demanded "no software patents". Some extremists like the Pirate Party actually dared question the entire patent system. The European Patent Office denied that it granted software patents at all ("seriously, we don't allow patents on software!"). The European Commission maneuvered to get control over the patent system, to bring these laws into the European Union frameworks. The EPO lobbied like crazy to keep its independence and expand its influence. National patent offices argued with the EPO over the lucrative income from patent granting and maintenance. Non-EU states like Switzerland killed EU initiatives like the Community Patent that would cost them patent revenues. Large software firms still saw software patents as the key tool for controlling their markets. Small firms still saw them as a sword to the throat. In the US, the pharmaceutical industry glowered across the table from the IT sector, taking opposite sides in the patent reform debate which culminated in a pathetic 2011 patent "reform" bill, after seven years of talks. Globally, the USA, Europe, and Japan have abandoned talks with the rest of the world. While Brazil, India, and China start to flex their muscles and wonder, "what kind of patent system would //we// like?"
+
+When their law was defeated in the European Parliament in 2005, the patent industry sulked for a while, then moved to Plan B, which was to create [http://epla.ffii.org a new European patent court] sitting outside the jurisdiction of existing European courts. Usefully, the judges to this court would be chosen by the patent offices and the EPO. And at the same time they would be able to change subject matter, i.e. that famous clause 52, by case-law.
+
+Plan B is still in progress. It's been harder work than expected, because that dratted army of geeks, academics, and small business people still insist on exposing the laundry and calling out politicians who support it. And, finally, patents are starting to show their dark side.
+
+So in the meantime, the EPO grants hundreds of thousands of software patents which national courts can argue over. For once, Europe's five-year lag behind the USA and its disharmony may save it from a little pain. But in reality, the European software industry is as compromised as the American one. Each of those patents is a potential bomb, waiting to blow up and destroy real work, real investment, real jobs.
+
+++ Reform of the Patent System
+
+There have been many proposals to reform the patent system. These have all failed, for various reasons, not least because no-one can agree on what "reform" means. But also because the patent system is deeply powerful, with revolving doors connecting industry, advocates, and law makers. It's the voice and money of the powerful and highly-focused few against the mostly silent and confused majority.
+
+The patent industry has made government its bitch, with facile answers to complex questions such as "how do we create more jobs?" Like Pfizer corrupted doctors, the patent industry heaps rewards on those who help it, and punishes those who oppose it. Economists who try to publish honest research are blacklisted, bought up, silenced. Politicians who oppose the patent system find themselves attacked in the press by "small business organizations" that are fronts for large firms. Academics who study the patent system too closely find their grants disappearing.
+
+It's left to the amateur, unpaid, apoplectic fringe to fight back. And even then, the deep assumption that the patent system cannot be "entirely bad" leads them to limit their focus to specific areas such as software. The reform attempts I've seen over the last years are:
+
+* To exclude certain fields of technology, such as software (FFII) or genes (Greenpeace). Such limits have proven to be untenable, since there are no hard boundaries between fields of technology. Patent experts can and do shift the limits, by modifying patent language, one patent at a time, until they can cover whatever field of technology is most valuable at the moment.
+
+* To exclude "bad patents", a term that can mean entirely opposite things to different people. A patent on a widely-used, fundamental idea is bad for society, but good for the patent holder. A patent for a nonsense invention is a bad patent in terms of documentation, but harmless to society. A clear and precise patent is "high quality" in terms of documentation, but a failure in terms of collecting rents. A fuzzy patent that may be applied to many different cases is a failure in terms of documentation, but most successful in terms of profit for the patent holder.
+
+* To solicit public help in finding prior art, i.e. asking the public to help invalidate new patents. This is one of the "raise patent quality" strategies. The goal is to ensure that awarded patents are really innovative. It makes the implication that there are "good" patents, drowning in a sea of "bad" patents. As we've seen, that is very relative. "Raising the bar" is really code for "don't let new patents devalue our existing patent portfolios".
+
+* To make it cheaper and easier for patent holders to defend their patents in court. For example in Europe, politicians are creating a single patent court that eliminates the need to prosecute a patent in multiple countries. The cited benefits are lower translation and legal costs for patent holders. This will make the patent system more, not less, damaging to Europe's economy: legal costs will rise and make it harder for small firms to defend themselves against patent claims by larger firms.
+
+Partial reform of the patent system is, by historic evidence, impossible. There is not a moment in history that the patent system has accepted reduction in size and power. There is simply too much money and power at stake. While large patent holders push patent offices to "raise the bar", the same patent offices push for innovation funding to small-to-medium firms and universities to be linked to patenting activity.
+
+++ How Patents Kill Businesses
+
+We saw how patents are destroying the pharmaceutical industry by shutting down the decades-long pipeline of research that leads to new products. In software-driven industries, there is a similar pipeline. Today's products depend on research done over the last decade. As patents start to build up in specific areas, such as mobile telephony, research slows and stops.
+
+While large patent holders market the deceit that they are responsible for innovation, the truth is that it's small firms and teams that innovate. Large firms mainly get new technology by buying small firms. But small firms avoid areas that are heavily patented, for obvious reasons that we've already explored. So innovation in patented areas slows and stops, pulling large firms into the tarpit of history.
+
+The once dominant mobile phone producers -- Nokia, Motorola, Ericsson -- are a case study. They should have jumped to Linux some time around 2004-06, when it was clear that smartphones needed a new more powerful operating system. But they had so much invested in patents, and they feared the Chinese phone producers so much, that they could never really abandon their proprietary systems. It took Google to buy Android and waltz carelessly to dominance by giving the rest of the world a system they could use for free.
+
+Apple, in 2011, unveiled its new weapon for market dominance. Not a new device, no revolutionary gadget, but a series of patent lawsuits against Android phone vendors. Internally, Apple use a lot of open source, but their lawyers do not, it seems, allow GPL code. They are busy removing all GPL software from their products and tool chains, rewriting it if needed. They ask us for non-GPL licenses for ZeroMQ (we decline, it's not an option). The GPL is special because it has anti-patent clauses. So it seems fair to assume that Apple plans a lot more patent attacks.
+
+I guess Apple and Microsoft have their share of lunch dates. They both fear Google immensely, and they see patents as their main weapon. Both Apple and Microsoft will focus more and more on patent litigation, and less on product innovation, over the next years. But both firms also make products, so Google will counter-attack, maybe with help from IBM. Oracle just wants to be in the fight, any fight.
+
+IBM shifted from innovation to patent filing a long time ago, and has lost the edge it had in the first years of the century, when it was the only large technology firm to really understand, and profit from, open source. Today, IBM is looking more and more like a patent troll. It is just more discrete than most.
+
+In the background sit Amazon, Facebook, Ebay. These firms hold some patents but tend to be careful about using them (Amazon started quite aggressively with its 1-click patent but seems to have realized the minefield it was walking in to).
+
+But it's just a matter of time before Microsoft, Apple, IBM, and Google turn their sights on these firms. Once you buy patents, you have to use them. Business demands it. So we'll see more billion-dollar buyouts of patent portfolios, more court cases, and eventually these new targets will themselves have to focus more on patents and less on innovation.
+
+Meanwhile, far away in a land with no patents, tiny software businesses are busy competing and redefining the possible and spawning new giants that will easily dominate the next decades.
+
+++ Too Long, Didn't Read
+
+In 2005, I wrote: "//the patent system has become an arms race, a tool for large firms to suppress competition, and indeed, the future will largely be decided on the basis of who has the most patents.//" This has proven to be accurate.
+
+The patent system has enjoyed considerable political and public support over the last 150 years, being widely accepted as an essential incentive to small and large innovators. Yet today the patents arms race, and rise in patent litigation are bringing many to ask what, really, is the purpose of the patent system?
+
+There are a set of classic arguments for patents, ranging from "inventors have a right to profit from their hard work" to "without patents, no-one will innovate". None of these arguments stand up to scrutiny nor comparison with fields that aren't patented. We do not generally ask the state to intervene to ensure that artists will paint, musicians play, chefs prepare meals, fashion designers create the new seasons. The vast bulk of our economy innovates well without 20-year monopolies. By contrast, the areas that are heavily patented, such as telecoms and pharmaceutics, resist change, are run by cartels, and extort consumers with grossly inflated prices.
+
+When patents invade a new sector of technology -- genetic research, or the Internet -- the results follow a standard pattern. Large firms invest progressively more in patents, until their R&D investment collapses. Litigation increases exponentially. Firms that do not have patent portfolios find themselves unable to counter-attack, so either leave the market, or shift resources to buying patents in bulk. Patent licensing businesses -- immune from attack -- spring up, and so the market divides into large cartels, and trolls, with no space for the small firms that are the source of real innovation.
+
+There is only one rationale for patents that is arguably worth the decades of stagnation and high prices that follows the entry of the patent system into a new sector. That is the value of patents as a store of knowledge, documentation of industrial processes and techniques. Patents may have delayed the industrial revolution by two decades, but today we can rebuild steam engines. Patent offices are stores of industrial knowledge that survive war and turmoil. But today, we have the Internet, which works far better than patent offices, with none of the costs.
+
+While politicians see patents as an easy measure of industrial power, the reality is far darker. Patents act as a legislative parasite that consumes the industrial base and replaces it with cartels and trolls. Essentially, as soon as patents are introduced into a sector and start to bite -- after a delay of five to ten years -- they tip the economics back to front. Producing new products becomes dangerous, while buying new patents becomes profitable.
+
+The damage is often invisible until much later. Large firms accept the cost of patent conflicts as the price of doing business and a useful barrier to smaller competitors. Small firms try to remain under the radar, assuming that trolls will not see them (yet). Patent deals are typically secretive, so most conflicts remain invisible. Since innovation cycles are often many years, and patents take many years to be examined and granted, everything may be going very well, for many electoral cycles, before the public lawsuits explode.
+
+By the time every large firm is embroiled in five, ten, a hundred patent lawsuits in parallel, it is too late. The only way to win a war is to buy bigger weapons. Eventually the trolls get their pound of flesh, the large firms all settle into comfortable cartels, the small innovators go elsewhere, and peace returns.
+
+The market is, by this stage, effectively dead. We get the Microsofts and the Nokias. Large firms do not innovate well. The general model is to buy smaller innovators and then mass-market those new ideas. But patent wars push small innovators out of the market.
+
+An optimistic viewpoint would say that parasites eventually reach equilibrium with their hosts, and it is only when they jump to new hosts that they are deadly. A pessimistic viewpoint would say that it is the newest fields of technology -- software, alternative energies, genetics -- that are the most essential to human survival, and the most vulnerable to the spread of the patent system.
+
+At their core, patents reflect an 18th century view of the market. The basis for patents is as valid as the old theory that disease spread by "bad air". We have used science and evidence to create progress in every other field. It is ironic that the patent system, claiming to be essential to progress, depends on old faith-based arguments that were discredited 150 years ago.
+
+So, we have an old discredited system that rejects reform, that infiltrates the political and business establishment, that turns living markets into zombies run by cartels and trolls, that spreads to vulnerable, essential areas of technology, that puts humanity's very survival at stake.
+
+++ Conclusions
+
+Patents are evil because they claim the work of many as the exclusive property of few, and do so by corrupting the political system to create laws to tax the many to profit the few. They are not a necessary evil, but an evil that feeds on greed and grows through silence. The patent industry cannot be reformed or contained. It spreads like an infectious, all-consuming disease, a cancer in the political and industrial body. There is no escape for firms small or large, no opt-out, no balance except the price-fixing cartels, political corruption, and technological stasis that typifies the telecommunications and pharmaceutical industries.
+
+And the patent industry is now infecting software and the Internet and modern communications, our digital lifeblood, threatening our very future as a species.
+
+Since no government or business is immune to the patent industry, the only force that can stop it is digital society. It will take decades of patience, brute political force, hard work, and personal sacrifice. If this sounds impossible, you are an ungrateful pessimist and you don't deserve the comforts of modern life. Your ancestors did all this for you, otherwise you'd still live in serfdom. You can't leave much to your descendants, but you can leave a better society for them.
+
+So I propose and call for the creation of a Freedom Fund that exists to give prizes to those who most successfully attack the patent industry, with campaigns, publicity, economic studies, boycotts, electoral campaigns, anything. The best model I can see is the fight to abolish slavery. If you want a slogan, try "End Patent Slavery". If I ever make a fortune from software, it will go to such a fund, not to my children, who need to learn to fight for themselves. But it's unlikely I'll live long enough to see this happen, so I leave it as a call to arms for others.
+
+Abolish the patent system by force. Close the patent offices, shutter the patent courts, and fire the patent experts and judges. Nullify every patent ever granted and build the freedom to innovate into your 21st Century constitutions. Burn the patent system to the ground, and consign it to history, where it belongs. There can be no compromise with a fatal disease.

@@ -1,0 +1,133 @@
++ Preface
+
+++ The Endless Fall to Free
+
+Every now and then, the hi-tech tabloids warn us that Moore's Law is about to end. For fifty years, this law has predicted the explosive rise of our silicon future. It can't last, we're told. And when it ends, the future will fall into darkness and uncertainty. But each time, scientists find yet another way to extend it, and we sigh in relief.
+
+However Moore's Law isn't some mythical beast that popped into life in 1965, about to vanish at any moment. In fact, it's one instance of a broad and ancient mechanism that has no intention of stopping. This mechanism, which I call "cost gravity", pushes the down the price of any given technology by about half every two years.
+
+Cost gravity affects our whole human world. It's driven by the spread of information and knowledge, inevitable and unstoppable. Every two years, any given technology will become twice as available, half the cost, twice as powerful, half as bulky. Any old technology is today effectively free except for natural resources and friction.
+
+Cost gravity has existed and will exist as long as life itself. Superficially, technology is a human thing. But broadly, all life is information-based, and subject to cost gravity.
+
+Take bacteria for instance. These are highly advanced lifeforms, evolving rapidly to survive almost any conditions. Bacteria share their genes like open source programmers share their code. Antibiotic resistance is scary not because there's one colony of resistant bacteria somewhere, but because these genes can pass to any other bacteria that need them. They've been found recently in the Antarctic. Genetic information flows through the bacterial world like knowledge flows through ours.
+
+Or, consider a living cell. More moving parts than a Boeing 777 but smaller than a micron. It's self-healing, self-reproducing, and self-organizing, and you might invoke the supernatural to explain such sophistication. But the real answer is that it represents three and a half billion years of cost gravity at work.
+
+In human society, cost gravity takes expensive technologies and makes them cheap. The curves are exponential, price to zero, power to infinity. Cost gravity doesn't just explain why so many things are cheaper than ever before. It also sets human history in context. It takes emperors' toys and turns them into commoners' tools, and as it does this, it drives profound social, economic, and political change.
+
+A vital new technology enters society as an expensive item for the wealthy elite, who use it to expand their power base. But it's the middle classes who build the products. The technology falls into their hands and they improve it aggressively. They compete for customers by making it faster, cheaper, more reliable. It enters mass production, and becomes available to all. The farmer and the laborer suddenly get access to this new power. Society shifts like bubbles in a lava lamp, new businesses emerge, and power moves from old to new.
+
+Of course, old money fights back, tries to squash the newcomers. It buys oppressive laws, builds police states, crushes the commercial middle classes. Old money sometimes wins, but not for very long. Political systems crash, and are replaced by new ones. The page turns and the story starts again.
+
+History books miss this process and focus on political changes and events without explaining why these happen. However, I'll argue that every great empire is born out of a monopoly on some vital new technology. Bronze, iron, the horse, irrigation, roads, military organization, finance. And inevitably, this essential knowledge spreads until everyone has access to it. The empire loses its monopoly, and crashes.
+
+It is hard to understand exponential curves. Our minds give up as we approach the infinite.
+
+The curve tends to look either totally flat, or like a straight cliff. We can look at history and collapse it into, "clean water and roads let the Romans build their empire", or "my portable phone has more computing power than the whole of NASA in 1962".
+
+But when I tell you that in 60 years, the average person on the planet will have, and use, more computing power than the entire Internet today, what does that mean to you?
+
+It's also hard to grasp because there's not one single technology to consider but millions. Which ones are key? Most probably, those that solve critical problems, yet are still too costly today for common use. Solar power, genetic engineering, advanced medicines, privacy, high-bandwidth communications, higher education, political organization, insurance, banking, translation, and so on. It's fair to predict that all of these, at least when the patents have expired, are affected by cost gravity and will be 1/1000th the cost in 20 years, one-millionth the cost in 40 years.
+
+Once we realize the curve has always existed and will always exist, we see there is no coming "singularity". What does happen, predictably, is that as the cost of key technologies falls below certain thresholds, they create explosive changes in society. While the curve is mostly invisible, it is these tipping points that we see.
+
+To take one historical example, paper existed for thousands of years but only in the 14th century did it become a mass market product. There is a theory that the Black Death left enough cheap linen clothing lying around to spawn the mass production of paper. It's possible. More likely, the price of paper just fell thanks to cost gravity below the critical level where any household could buy a printed book. At any rate, cheap paper broke the churches' monopoly on information, and opened the way for the renaissance.
+
+In the last decade we've crossed another one of those tipping points, as computing, once the key to global monopolies in finance and industry, dropped into range of our household budgets. Our 20th century empires are crashing, and we're witnessing that crash and the seeds of the rebirth.
+
+++ What Happened to Wall Street?
+
+In 2007 it was already clear that multiple bubbles (consumer credit, the housing market, the trade in derivatives) were going to burst, sooner rather than later. In 2009 banks and entire countries started to collapse. Today in late 2011 we are still picking up the pieces and the bill.
+
+Most of us were, are still, surprised and shocked. The common view (which is often accurate but when it's wrong, can be amazingly wrong) was that banks were invulnerable. After all, they were among the wealthiest institutions on the planet. They were literally where the money was. How can a bank's share price go down? Later, as bank after bank failed and had to be rescued by the tax payer, the general public was shocked. The only possible cause must have been corruption and fraud.
+
+For sure, corruption and fraud were present. As Naomi Klein wrote lucidly in "Shock Doctrine", any crisis is an opportunity for the mega-bandits to move in and empty the coffers. It's certain that some groups knew the banks would collapse, and bet heavily on that. But the crisis was long in the making. It was fully predictable, indeed it was inevitable.
+
+Here's why. Let's rewind 30 years and see how the banks work. We're in 1980, and banks are the shining cornerstones of our modern society. They are large, boring financial machine houses. The banks arbitrate between those who have money, and those who need it. It's a vital service and people are glad to pay for it. Critically, it's a service that takes vast amounts of computing power. Simply adding and subtracting and multiplying and dividing all those figures takes industrial-strength brute force. Banks have huge data centers: rows of blinking mainframes and humming disk drives, tons of heavy metal in massive air-conditioned halls.
+
+But silent and unstoppable, the spread of knowledge drives down the cost of computers. First, smaller and cheaper minicomputers spread into departments. Then the personal computer explodes into the home, university, and business. Large firms like IBM try to keep their prices stable, meaning they give their customers more and more computing power for the same price. The true cost of building a bank-sized data center drops by 50% every two years.
+
+So the older banks start to face competition from small aggressive competitors, especially as the Internet starts to make the front-office branch obsolete. The big banks grow by buying smaller local banks, which is easy since they have lots of excess capacity. They cut costs by shutting branches. They merge with insurance companies and expand their services.
+
+But all the time, competition is driving down profit margins. If your bank asks 5% per year for a mortgage, and another 1,000 km away offers 4%, it's an easy choice. Similarly if your bank offers 3% on deposits, but a foreign competitor offers 6%, where do you put your money? For years, in Europe, you could literally earn 2-3% more on deposits than you had to pay on a mortgage. Surely this was a clear sign of trouble? No, people just assumed there was some magic at play.
+
+Fast-forward a few more years, and banks' main traditional markets are close to worthless. The European single market means they face ever more competition. But they're in a trap, borrowing money from the stock markets in order to expand internationally, in order to compete. It's a one-way trip. If you don't make your quarterly profits, your stock price will fall and your cost of borrowing will rise. The only banks that escape are those who stuck to luxury products, the richest clients, and stayed away from the stock markets.
+
+So the large banks //have// to find ways to continue to make their 6% profit annually. And higher profits come only from higher risks. There is no other route. So, governments oblige by removing regulations, and banks get new high-risk space to move into. They push mortgages onto people who can not afford them. They push credit cards so aggressively that even a dog can get one. And as they accumulate more and more risk, they hide it from view by repackaging it all into derivatives that they sell those to stupider foreign banks. Eventually the trade in derivatives becomes the new territory and banks turn into bookmakers betting against themselves, taking a commission on each deal.
+
+Meanwhile cost gravity never stops. By 2010 the cost of running a 1980's bank has fallen by 32,000 times. If it cost $10 per month to handle one customer in 1980, by 2010 it costs just over $300 per month for 1M customers. And by 2052, $1 to handle the banking needs of every person on Earth.
+
+The collapse came because those ever-riskier bets didn't pay off. Even an idiot should have seen that coming, but smarter people fooled themselves. You may feel it was criminally stupid to make those bets. Certainly, it was immoral to have the public purse pay the debt, while still giving bonuses to all involved. In 2011, still not a single prosecution has been brought against anyone involved in the collapse.
+
+But every empire bets on borrowed time. It's always the same, whether the timescale is "next quarter" or "next century". Bank or beggar, life is always "so far, so good".
+
+Understanding that cost gravity underlies the banking crash lets us predict the future of banking. To some extent this is already happening. A Belgian state bank, ASLK, was privatized in the early 1990's. This year its multinational successor, Dexia, was nationalized to save it from bankruptcy.
+
+Banking is an essential service. But it cannot be profitable except by rolling back time, banning cheap information technology, or creating artificial barriers to competition. There are two outcomes. Europe, I believe, will nationalize its large banks, and turn banking and insurance into a service of the state, just as we've done here for the postal service, and public transport.
+
+America, which is still run mostly for private benefit of the wealthy, will dismiss nationalization as socialist, and instead grant its major banks monopoly rights over the market. It will enforce these monopolies with increasing force, until there's a second crisis. That crisis will probably come from ordinary people who see the banks, accurately, as an unbearable parasitism.
+
+++ The Digital Revolution
+
+When I started studying at the University of York, Computer Science wasn't yet a proper subject, just a mostly abstract (and mostly tedious) offshoot of mathematics. It took another ten years before I got my first modem, and connected to the embryonic Internet of email, news groups, and bulletin boards of the early 90's.
+
+Today more than half the planet directly uses a mobile phone, and the trend is moving rapidly towards full planetary connectivity. The number of mobile phone accounts (SIM cards) in active use in 2010 [http://swsi.info/sim2010 exceeds 4 billion]. The figure in 2007 was 3bn. Getting on-line -- even if 'only' via a shared mobile phone -- is the surest way to escape poverty, just as moving to a city has been the best way to escape poverty since the 19th century.
+
+The Industrial Revolution of the late 18th and early 19th century, powered by steam and coal, brought people into new cities where they redefined social, economic, and political reality. The new social concentrations of 19th century industrial cities allowed an entrepreneurial middle class to emerge, and quite rapidly their economic power turned into political power. In 1848 there was political revolution across Europe and the establishment of parliamentary democracy in many countries.
+
+And the Digital Revolution is having the same effect: people congregate into new communities, entrepreneurs build new economies around those communities, and form a new economic class. When their economic power exceeds that of their old "legacy" competitors, and as the fights break out, they begin to seek political representation, and political power. Political change follows economic change, which follows social change, driven by cost gravity.
+
+Technological revolutions express themselves as class struggles: the upper class is the "old money", those who were rich and powerful under the old system. The middle classes are the "new money", those who have adapted to exploit the new opportunities, breaking and redefining convention, and who are growing richer. The lower classes, unable to make the leap into the new social models, are excluded from the new prosperity. The true lower classes of the Industrial Revolution were not the factory workers, but those in rural areas who were unable to migrate to take part in the new city life.
+
+Old money fights back, using whatever weapons are available. Sometimes with guns and bayonets. But more typically, old money tries to restrict economic freedom, to throttle the life out of the new middle classes. Trade laws, repressive taxes, subsidies, whatever it takes to slow or stop their growing economic power.
+
+Few realize the role technology is playing in an ongoing revolution until it's too late to stop it. The emperor's old toy doesn't look disruptive until it's already in the hands of millions. But then come the laws banning, controlling, restricting the disruptive technology. Horses only for the nobles. Books only for the priests. As we'll see, these attempts to control and restrict the technology of the Digital Revolution are central to our story.
+
+In 1815, as the Industrial Revolution peaked, British land owners (the old money) enacted the Corn Laws to block the transfer of power to the new middle classes by taxing industrialization. The historian David Cody says, "After a lengthy campaign, opponents of the law finally got their way in 1846 -- a significant triumph which was indicative of the new political power of the English middle class." By 1850 the Industrial Revolution was over, and across Europe, power shifted away from land owners, and towards the new urban middle classes.
+
+In the early 21st century, the upper classes are the business and political elites who accumulated their wealth and power over the last fifty years. The middle classes are all those who "got connected", and the lower classes are those who cannot afford to get on-line. We will, over the next decades, see similar attempts by this generation of old money to throttle the growing power of the digital middle classes. And such attempts have actually been going on for some time.
+
+++ The Counter-Revolution
+
+What is the 21st century equivalent of Britain's 19th century Corn Laws? How is old money fighting the revolution? There are, I think, two main strategies: property laws and repression.
+
+The first is based on continuously extending the legal definition of "property" so that it appropriates whatever assets the digital economy builds. Property is entirely a political construction. Imagine an economy where the upstream farmers have easy access to water and dominate agriculture. Technology for irrigation and flood control falls to free, and the downstream farmers, who previously lived in a swampy delta, start to prosper. Up to then, water is not considered property. The upstream farmers, who control the political system, enact a new law stating that the water in a river belongs to whomever lives furthest upstream. The downstream farmers must pay exorbitant taxes, or go to prison.
+
+You'd think that a sane political system would do what "is best" for society, but it doesn't work like that. Laws are written by the powerful, purely for their own benefit. It's up to the downstream farmers to organize, gain power, and fix the laws. Democracy does not create balance in a society, it can only express those balances or imbalances.
+
+In the early 21st century, it's the set of copyright and patent laws that are lazily and cynically bundled together as "intellectual property". These laws are designed, just like those water laws, to tax the new digital farmers, and slow down or stop their growing economic and political power.
+
+The second strategy is classic good-cop bad-cop repression. On the one hand we have the bread of cheap goods and the circus of "reality" TV. On the other hand we have the bloody hand of the wars on drugs, terrorism, piracy, child porn, privacy. Our cities are blanketed by spy cameras, our networks monitored, and our police forces casually militarized.
+
+First we label the undesirables as dangerously anti-social: "drug criminal", "pedophile", "terrorist", "pirate". Then we lock them up, torture them, use them as slave labor, execute them. Those who raise a hand in defense of the undesirables are tarred with the same brush. 
+
+Society is measured by how it treats those outside the mainstream. In Norway, in 2011, a man who kills seventy-seven people for political reasons is labeled "insane" and treated as mentally ill. In other countries he would be labeled "terrorist", and tortured for years. Abuse of children is a terrible thing, but branding teenagers who send nude pictures of themselves as "sex offenders", with life-long consequences, does not protect anyone.
+
+We are often so afraid of losing our bread and circuses, and so easy to fear and hate others, that we're ready to give up our neighbors without a struggle. Often we clap as the authorities drag away the wretched law breakers. But the labeling continues. Next it's "extremist", "communist", "liberal", "union organizer", "intellectual", "atheist", and the midnight knock on the door is for our parents, our brothers, our children, ourselves.
+
+Torturers and brutes know no limits except those we place on them.
+
+++ Creating the Future
+
+Conflict defines us. It's out of the fight that new political structures emerge, for politics is essentially about organizing to win conflict, and then to prevent conflict. The new political structures of the 21st century will be unlike any we've ever seen before. All we have today are the seeds, but already those are international, anonymous, decentralized, self-organizing, fast, and accurate. When we say the Internet removes borders, this will one day literally be true. The political structure of nation states will, two generations from now, be as quaint as medieval city states, shires, and dukedoms.
+
+Just as with the Corn Laws in 19th century Britain, the injustices of the counter-revolution is driving a generation to political activism. Perhaps the first and most significant digital activist was Richard Stallman, who in 1989 nailed the GNU General Public License (GPL) to the church door. Today it's activists across the world occupying the squares and streets of our cities, demanding an end to the crony politics of the upstream farmers.
+
+I started to decrypt and document the dynamics of the digital revolution and counter-revolution in 1999, and then in 2005 took over as president of the [http://www.ffii.org FFII], a European activist network that fought software patents. We built websites and campaigns, organized conferences, wrote laws. They called us "anti-business" so we worked in suits and brought countless small business owners to speak.
+
+We tried to convince emerging Internet giants to support us. In the end, we were five years too early. At the time, Google had a single solitary patent lawyer, and refused to take the patent problem seriously and help us. While we defeated a huge army of lobbyists in the European Parliament in 2005, it was temporary. Every committed FFII activist burned-out and had to go back to a "normal" life. My own business went underwater for several years. No-one thanked us but that was never the point. It was fun to the point of addictive, to inflict such pain on the other side.
+
+The FFII is more or less shuttered now but it has spawned many successors like April.org and imitators like endsoftpatents.org. Younger minds, unhampered by 20th century conventions of style and reputation continue to deconstruct the concept of "organization". They are creating new activist communities capable of challenging entire governments. From FFII to Anonymous, we are the Anti-Corn Law League of the digital revolution.
+
+The scene is vast and global. While in the 19th century political change could be triggered by a single event in a single city, today's political structures reach into every pocket in the world. There is no dividing line between the battles over occupation of Tahrir Square in Cairo, and the endless patent lawsuits fought in the Court of Appeals of the Federal Circuit in Texas.
+
+The cheaper man always wins. Cost gravity can't be stopped except by burning the libraries and murdering every person with an education, and even that only pauses things for a generation. It has been tried, in Soviet Russia, Uganda, Cambodia, Rwanda, North Korea.
+
+As the official site of the UK Parliament notes: "//Growing pressure for reform of parliament in the 18th and 19th Centuries led to a series of Reform Acts which extended the electoral franchise to most men (over 21) in 1867//". The repeal of the Corn Laws was just one part of a wholesale transfer of power from the old to the new. The same will happen in the post-industrial world.
+
+++ Thanks and Credits
+
+//Software and Silicon// was meant to be a short article to explain to colleagues and friends why the Digital Revolution is real, inevitable, in progress, not negotiable. It grew out of a presentation I made to the European Patent Office in mid-2007. I wanted to explain how we (the cheaper man representing the digital future) were going to win. Just a matter of time.
+
+I dedicate this book to my lovely children Noémie, Freeman and Gregor, who will live in the world we are making today. I thank my wife Sylvie for her patience and understanding. Thanks to Jean Jordaan for proof-reading the text. Thanks also to my friends in the digital society for inspiring and educating me, and for fighting. Thanks to all those who dipped their toes into the water, and cheered or hissed from the sidelines. Lastly, to you, my reader, thank you for reading, buying, borrowing, or stealing this book or part of it. Quote it, mock it, reuse it, remix it, I hope //Software and Silicon// is as fun to read as it was difficult to write. //Vive la Révolution!//

@@ -1,0 +1,427 @@
+[!-- An Army of Monkeys --]
+
+In which I ask the question, "//if humans are programmed to do good, how does one explain the amazing talent we display for doing bad?//" The answer is: just as good on any scale comes from a wise crowd, big amounts of bad come from a mad mob. It's not about individuals but about how groups organize and are organized. In this chapter we'll examine recipes for turning a crowd into a mad mob, and perhaps how to fix some large scale mad mobs.
+
+++ Humanity as a Wise Crowd
+
+We live in a physical universe, and //everything// in it obeys physical laws that operate at many levels, from the quantum to the galactic. Each level has its own truths, all approximate but sufficiently accurate to work.
+
+The progress of human culture has been to understand more and more of these truths, including truths about ourselves. And as we understand more, we move problems from the domain of belief (where the answers are long, complex, superficial, and comforting) into the domain of evidence-based knowledge (where the answers tend to be shorter, simpler, profound, and brutal). At no stage has anyone done the reverse, to prove that science and evidence //were not// the best answer for a problem. Nor has this process slowed down, indeed it moves faster each day.
+
+Human culture seems evolved to mine truths. Like the ancient bacterial colonies that filtered particles of gold from the sea and laid them down over millions of years to form gold deposits, human society acts as an information processing machine. Each individual mind, for purely selfish reasons, collaborates with others to turn observed data into patterns of information, and then into reusable tools, i.e. knowledge. "Information" is a useful shorthand for "data, information, and knowledge".
+
+A collective intelligence operates as a social network that collects interesting problems. It then solves these by casting around for as many solutions as possible, even insane ones. It filters and remixes these solutions, testing them against the known facts. It tries them out, in as many diverse situations as possible. It finally reduces the set of possible answers down to minimal packages that can be traded and carried across generations. The better the collective intelligence, the faster it works and the more accurate (useful) its results. The more these results approach general truths, the more useful they are, to more people. Computer scientists may recognize a kind of problem-solving algorithm called "genetic algorithms". These work for very limited types of problems. If expanded to collective rather than singular intelligences, and with information trading and abstraction mechanisms, they should be more successful at solving larger problems.
+
+A collective intelligence needs ways to shift around information. Importantly, it must assign the right value to everything, because otherwise it cannot filter out the rare and valuably accurate pieces of information from the vast majority of junk. The best mechanism appears to be that each peer in the network places a value on the information they share, or are offered, and work accordingly. It's not as simple as placing a monetary cost on a whispered secret. Rather, peers will value other peers for their ability to deliver useful information, over time, and peers will maintain notions of information credit and debt with respect to others. In fact we can model collective intelligences as economies of information that operate according to the principles of specialization and trade in a free market.
+
+I'd argue that the basic rules for moving information around human society are economics. We specialize in our favored areas, and we trade information about those areas in what is ideally a free market. The ability to properly value information and other people, and to trade information is a sign of adulthood. A teenager is mature when he or she can take part "in adult conversation", which means entering the information market. Young women usually get there some years earlier than young men.
+
+The collective intelligence I'm describing is also highly gender biased. Whereas female minds are better at creating accurate information networks, male minds are better at discovering new problems and trying out solutions in practice. It becomes obvious that human society, rather than valuing one gender above the other, depends on both male and female mindsets to create an overall successful intelligence.
+
+And so the jet I am flying in is more "accurate" than the planes of 1920. It is faster, carries more people, is safer, travels further, and consumes less fuel per passenger mile. It is a truth, the result of vast numbers of information exchanges between individuals and groups.
+
+Looking at all the wise crowds from a distance, we see human society in its general form. Our history, over millions of years, is a long story of meeting stark challenge with radical cultural and technological innovation. Obviously, our species are the descendants of tough and smart survivors who found an answer for every single problem facing the family for over three point five billion years. High five! For all its many inefficiencies and dark aspects, post-ape human culture has been remarkably adaptable and successful. It seems fair to assume that the earliest roots of our particularly human culture was our ability to think collectively.
+
+How can I make such a broad statement? Well, it seems clear that the mental tools we need to construct wise crowds are built-in to our minds, thus evolved and not learned. I'm not just thinking of the language instinct though this is clearly fundamental. I'm also thinking of what I consider the social instincts: such as respect for authority and rules, willingness to collaborate, intolerance of cheaters, strength of identity, pride of accomplishment, memory of others' accomplishments, ability to calculate collective rankings, and so on. These are instinctive, visible in young children without prompting, consistent across all human societies, and irrepressible no matter what pressure is applied.
+
+So one nagging question comes back, why is there so much stupidity in the world when we're apparently so well-equipped to act as wise crowds? The answer is that sometimes stupidity beats wisdom, and just as we're born with the talent to create, we're born with the ability to destroy.
+
+++ Sports Break
+
+I remember the warm late summer of Brussels in 2000. Belgium was hosting the "Euro 2000" football tournament. Every day for several weeks, a match was played between two national teams, and every evening, two tribes of opposing fans would fill Brussels city center, the winning team parading for hours in open cars, honking and cheering, the losing team scowling in the shadows and drinking, and thousands of participants joining the raucous unplanned street party.
+
+After about two weeks of increasingly noisy nights, which began to turn to violence, the police moved in with riot gear. Surprised and confused tourists, taking the wrong turn through the historic heart of Brussels found themselves trapped between crowds of noisy beer-sodden youths throwing cans and dropping their trousers, and baton-waving riot police.
+
+As the police turned to dogs and tear gas, the rioters turned to pulling Brussels' famous cobblestones loose, and using them to demolish restaurants and bars in the old center. I watched the shocked patrons' lips still wet from after-dinner cognac, upturned tables used as shields from the incoming rocks. Then groups of plain-clothes policemen arrived and grabbed the rioters, using plastic cable ties to stop them running away.
+
+The riots turned from simple national vanity to full-on battles between Brussels' disaffected unemployed youth, and the State. Groups of scarfed youths ran up and down Brussels' alleyways, looking for fights, while TV camera crews looking for footage tried to keep up, and heavily protected policewomen (the first days) and much tougher policemen (thereafter) with shields and batons and dogs chased up and down in squads, blocking off whole sections of the city center, making dozens of arrests.
+
+Then, someone had the elegantly simple idea of simply turning off all the street lamps, and suddenly there was peace, the youths unable to see where to go, the TV cameramen unable to shoot their scenes, and the police cordoning off the city street by street until it was swept clean of troublemakers.
+
+++ The Face in the Mirror
+
+What makes crowds stupid? Can we even define what that means? Some crowds, like some individuals, may seem very clever, but insane. Excellent planning and execution, but totally misdirected. I believe it's about truth, and how efficiently the collective intelligence mines truth from the raw data the universe presents.
+
+Here's a crazy crowd: "they are parasites and we must kill them all" (speaking about some social minority or perceived alien threat). Here's a stupid crowd: "ooh, burning police cars! That's fun, let's smash some windows!" To get a grip on what can seem utter chaos, we need to see such patterns as inherently rational, but tipped into dysfunction by a number of factors. There is method in madness, and when we see the method, we are better equipped to deal with the madness.
+
+Let's look at mental disorders, since collective psychology is an expression of individual psychology. If we can understand how individual mental disorders can be "rational", perhaps we can apply the same approach to collective madness.
+
+Mental disorders range from caffeine addiction (yes, seriously) through to murderous sociopathy. As I was finishing this chapter, Breivik calmly tried to start a civil war in Europe by murdering what he called "category B and C traitors". His 1,518 page manifesto is the brain dump of an intelligent, educated, highly conscious, and utterly insane individual. It is not political, any more than it is religious. He takes a world of material, mostly mythological or plainly false, takes what confirms his biases and insecurities, turns that into a painfully-detailed rationalization, and then uses that to commit acts of pure horror.
+
+Breivik's internal fractures turn into catastrophic mental failure as he reaches adulthood. Instead of getting help, he finds cause in the politics of hate that are sweeping Europe. Immigration always provokes resentment, and politicians always play on that. But everyone is supposed to understand it's a game. Except minds like Breivik, who use the "Islamic threat" as a mental life-belt. The more he can blame Marxists, feminists and Arabs, the more he can frame his mental failure as enlightenment, and his isolation and sociopathic tendencies as necessary attributes of the Warrior.
+
+So while politicians play with fire, Breivik's very survival depends on his burning down the house. The more time and money he invests in his delusion, the more it becomes his a reality. And then his reality hits ours, children die, and he sits, calmly, in prison, waiting for his time at the microphone.
+
+The [http://swsi.info/dsm Diagnostic and Statistical Manual of Mental Disorders], aka DSM listed 297 mental disorders in its 4th release in 1994. These are categorized in various dimensions. DSM-IV makes [http://swsi.info/dsmpdf interesting reading]. What's particularly striking is how many symptoms of crippling personality disorders are present in general society, people we know, even ourselves if we look carefully. For example, [http://swsi.info/pdexec in business executives], histrionic personality disorder, narcissistic personality disorder, and obsessive-compulsive personality disorder scores were as high or higher than that of disturbed criminals.
+
+Consensus seems to be that most personality disorders are strongly hereditary, with environmental triggers. However there seems to be a paradox: how can genes that make us so dysfunctional -- self-destructive, and often suicidal -- be the result of natural selection? The same paradox applies to groups: how can collective violence and stupidity be based on heritable instincts, when they seem clearly counter-productive?
+
+The simplest answer is that "being functional" is highly context-sensitive. In societies with enough food, being tall is advantageous. In societies that live on ecological margins, being short is an advantage. The result: tall cattle herders, short forest pygmies. Your genes define how tall you might become, but your health and diet -- and that of your mother -- defines how tall you actually do become. In a tribe of herders there will be a too-short man whom everyone laughs at. And in a tribe of pygmies, there will be a tall lanky woman who keeps hitting her head against the branches.
+
+It's quite probable that many spectrum mental disorders are like this: evolved aspects of social behavior that become dysfunctional in societies that have no use for them. In some (violent and unstable) societies, being manipulative, charming, egocentric, and lacking all empathy for others is a winning strategy. In other (peaceful and stable) societies, it's a mental disorder. In some societies, the ability to instantly project powerful emotions is a key to survival. In others, it's disruptive and anti-social.
+
+A small amount of instability can make people attractive, so long as it's combined with being smart and pretty. Many men classify women along a "crazy-beautiful" chart. It's not just that we men tolerate more craziness in prettier women. It's that we actually expect it. And as Waylon Jennings sings, ladies love outlaws. I'm certain a major difference between business executives and disturbed criminals comes down to intelligence and looks. In other words, the ability to fool others sufficiently to not get into trouble.
+
+So it's fair to assume that the genetic infrastructure for mental disease is present in many of us. If these genes were really uneconomic, they would gradually disappear, like the genes for tails. What typically happens is that [http://swsi.info/scd one copy of a gene is good, and two are bad]. In simple one-gene cases, the gene will propagate to about 1/4 of the population, and approximately 1/16th will have the fatal double copy.
+
+Personality disorders affect [http://swsi.info/natpd about 9%] of the adult population, and individuals with one disorder often have others as well. For specific disorders, the rates are about 1-2%. The mechanisms that produce dysfunctional individuals are more complex than the gene for sickle cell anemia. There are many genes involved, and social behavior -- like height -- is affected by social diet.
+
+So, my hypothesis is that personality disorders -- at least -- are the result of highly evolved social instincts that become exaggerated and unbalanced due to genetic concentration, and environment. The more our social instincts evolve over time, the more that personality disorders will be with us, at least latently. It's safe to say that the diversity of mental disease correlates with the complexity of the mind.
+
+For most people with mental disorders, which tend to appear at young adulthood, there is no cure, only management. By the time the mind is adult, it's already shaped in ways that can't change. Psychologists are looking to recognize personality disorders in younger children, to allow more successful intervention.
+
+Crowds, unlike individuals, can tip rapidly between states, as circumstances change. So while the psychiatry of individual mental disorders is a slow, painful, delicate process that focuses on management, not cure, the psychiatry of crowds can be quite fast and brutal.
+
+Our basic hypotheses is that as many mental disorders may in fact be valuable strategies for social success, taken to self-destructive extremes, insane crowds may be expressing successful strategies, taken to self-destructive extremes.
+
+++ Natural Born Killers
+
+In the 20th century there were two main schools of thought regarding to humanity's bad habits. The first was that these are cultural, and can be fixed by imposing cultural change. The second was that these are genetic, and can be fixed by steering natural selection. Both these views led to massive violence and suffering, proving first that it requires great force to bend society in any direction, and second that trying to "fix" society is itself an insane act. G. K. Chesterton, an early critic of eugenics, wrote of the United Kingdom's Eugenics Laws that //the State has suddenly and quietly gone mad. It is talking nonsense and it can't stop.//
+
+If there was consensus by the late 20th century, it was that trying to change society by selectively killing or sterilizing those we considered "unfit" was worse than mass brainwashing. We tolerate dictators so long as there isn't mass murder going on, and we don't actually have to live in that country.
+
+However, around the end of that century, evolutionary psychologists began to uncover some rather different truths about human nature. First, that it is most definitely evolved. Second, that the evolution is carried both in genes and in culture, inseparably. Without learning, our inborn mental tools can't develop. All human languages come from a single common ancestor, just as all human genes do. Third, that human nature, like culture, is a rich collection of strategies, which we can select and shape according to need. Our ability to adapt our mental tool-set to new circumstance is as much a product of our evolution as the tool-set itself.
+
+Thus, instincts are our basic inherited toolset, and culture is the learned strategic expression of those tools. We are born with instincts for sharing, fairness, collaboration. But also with instincts for opportunism, deception, violence. Depending on the economics of the culture we grow up in (which itself depends on geography), we select, develop, and sharpen specific instincts over others.
+
+To appreciate human culture you have to be able to abstract yourself from it. This is like appreciating the beauty of all life, even as one tries to kill a mosquito. All culture, no matter how strange, is a surviving strategy. There is no "forwards", and no "backwards" except from the seat of our own prejudice. We can -- and should, I think -- strive for fairer, more pleasant societies, but there is no basis for claiming that these are //better// in any objective sense. Oppression and genocide are often better for the environment than democracy and growth.
+
+The science that sociologists should practice is this: observe people in their best and worst moments, and reverse-engineer the underlying instincts that are at work, if necessary by analogy with other animals (this is what evolutionary psychologists do). Then create hypotheses about what cultural strategies are at work, try to disprove these hypotheses, and eventually use the surviving hypotheses as guides for social regulation.
+
+Let's go back to violence. The majority of male-on-male violence is and has always been either over women or over status. These are much the same thing in the politically incorrect male mind. Honor feuds are a fact of life for most pre-industrial societies, and they typically run between families, to the extent that new tribes are often the product of a feud that forces [http://swsi.info/eric one individual to leave, together with his close family].
+
+It makes sense to assume that instincts for attachment to, and violent defense of, the tribe and tribal territory are deeply embedded in the human psyche and genome. The human story has often played out in pockets of valuable territory, refuges of fertility, security, food and water, embedded in wastelands of semi-desert or forest. Until about five hundred years ago, most of humanity lived where their ancestors first settled, having pushed out any previous owners. The main migrations as we walked away from or through Africa were either into empty territory made accessible by lower sea levels and by retreating ice caps, or away from encroaching deserts and ice caps.
+
+Over millions of years, groups of our ancestors repeatedly clashed over water, food, and above all, territory. Any group that split and ran would be exterminated. Individual preservation means nothing; survival when attacked lies in loyalty to the group, strong herd instincts, and ability to react violently and emotionally to defend the tribal turf. He who runs away may live to fight another day, but we're not gazelles, and lone survivors tend to starve. We don't generally scatter and flee when confronted, we fight.
+
+This is deeply embedded in our ethos and mythos. The hero is not the one that escapes, he's the one that prevails. This is worth repeating because if running away was a successful strategy, it'd be sexy. The market is brutal about how it values genes with survival value. And cowardice is sexy in no culture, no place or time.
+
+Of course life is not, in most places and times, confrontational. Though we notice the wars, they are spaced with long periods of peace. But the thing about violent confrontation is that it just take one mistake to lose one's life. Peace is not risky but being too nice in a time of violence is the kind of mistake that wipes out entire genetic lines. If anything, our genetic heritage would err on the side of too much, rather than too little, capacity for violent tribalism.
+
+I suspect most of us carry the instinct for murder -- at least for physically violent self-defense -- but also strong instincts for suppressing that. Most conflicts are not violent, just jostling for relative advantage. We've sublimated huge chunks of our tribal violence into sports, politics, and other non-lethal status competitions. Many species do this. Male elephants fight over dominance but those tusks are for show and intimidation, not murder. Other people may be a threat in some senses but they also represent a valuable genetic and economic resource. Only an insane or starving society actually moves to mass killings.
+
+As human society has gotten more sophisticated and less dependent on raw natural resources, it has also devalued the need for aggressive tribal emotions. We can achieve much more today by dialogue and trade than by simple aggression. Still, our instincts for tribalism are deep and old, and only superficially covered. They come out easily when provoked. Ask someone where "they are from", then say something less than polite about that country, watch the reaction.
+
+I cannot speak for how women see tribalism, but in men there are two broad categories, the "jocks" and the "nerds". The jocks tend to sports, the nerds to intellectual pursuits. Speaking as an intellectual, I can vouch shamelessly that nerds are over-all more intelligent, have better looks and genes, and more like to thrive in the digital society. But I've never met a male that was immune to tribalism.
+
+The main difference is that the jocks just do it without comment, as if it was obvious. The nerds, on the other hand, back their tribalism with endless self-justification that can turn into formalized dogmatic collective insanity in the worst cases. The jocks may be the ones shouting and wielding the sticks, but it's the nerds who invent the slogans and ideologies and build the political machines behind the genocides.
+
+++ Stupid, Mad, and Bad
+
+A Serbian soldier in Bosnia, asked by a journalist why they had not opposed NATO, after so many years of swearing they would die to build a Greater Serbia said, "we may be mad, but we're not stupid". I speak sometimes of madness, sometimes of stupidity. When we speak of an individual, the two properties are quite different, as the Serbian soldier tried to explain. When we speak of a large group of people, madness and stupidity are intimately related.
+
+In general, collective stupidity is a precursor to collective madness. When someone asks me to explain Nazi Germany, I give them this explanation: "//By 1930, Germans were collectively stupid, having suffered a war, loss of empire, punitive reparations, and hyperinflation. The German middle classes, especially, were bankrupted and in a state of shock. This made them easy prey for an aggressive takeover by a small group of thugs who rightly saw the weakened German state and depressed middle classes as vulnerable. Using nationalism, xenophobia, and racism, these thugs used populist rhetoric to take control over the state via the ballot box. They then built a power system increasingly based on propaganda, a climate of fear, and selective brutality. In 1933 they were strong enough to stage a coup and create a one-party state. The Nazi party took control of the army, and from 1934 to 1939 instituted a dictatorship based on fear and elimination of all dissent. By 1939 Germany had gone collectively insane to the point where it committed genocide and then self-destructed in a war it could never win.//"
+
+There are many more complex explanations, I know. Mostly they try to blame the German people in some general way, or else focus on the question of relationships between the Jewish community and its host nation. My answer to such explanations is: by treating this as a special case, you learn nothing, or you learn the wrong lessons. Everything is a special case, that does not mean there are no patterns to learn from.
+
+When a clique of thugs decides to take over a country they have to first make it stupider, and keep it as stupid as possible. This is priority number one for a ruling political elite that has something less than peace and reconstruction in mind.
+
+++ Sporting Colors
+
+[http://swsi.info/nika History tells] of entire cities riven by rivalries over sporting colors. Set a class of teenagers in a hall, divide into two, give one half blue arm bands, one half red arm bands, say nothing more, and watch what happens. They will mill around, abandoning friends with the "wrong" color, and sticking closer to those with the same color. The two sides will measure each other and see which is superior. If there is a clear difference the weaker group will cow and lower their heads. If they are equally matched, the two groups will move silently towards confrontation.
+
+There are variations on this experiment. Ask just half a class to wear arm bands of one color for a week. At the end of the week, ask who found the experience enjoyable, those with the arm bands, or those without. Now repeat the same experiment with another class, and this time get the teacher to also wear the arm band for the week. This was what happened in Constantinople, when the Emperor choose the blue side.
+
+These are simple exercises that demonstrate how trivial it is to divide groups. I've not actually tried the first experiment, it's theoretical. As Suroweicki listed criteria for creating a wise crowd, I'll list some that appear to destroy a crowd's wisdom:
+
+* Anything related to sports or politics (as in the US, where politics is a form of sport).
+* Any situation where there are spectators to witness and enjoy a conflict.
+* Focus on issues that provoke tribalism: ethnicity, language, religion.
+* Focus on issues that are strongly emotional and have no clear evidence-based answers.
+
+Although I don't aim to be a political writer, politics does often provide the most tangible examples of mad mobs. US politics, to take a large example, has all of the above criteria, and tends to produce nonsense answers like the election of transparently incompetent and unethical presidents.
+
+Some commentators have suggested that those who profit from such election results actually drive public opinion this way, by focusing debate on emotional but unsolvable issues, by discussing tribalism-invoking issues, by creating spectator masses through television, and by giving political events the same look and feel as sporting events (except for the lack of cheerleaders).
+
+One might even argue that mainstream political parties are like the red and blue armbands: symbols of division lacking substance.
+
+If we accept the analysis that US politics is largely about //not// discussing the real issues, it should be a simple recipe to turn the mad mob of US democracy into a boring but sane wise crowd. First, ban television coverage of party politics, and ban televised political advertisements. Second, treat discussions of sex, religion, ethnicity, or language in political debates as immoral, rude and unethical. Third, ban public political events. Last, ban party colors, slogans, and other tribal marketing.
+
+You might say such a democracy could never function, but actually there are many countries where this is how things work, more or less. They tend to produce boring but competent governments that do not steal billions, do not declare war on other countries, do not spy on their own citizens. Much of Europe is governed by such policies, formal or informal. The only cases in Europe where government starts to go mad is where tribalism gets added to the mix, like Belgium in certain seasons. But for the last year Belgium has worked, well, without any elected federal government at all. I'll come back to democracy a little later, it's an interesting subject that benefits from some hard truths.
+
+++ Stupidity is Not Random
+
+I've looked at some main causes for mad mobs: territory, tribalism, religion, sports, politics. But there are many factors that make groups less intelligent without turning them into hooligans. There are degrees and shades. Here are some things that I think make people collectively stupider. They're not all obvious:
+
+* //Too much education//. The problem here is that post-graduate education tends to reduce diversity of opinion: academics in a particular field will all study much the same material and it is easy for speculation to become dogma, in areas where there is no data and no science. With apologies to my friends and relatives who are academics, I believe that academia with some exceptions scores low on the Collective Intelligence Index, even if individual academics are often brilliant.
+
+* //Television//. TV really must be one of the most costly inventions ever, in terms of direct productivity wasted through lost time, and indirectly through lower overall intelligence of a TV-viewing public. Why does watching TV make us stupid? Because it has a very strong effect on how we see the world, and when millions of people see the same programmes, their overall diversity of opinion is reduced dramatically. This is obvious with propaganda TV but it's present in all mass media.
+
+* //Sports//. You've probably guessed I'm not a great fan of sports except as a form of exercise. Beach volleyball, also, can be fun to watch. But people who enjoy collective sports just seem... less sharp. Perhaps it's because sports are about physical, not mental, skill. Or perhaps because competitive sports are highly tribal and emotional, features that make crowds dumber. I've no hard proof that lower intelligence correlates with appreciation for sports but it seems to work that way. This does not mean sports cause stupidity, it could be the other way around.
+
+* //Belief in the supernatural//. Religion has its uses, like all our social instincts. Basically -- this is my story, take it or leave it -- it lets us delegate responsibility for disasters that have no logical explanation, while keeping our logic for things we do understand. Without the capacity to believe in imaginary super-beings, we'd have to try to analyze and solve every single flood, drought, illness, and accident. And since the world is full of accidental disasters beyond our control, we'd go crazy. Normally, as science explains more and more of the world around us, and technology makes our world more and more predictable, religion should decrease. This seems to be the way it works. But whatever its causes, religion definitely makes individuals stupider, and groups extraordinarily stupid. Organized religion seems designed to grab an absolute zero score on the Collective Intelligence Index.
+
+* //Tribalism//. All modern humans are descended from about 10,000 individuals who lived about 300,000 years ago, and all non-African humans from a far smaller selection. Anyone who thinks their particular family tree makes them special is as crazy as a Cardinal. True, some genes seem more fit than others, and some family trees have more of these genes. But there is zero correspondence between good genes and "ethnic origin", except in reverse: the more isolated and homogeneous a gene pool is, the more likely it is to be filled with bugs. The evolutionary justification for tribalism ended perhaps five thousand years ago, when the technologies of agriculture and portable trade goods (currencies) made it more profitable to work collectively than to fight over patches of hunting ground or watering holes.
+
+* //Language identity//. Not for nothing does the digital society refer to some of its most intense and useless fights as the "language wars". People get attached to languages but this attachment makes them stupid. All languages are good for something. French for arguments, because you can shout for ten minutes and say nothing. English for business, because its so easy to pick-up and so hard to master. German for poetry, because... well, just because. Japanese for secrets, because it is actually four languages depending whom you're talking to. Italian for traffic directions, because it always involves much hand-waving. Spanish for stories, because of the wine. A language is like a social credit card, and a pragmatic person learns as many languages as he or she can afford. But one should never //belong// to a language.
+
+* //Anything that homogenizes our lives//. This is a long list, because industrial society is so good at producing endless identical products: same cars, same houses, same clothes, same food, same music, same culture. I'm going to risk annoying some Americans by saying that the homogeneity of the American life really explains a lot. I believe there is a direct causal relationship between the strip-mallification of US life and the inability of most of American society to develop sophisticated answers to elemental questions such as "how free is a person?" Europe is sometimes mocked for having too many languages, too many borders, but in my opinion it is Europe's diversity that has kept it sane, at least since the end of WWII and the end of European empires.
+
+++ Society vs. the Individual
+
+The state of US political debate may be the accidental result of a young culture that has not developed real depth and interesting cities, but in many times and places the eradication of free thought and the creation of a mad mob has been a primary objective of those in power. It's mainly because one of the first things the bakers (from Appendix 1) try to do, when they get power, is to reign in the corrupt, oppressive, and incompetent bandits. The right and left have a common enemy, namely the center.
+
+I've used the term "collective intelligence" in a generally positive sense, but collectives are not necessarily benign entities. Historical collectivism has often been marked by ruthless suppression of individual rights, and this creates remarkable quantities of collective stupidity.
+
+There is always a tension between the individual and the group, and the quality of the group depends on getting the balance right. The theme of the individual's fight against society's injustices is a classic story, repeated in countless pieces, from Death of a Salesman to Orwell's 1984. But it is an incomplete story. Orwell's real story is that strong individuals make wise groups, and that the most effective way to crush the natural resistance of a society to tyranny is to weaken its individuals.
+
+In other words: if a political or economic elite wants to prevent the rise of a wise society, that would overthrow the elite and replace it with a meritocracy, the best attack is on individuals' ability to form wise crowds in the first place.
+
+This is not as difficult to do, nor as uncommon as it might sound. Indeed, states a nd organizations throughout history have, and still do, spend vast amounts to research, develop, and apply such practices. They are rarely documented as a whole. Yet there is a pattern in oppressive societies, and once we recognize it, we see the same pattern appear in many other places, small and large. Businesses, cults, religions, prisons, schools... even in the simplest personal relationships, individual strength can be attacked in the name of the group.
+
+My own studies on this subject started in 1999 when I started to look at how cults brain-washed their members. Software is how I make money, but people are what really interest me. Broadly, we can identify five main families of techniques to crack the individual human mind:
+
+# Break down the sense of individuality.
+# Remove external balancing influences.
+# Destroy the ability to evaluate critically and logically.
+# Create a climate of fear that undermines resistance.
+# Create strong dependencies on the group.
+
+Backing most groups that employ these techniques is a Promise. It could be personal salvation, business success, academic achievement, wealth, glory, security, or simply a chance to belong. It's kind of a mission, in the Social Architecture sense, but one that appeals directly to self-interest and emotion.
+
+All of these techniques depend on taking human social instincts and using them against the victim. Just as our instinctive appreciation for rich foods can be turned into a slavish dependence on industrially-produced fat-sugar-starch-salt mixtures with artificial color, flavor and preservative, so an instinctive desire to be part of the group can be turned into a slavish dependence on the group. Let's take these in turn. See how many you recognize in your company or organization. I'm sorry if the following text makes you feel sick. Some aspects of human nature are not pleasant.
+
+First we -- a hypothetical elite of bullies determined to turn our victims into compliant slaves -- undermine the victims' sense of self by enforcing a homogenized environment and attacking the internal sense of privacy and self:
+
+* **No personal environment**. Eliminate private workspaces and living spaces, and create communal areas. Do not allow the victims to personalize their spaces. Enforce "order" and sterility of all spaces.
+
+* **Force a standard diet**. Don't allow the victims to find or prepare their own food, or to choose the times they eat. Turn meals into a form of discipline and use dietary control as a form of punishment and reward.
+
+* **Assign tasks from above**. Don't let the victims chose their own work, and make sure that they work on tasks that are tedious and unrewarding. Use task assignment as a form of punishment and reward.
+
+* **Enforce standard clothing**. Don't let the victims dress freely, but force a style of clothing that is plain, boring, and unflattering. Punish creative clothing expression. To promote a more violent herd instinct, use uniforms.
+
+* **Force a rigid private language**. Invent a complex technical or business jargon, or religious mantras depending on the context, and force the victims to use this language. Change the language arbitrarily.
+
+* **Eliminate private thought**. Force the victims to undergo regular psychological evaluations, or prompt them to explain their feelings of weakness and inadequacy to others. Make it an offense against the group to harbor private thoughts.
+
+* **Use verbal or physical abuse**. Expose the victims to rude nicknames and disparaging remarks, sexual innuendo and harassment, and regular arbitrary violence if necessary. Use verbal or physical abuse as a form of punishment for invented "crimes".
+
+In all these cases, we can use the various forms of deprivation as a form of punishment, and normalcy as the reward for collaboration. Thus, in a large corporation that puts its unhappy staff into cubicles and enforces a "clean desk" policy (where every aspect of personalization is removed by the cleaning staff each evening), the managers will get private offices.
+
+Having established various ways to attack the individual's sense of self, we next need to convince the victim that this is "normal". We do this by making it hard for the victim to find balance in other parts of his or her life:
+
+* **Take over private life**. Break down the barriers between private and group life so that the family cannot act as a balance. Bring the victims' families into the group, and make sure those families feel all the pressures and stresses of the organization.
+
+* **Create financial dependency**. Make sure the victims' familial economic well-being and children's education is under your full control. Create debt that can never be repaid. Create internal currencies that victims can only spend in your establishments. Devalue these currencies arbitrarily. Make access to real money a privilege of power. Think of Zimbabwe's 1,000,000,000% inflation rate and how that helped Mugabe stay in power.
+
+* **Create emotional dependence**. Encourage the victims to rely on the group as a source of emotional stability, above the family. Make sure people consult the group, not their spouses, for emotional issues. Bring the spouses into the group.
+
+* **Create social dependence**. Make such demands on the victims that they are unable to spend enough time with family and friends. Replace that lost social life with an empty alternative. If necessary, actively demolish family ties by calling these "selfish" and "old-fashioned".
+
+* **Control every second**. Do not allow the victims to govern their own lives: demand long hours so the victims are tired and don't follow their natural activity rhythms. Create arbitrary and unpredictable schedules and enforce these rigidly.
+
+By making it impossible for the victims to live balanced lives, it's much easier to mess with their minds. But people have this annoying habit of thinking about things, while they're doing mindless tasks, alone in their sterile cubicle. So we need to disrupt their ability to make logical evaluations:
+
+* **Separate the genders**. Do not allow women and men to mix except in controlled situations. Ensure that no dialogue between women and men can exist, even between spouses. Create parallel, separate worlds for the genders so that information and knowledge cannot flow between the genders. This ensures that women are powerless, and men aimless.
+
+* **Develop complex doctrines**. Force the victims to learn doctrine and listen to long and complex lectures on subjects that make no sense. Fill their brains with junk, invented language, and complex artificial models, so they cannot process information properly.
+
+* **Suppress discussion**. Discourage or actively prevent the victims from voicing their opinions on important subjects, and from taking part in the decision-making process. Restrict tools -- like writing or the Internet -- that enable people to turn data into information and information into knowledge.
+
+* **Encourage childishness**. Encourage the victims to act in childish ways, individually or with each other. Ensure a childish compliance of nonsensical group behavior, and acceptance of authority.
+
+* **Ban private contemplation**. Make sure the victims cannot find time and space for daily private contemplations. If you do allow time off, ensure people are distracted by fake issues so that they do not think about the real issues.
+
+* **Create mindless games**. Encourage or force the victims to take part in games with arbitrary, silly, and inconsistent rules. Make these rules an important code of conduct for their daily lives, so disrupting their ability to build accurate mental models of the world.
+
+* **Use silence and noise**. Enforce silence at times when people would naturally prefer music or chatter, such as when working. Use loud machine noises to make meals unpleasant, and so that people cannot socialize.
+
+It's still not enough. Some stubborn people, even if messed with, isolated, and baffled, will recognize that something is wrong, and resist. We fix this by creating a climate of fear that suppresses the remaining trouble-makers:
+
+* **Create power structures**. Tell victims that even if they know people are exploiting them, they must accept it because one day they will be able to exploit others. If necessary, make acquiescence a condition of survival.
+
+* **Use arbitrary punishments and rewards**. Make sure victims never know whether their actions will be rewarded or punished. Make them afraid to take necessary risks for fear of getting into deep trouble. Make fear a central part of the relationship between group and individuals, and then call it "love", as in Orwell's Ministry of Love.
+
+* **Over-regulate every aspect**. Write a rule book that controls minor and personal aspects of the victims' behavior, such as when, where, and what to eat, what to wear, and how often they can go to the bathroom. Make the rules petty, detailed, and inconsistent. Make them impossible to not break.
+
+Finally, stop people leaving by making them absolutely dependent on the group. We do this by exploiting the social instincts for belonging and behaving:
+
+* **Demonize the outside world**. Use repeated and detailed propaganda to paint the outside world as a terrible place, so that the group comes to see itself as an island of sanity in a world gone mad. Invent or provoke situations of conflict with the outside world so that the group feels collectively threatened.
+
+* **Abuse the need to belong**. Pressure the victims into accepting unfair and unpleasant conditions simply because if they want to belong to the group, this is the price to pay. Ensure that rejection is always a tangible and close possibility. The threat of expulsion can be more effective than a high wall.
+
+* **Abuse the tendency to imprint**. Push the victims to behave in ways they would normally reject, simply because the rest of the group also behaves in these ways. Make such behavior one of the conditions of membership.
+
+* **Abuse the need for approval**. Use approval from peers and superiors to get victims to accept conditions and do things they would normally reject. Isolate victims from uncontrolled sources of approval.
+
+* **Manipulate feelings of guilt**. Allow the victims to break arbitrary rules, then get peers and superiors to ask them to "make it better" by accepting some punishment. Or, when one person breaks a rule, punish another person.
+
+There are some institutions that make a profession of these techniques, including but not limited to armies, schools, prisons, and many corporations. As the Wikipedia entry on "Institutionalization" says:
+
+> In a corporate context, individuals who work within large established organisations can become socialised into organisational values and norms, and values and norms may become institutionalised. It has been suggested by some writers that such supportive structure and routines may in some cases lead to a narrowing or reduction in individual critical judgement and reasoning.
+
+In the above list of cult techniques we also see much of the explanation for Nazi Germany, North Korea, Zimbabwe, Cuba, Central African Republic, Amin's Uganda, and so on. Of course countries are a lot more complex than Jonestown, but the model works at all scales of human society.
+
+++ Anti-cult Management
+
+All this talk of how to hurt people is depressing. Let's take a small detour to something less unpleasant, and comfortably boring. I'm going to write a very short guide to management, based on my experience that //reversing// these various mind-hacking techniques tends to bring out the best in individuals. You might want to mix and compare these with the Social Architecture for Managers techniques in Appendix 2.
+
+Here it is, check how many of these apply to the place where you study or work:
+
+* **Personal environments**. Ensure that everyone has private space for working and living, where they can make as much mess as they like, so long as it's not actually unhygenic.
+
+* **Hunting and gathering**. Allow people to eat what they like, when they like. Force them to get out during the day and walk around to find their food.
+
+* **Assignment of tasks**. Allow people to choose their own tasks, or agree with their peers about the division of tasks.
+
+* **No dress code**. Allow people to dress freely, in suits or t-shirts as they like.
+
+* **Linguistic freedom**. Encourage people to speak naturally, and to invent their own jargons as needed.
+
+* **Respect mental privacy**. Respect private thought, and do not employ psychologists on the staff.
+
+* **No abusive behavior**. Do not allow bullying, sexual or physical harassment, or violence.
+
+* **Respect private life**. Leave the families out of it.
+
+* **Financial independence**. Ensure people are sufficiently compensated and do not fall into debt.
+
+* **Separate work from emotions**. Do not use the workplace as a replacement family.
+
+* **Encourage social lives**. Ensure that people work normal and flexible hours, from home if they want to.
+
+* **No clock watching**. Allow people to govern their own lives and schedules.
+
+* **Mixed teams**. Allow women and men to mix freely, so they create more diverse groups.
+
+* **Keep things simple**. Remove doctrine and arbitrary complexity so that people can think more clearly.
+
+* **Encourage discussion**. Actively engage people's opinions on important subjects and encourage them to think collectively.
+
+* **Encourage maturity**. Treat people like adults, not children.
+
+* **Private contemplation**. Make sure people can find time and space for time by themselves.
+
+* **Don't play games**. Keep things serious in the workplace, use social life for games.
+
+* **Noise and silence**. Allow people to choose the sound environments they prefer: music, silence, chatter.
+
+* **Flatten power structures**. Promote on the basis of merit, not because people have accepted unpleasantness before.
+
+* **Use transparent feedback**. Make sure people know exactly when their actions will be rewarded or punished or ignored. Make it easy to take necessary risks. Never use fear.
+
+* **Under-regulate**. Avoid rules except when they are absolutely needed, and proven to help.
+
+* **One world**. Foster links with other organizations and keep the organizational boundaries fuzzy.
+
+* **Freedom to leave**. Never try to bully or blackmail people into staying, make it easy to leave or to participate only partially.
+
+* **Everyone is normal**. Don't try to make people adopt alien behaviors, unless it's a matter of quality of work or life.
+
+* **Approve merit, not compliance**. Provide people with feedback on their work, not their behavior, and especially from sources outside the group where possible.
+
+* **Never use guilt**. Keep the rule book simple, pragmatic, and enforce it even-handedly.
+
+In other words: //make your team feel individually special, give them lots of private time, expect them to be critical and logical, use clear rules but never fear, and ensure that people always want to be in the team//.
+
+++ Causes and Effects
+
+Have you ever in your life made a decision based on actively going against what seemed your best long-term interests at the time? If you say "yes", most likely the circumstances involved some distortion of judgment: gambling, love, drugs. We do, as far as I can see, act fully "rationally", where decisions are based on our available data, experience, calculations. In philosophy [http://swsi.info/will this is called "determinism"], but the notion that reality is deterministic doesn't hold water. No observation is perfect, no single mind can see reality accurately, and all decisions contain a portion of randomness, as we weigh between options that appear similar. Wouldn't it be funny if the human brain literally had a random-number generator built in to it somewhere?
+
+The philosophical arguments between free will and determinism seem bogus. Neither explain our behavior accurately. The strongest model, and the only one that is compatible with the scientific facts of evolution is that we're economic animals: we act in our own self-interests. Free will is, in my view, a construction that helps us work better together, as a social species. The belief in free will lets us exert pressure on others to behave better. We often invoke it to explain others' behavior, rarely our own. We use free will to imply responsibility, and blame, for acts that we do not like.
+
+What I see, when I look at people and groups, is rational economic behavior, guided by often incomplete or inaccurate data. One of the emergent outcomes of the Internet revolution is that while our basic behavioral patterns are unchanged, the data we can work with is so much more accurate and complete. Meaning, we make much better decisions than 10 or 20 years ago. We're as selfish as we ever were, yet (and not paradoxically) are more social and in my opinion, happier than ever.
+
+So, if individual character is a bundle of predisposition that learns and responds economically to social conditions and opportunities, then how about groups? Why do entire countries sometimes become overwhelmingly corrupt, violent, or genocidal? It can't be genetic disposition, unless we accept racism as science. It can't be collective free will, even though this may, as with individuals, make it easier for other countries to "understand" what happened and to blame the guilty.
+
+The simplest explanation that does not depend on belief in the unknowable is that groups, like individuals, learn and respond to internal and external conditions. We have no natural tendency to war, nor is murder and violence the default pattern, only eliminated through careful education and socialization. This is both too pessimistic, and too kind on the school system. Violence and war are rational economic responses to specific circumstances, and perhaps by understanding what these circumstances are, we can change enough of them to make a difference.
+
+Geography is probably the fundamental element of any culture. A barren rocky wasteland in the middle of nowhere is likely to produce people who like fighting, because they'll have learned that it's easier to prey on others than try to coax crops from the stubborn earth. A land rich in mineral resources and hardwoods is likely to have an economy based on "rip it out" extraction, with consequent corruption of local and national politics, because it's far cheaper for foreign companies to bribe the political class, or install their own, than pay locals the true value of the assets being removed. A region with rich waterways and long coastlines is likely to have a history of commerce, and a strong middle class that can ensure politics is focused on solving real issues like education, defense, and communications, not just holding onto power. And so on.
+
+History, also, determines much. If geography is nature, history is nurture. While people in general are the same everywhere, cultures learn through history: mostly the interaction with other cultures. A country that has a history of successfully conquering and dominating its neighbors will be self-confident. A people who have been pushed off their land will be broken. The winners of a war become arrogant, the losers vengeful. One would say that the results make sense, are the sanest answer to the complex question of survival.
+
+However, self-destruction is never a winning answer to a complex geography and troubled history. Look at a country like Mugabe's Zimbabwe: fertile, decent infrastructure, and yet turning into a dead zone run by thugs. Surely this is not sane.
+
+So my third ingredient for determining the quality of a society is the organization and structure of the ruling classes. Specifically, to what degree these form a wise crowd. It should be possible to measure the leadership of two countries with similar geography and history on the Collective Intelligence Index, and then predict which will have a higher life expectancy based on their relative scores.
+
+Insane countries (North Korea and Burma are other examples) operate somewhat like cults, with the ruling elites using the same techniques to oppress individuals into accepting the situation.
+
+Perhaps entire centuries can go mad too. I'm no fan of the industrial revolution. It seems the 20th century was most memorable for its massive mortality rate from war, genocide, and economic failure. The one constant in these different disasters is that they were caused by failure of political systems. Here is my 60-second history of the 20th century's major conflicts:
+
+* Following a century of jingoistic world empires, the Northern hemisphere was ruled by paranoid inbred imperial elites that elevated tribalism to the status of international policy.
+
+* Rapid industrialization had changed the balance of power both within nations and between them. The ruling elites, clinging to power against a rising middle class, built a house of cards of alliances, secret agreements, and mutual-defense gambits.
+
+* A minor act of bloodshed in a remote corner of a crumbling central European empire brought the whole world, contractually, into the bloody conflict we call the First World War, with [http://swsi.info/ww1 over 16M dead].
+
+* The Second World War was mostly a continuation of the First, after a division of the spoils and a long pause to allow the raising of new armies to replace the fallen millions. [http://swsi.info/ww2 Over 60M died].
+
+* The Cold War was mostly a continuation of the Second, as the two victors and their increasingly powerful allies came to an inevitable partition of the world, symbolized by Walls in Europe and Korea, and Vietnam, endless bloody revolutions and counter-revolutions across Africa, Asia, and Latin America. [http://swsi.info/ww3 Another 55M died].
+
+How can a single century have been so incredibly stupid, and what does this portend for the 21st century? I think the main ingredients for mad mobs have always been there. Historically, there's been no lack of single-minded political elites isolated from reality and willing to exploit tribalism and far worse to keep a grip onto power. Europe had its "Hundred Years War", a fight between two French elites in which two thirds of the French population died over 140-odd years of on/off war. In the last decade, [http://swsi.info/ww4 Africa's Great War] claimed 8M dead in DRC Congo.
+
+Industrial society brought many people into cities and fed them more, and populations exploded. Between 1800 and 1900, Europe's population doubled, and its empires pulled in more people. New governments and institutions sprang up to serve these new urban and imperial populations. But these institutions were staffed by a homogeneous elite, all from a handful of schools and universities. In each nation, they spoke the same language, read the same papers, went to the same clubs, thought the same thoughts.
+
+Industrial age politics was, and still largely is, incredibly stupid, because it does almost exactly the opposite of what Surowiecki identified as the basics for collective wisdom. Its members, the political elites of the industrial capital cities, tend to:
+
+* Be from similar cultural and educational backgrounds, e.g. a few elite schools.
+* Be geographically concentrated in small areas of capital cities.
+* Share a small number of information sources that tend to toe the party line(s).
+* Make emotional judgments, when national pride is at stake, which it usually is.
+* Be poor at aggregating individual judgments, assigning more weight to seniority than merit.
+
+America's "reconstruction" of Iraq after its invasion and accidental deconstruction, was so poorly planned and executed, that it seems incredible that this incompetence was accidental. Surely, many people believed, the US had some secret plan: to divide Sunni and Shia forever; to create a state of perpetual war to enable an Orwellian future, or simply to make mayhem to facilitate large-scale theft of US tax payers' money and Iraqi oil revenues.
+
+Though these may be partly true (in her book, "Shock Doctrine", Naomi Klein makes a compelling case for the "organized smash and grab" thesis), US foreign policy after 9/11 was in my opinion dictated by a political elite who formed an ultimate mad mob, disregarding any dissenting opinion, replacing diversity with fear-enforced obedience, and in general making the same mistakes as political elites have made since the invention of the comfy chair, only in this case they were playing with the world's most powerful military machine. Stupid, greedy bullies with big guns, nothing new here except the scale of the thing.
+
+I'm fairly certain, but have no concrete proof beside the quality of life in most of Europe, that European politics has fared better, perhaps learning some modesty after the incredible errors of the early 20th century. Europe's diversity must help. Stupid ideas like the expulsion of foreigners (after all, why would we want the hard-working cream of foreign middle classes coming to our lands to do the work we don't want to, and to raise those who would pay our pensions?) don't easily cross borders. Decent ones like a common currency do. Excellent ones, like freedom from moral legislation also do. It's not perfect but it seems at least better than the US model, where ideas, decent or insane, can spread from sea to shining sea overnight.
+
+Of course there are still some examples of mad mobs in charge of European politics, mainly at the national levels, and most definitely in Brussels. It's been said that if the EU applied for membership of the EU, it would reject itself on grounds of insufficient democracy. The recurrent pattern of collective stupidity is a strong argument against the over-centralization of power.
+
+Will the multi-cultural Internet bring world peace? One can never fix human greed, nor eliminate the tendency for brutes of all shades to gang up against the moderates, to keep them out of power and to loot their wallets. However it seems clear that the digital society is significantly better at solving problems than the old Industrial Society. Digital society is a wise crowd of wise crowds, and it seems that politicians today can no longer start wars by accident, they have to be tenaciously malign to sway an increasingly aware and skeptical public. Maybe the best way to unseat a dictator is to import cheap Internet connections (it would be fun to compare the relative costs of Internet access across the globe and ask the question, "cheap Internet and democracy: cause or correlation?"), rather than provoke a revolution, or launch an invasion.
+
+++ Democracy
+
+I've been quite critical of tribalism and language as a cause of stupidity in modern society. But this may not be inherent. After all, diversity is an essential element of a wise crowd, and cultural diversity must therefore be potentially valuable. At the risk of making a long circular argument, I'll examine one way tribalism could become a force for good, rather than a tool for dividing societies.
+
+"In some specific places and times, conventional democracy is not the best, and is possibly one of the worst forms of political organization." was my assertion to the offended professor, about five minutes before he started to call me names. I think it was this assertion that really annoyed him.
+
+As I write this, Congo DRC is preparing for elections. It's disruptive, people are torn between optimism and cynicism. War still rages. My wife tells me, a woman is raped 48 times a day in the Kivu region. I reply that someone really has to help that poor woman. It's gallows humor. People are selling out and leaving Kinshasa. We know that elections will change nothing fundamental in Congo. If anything, it'll make things worse before they get better.
+
+"Free and fair elections" has been used over and over as a kind of ritual that should convert a destroyed state into a stable one. Iraq, Afghanistan, Haiti, Angola, Congo, it's a long list. We are so confident that democracy is the cause, not the consequence, of our stable societies that we apply it like a magic remedy. This is cargo-cult politics. We miss the fact that back home, [http://swsi.info/bush democracy fails the basic tests], such as exit polls, that we demand of 3rd world countries.
+
+While every country is different, and unique, there are common patterns. I believe that in some cases, imposing democracy or the semblance of it too soon may actually prevent a sane society from emerging. If so, then in some places and times, conventional democracy is not the best, and possibly one of the worse forms of political organization.
+
+The single key factor is, IMO, economy. Democracy will work in a country that has an economy heavy on middle class commerce. A democracy will work worst in a country that has a weak or almost absent middle class. It'll be even worse when there are conflicting ethic groups, especially when the minority group has historically held power.
+
+Europe's economy is driven [http://swsi.info/eusme 66% by SMEs], firms with less than 500 employees. In the USA, [http://swsi.info/ussme the figure is 50%]. I could not find figures for Africa, and they must vary enormously between countries.
+
+Europe's majority of small-to-medium firms stems from a long history of commerce, and represents a strong and powerful middle class. Democracy is alive and well in Europe, having survived terrible events. Now look at countries where democracy has historically failed. The consistent element is the lack of a strong commercial middle class.
+
+When attempts are made to transplant parliamentary democracy to a society that cannot defend it, the results are predictable:
+
+* The elections are won by the party with the best propaganda machine, or the one with most control over the ballot boxes.
+* If the current political elite is particularly unhappy with the outcome, they will attempt a coup and a return to dictatorship.
+* If the election holds, a new political elite will rapidly install itself and remove all vestiges of the old one.
+* The new elite will immediately form a strategy for long-term survival, which will be based on subverting any future election.
+* The elite will proceed to steal as many public assets as it can, and will create debt to steal more.
+* The country will perform badly economically, due to the massive looting and failure to invest in infrastructure.
+* After some years, the military will lose patience and perform a coup, execute or imprison the civilian leaders.
+* The military will become the new political elite and do exactly what the civilians did, except with sticks and guns rather than propaganda.
+
+The way to break the cycle of kleptocracy is to have a middle class with enough power to stop the theft of public money (which is surely the default ambition of every politician from Kansas to Karachi). Middle classes take time to develop. I don't have figures for Latin American economies but I would bet there is a strong leading correlation between the size of the middle classes and the emergence of stable democracies over the last decade. And much of the brutality of the now defunct military juntas was aimed at the middle classes, at trade unionists, teachers, intellectuals, students.
+
+This is my hope for Africa too: the humble mobile phone and the mobile Internet and access to a healthy global market will finally release entrepreneurial Africans from their geographic slavery, allowing a middle class to emerge that will finally stop the thieving politicians and their foreign friends. African countries with a history of large cities, large-scale trade, and a sizable commercial middle class -- Nigeria, South Africa -- are clearly on the road to some kind of long-term balance.
+
+So there is one unanswered question. What is the best form of government for a country which has warring communities, no middle class, and a history of violent politics? How does one solve a Haiti or a Congo or an Angola? It's painfully obvious that "elections" do not help. In these countries the people are thinner and poorer than they were under previous dictatorships.
+
+Neither unsustainable democracy nor dictatorship are acceptable: both will result in looting of natural resources and the treasury, economic failure, suppression of whatever remaining middle classes there are, and in the worst cases a cycle into hell. There have been a few "gentle dictatorships" that actually promote commerce and the middle classes, but they are so rare we can consider them freak cases. China may have found one path, but it seems to be a uniquely Chinese one, and hasn't been proven yet.
+
+So what can the international community do when a country is unlucky?
+
+Foreign technocratic administration backed by force may work in some simple cases. Bosnia, perhaps. But for larger countries, invasion and forced administration is not just risky and dangerous, it's also close to insane. The solution to fixing failed states like Congo DRC is to start by recognizing that a government, "elected" or not, does not by itself create a valid state. When a country fails certain criteria in terms of mortality, education, freedom of expression, and corruption, it must be flagged as sick, and needing attention. Just as we benefit when our neighbors are free of cholera and typhoid, we benefit when countries get wealthier and more stable.
+
+Once a country goes on the "sick list", the leadership of that country should be targeted. They must not be allowed to funnel assets out of the country. Banks that accept such funds should be prosecuted. Firms that sell arms to such countries should be prosecuted. Firms that do business with the family of the leadership should be prosecuted. To change the behavior of an individual or a group, the best route is to change the economics. If it's unprofitable to be a thief, people will stop becoming thieves.
+
+Then, there should be strong pressure to open communications. This is key: cheap unfiltered Internet to all people, no matter how remote. This should be a condition of relaxation of pressure. High Internet costs and censorship should be treated as criminal acts, and access to IP packets a basic human right along with free education, clean water, and freedom to travel.
+
+However, we're still far from this. The West has its own crises, its own kleptocracies, and is immature in many ways. The next decades will be key. The violent racism that immigration provokes is a gold mine to politicians. Will western society embrace multiculturalism, or turn against it? Will we one day allow black Africans to travel freely, as we expect to do, or will we one day have global databases and facial scanners at every railway station and bus stop?
+
+At the heart is the question: will Digital Society, which venerates diversity and multiculturalism, beat Industrial Society? One can hope, but it's far from inevitable.
+
+++ Conclusions
+
+In this chapter we've looked at how the wise crowd can be turned upside down to become a mad mob. How this is often done deliberately by classes looking for political or financial advantage. And how human social instincts, like knives, can be essential or deadly.
+
+In the next chapter we'll come back to the Internet and look at some less violent, but nonetheless important, conflicts that will shape our future world.

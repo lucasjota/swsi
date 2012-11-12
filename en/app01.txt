@@ -1,0 +1,165 @@
++ Commerce as the Cradle of Civilization
+
+Here is my working hypothesis about the emergence of representative government, democracy, whatever you call it. Rule by the people, for the people, in the true interests of the people.
+
+++ Bandits to Bakers
+
+I'll call this the 4B Hypothesis. Society is divided into Bandits (those who specialize in stealing from others), Beggars (those who specialize in getting resources without work), Bureaucrats (those who specialize in order), and Bakers (those who specialize in working hard and making stuff everyone else needs). Of course it's more complex than this, but it's a rough division between the four Bs.
+
+There is a significant element of inbuilt aptitude, and a significant element of opportunism. So, while some people are born to be a particular B, others switch depending on what works best. So you can have societies with 40% bandits, and societies with 10% bandits. And there are tipping points where suddenly whole generations switch from old strategies to new ones, as times change.
+
+Depending on various factors, one or other of the Bs will be in charge, aided by one or more of the other. By default, the bandits and the bureaucrats team up on the bakers, and ignore the beggars, who live in abject poverty. The only law is power and family. When the bakers -- who after all feed everyone -- begin to accumulate wealth and power, they slowly recruit the beggars and the bureaucrats into their ranks, and beat the bandits into a corner. As the bakers (the commercial middle class) get more power, they bring into existence what we'd consider the fabric of a modern state: stable currency, fair courts, representative government, commercial law, universal education, universal health, roads, water and food for all, housing for all, policing, and so on.
+
+Let's work through the various possible states of society, depending who's in charge, and map them to current societies:
+
+* Bandits: Somalia.
+* Bandits and beggars: North Korea.
+* Bandits and bureaucrats: Syria.
+* Bandits and bakers: Russia.
+* Bandits, beggars, and bureaucrats: Zimbabwe.
+* Bandits, bureaucrats, and bakers: Saudi Arabia.
+* Beggars and bureaucrats: Cuba.
+* Beggars and bakers: Belgium.
+* Beggars, bureaucrats, and bakers: France.
+* Bureaucrats and bakers: Switzerland.
+
+The bakers haven't suddenly proven Darwin wrong and developed genes for altruism. They're acting totally selfishly, but with a very different strategy from the bandits or beggars. The bakers need wealthy clients and stable suppliers. They need scale and growth, which transcends family and tribal ties. They need fair laws and courts to arbitrate, because conflict is bad for business. They need an educated workforce, and they need good infrastructure for transport so they can get their goods to market rapidly and safely. They need security. They need healthy neighbors because disease spreads.
+
+The bakers need all these things because they are good for business. As the bakers and bureaucrats build a better society, the beggars help them, and all but the most inflexible bandits switch strategies and join in the boom.
+
+Societies flip from state to state, as they grow prosperous and develop a wealthy commercial middle class, exhaust resources, enter violent conflict with other societies, and so on. There is no inevitable path, just a set of states and events that push societies from state to state, fairly predictably.
+
+Nothing here is new. Practically the first written text was legal codes [http://swsi.info/hammu dating from 1,700 BC] and half of those cover contract law. Currency and banking date from 3,000 to 2,000 BC. Human society has been flipping between the 4B states since the dawn of history.
+
+++ How Geography drives Society
+
+Now apply this story to different parts of the world. Bakers don't simply organize and get wealthy by being prettier and smarter. They organize around trade, which develops around two things: transport, and markets. Initially, naturally occurring transport such as rivers, lakes, seas, and flat dry plains, and later man-made transport such as canals, railways, roads, and airports. Markets means cities, which means agriculture, which means fertile river deltas or plains.
+
+The economy that develops in any region depends directly on the natural transport it offers. On the highly crinkly coastline of an inland sea, with hundreds of huge cities fed by rich farmlands, it is possible to produce and ship goods to millions of consumers. Large-scale trade, backed by military power, could [http://swsi.info/venice build an empire out of a single city]. Large-scale economies build large-scale political systems, and large-scale baker-bureaucrat societies.
+
+On the other hand, a jungle-covered country with no big cities and little in the way of natural transport will not develop a significant commercial middle class since there is no scope for trade. One can produce a thousand chairs, but how to sell them, and who to sell them to? Societies that are isolated geographically and spread thinly over large land-masses do not develop industrial technologies. No glassware, no metallurgy, no precision instruments, no machines. At the same time, they don't develop advanced military weapons either. There is no need, and no benefit in building warships in the middle of the desert, nor on an oceanic coast with no scope for trade.
+
+So, as we look at the world, we see that the better the natural transport systems and hinterlands, the larger the population concentrations and the wealthier the society, and the more the bakers and bureaucrats dominate society. In [http://swsi.info/asia Asia], Europe, America, and Africa, the most "developed" societies have always grown up around water, and the most "primitive" societies have always been the most distant from water. Compare Uzbekistan to Sweden, Texas to San Francisco, Chad to Uganda, Tibet to Taiwan.
+
+The apparent exceptions prove the general rule. Switzerland is land-locked, but derived great wealth from its position on the Rhine, and as a crossing point for Alpine trade. In 14th century Africa, the empire of Mali was so wealthy that when its king Mansa Musa traveled to Mecca he spent so much gold that [http://swsi.info/musa the price of the metal was depressed for a decade]. Mali was wealthy because it controlled cross-Saharan trade in salt and gold, carried on camels, or "ships of the desert".
+
+Europe gives us a good worked example. Civilization started in what is now Syria and Iraq, and spread out to India, and [http://swsi.info/med the Mediterranean basin]. Without exception, the Mediterranean states, from prehistory until modern times were based on maritime trade, fed by major rivers and based around major cities.
+
+So Europe was particularly rich in commercial middle classes who defended their precious institutions with blood. Over and over, as the bandits tried to gain power, the bakers drove them out. This may sound over-dramatic, but the history of a country like France is basically one of bandits (such as the descendants of Vikings) [http://swsi.info/ww0 being driven out] by coalitions of bakers and bureaucrats, using beggars as canon fodder. And bearing baguettes, one imagines.
+
+Conflict has been widespread throughout Europe wherever and for as long as there has been any significant population. And systematically, the bakers have won. The last time the bandits were in charge in a European country was when Yugoslavia fell apart and bandits took control of Serbia, and then tried to conquer the rest of the region.
+
+So, Europe's current political models are a direct consequence of these conflicts. We learned, long ago, to look after the beggars and turn them into assets, not liabilities. We learned to create space for the bandits, giving them symbolic power in government. Belgium, my home, has a long history of commercial city states fighting for their independence, and today has seven governments. For me, that's directly related.
+
+Why and how do the bakers win? They need a few key things, but principally, they need freedom, and they need access to markets. When the bandits want to stop the bakers from taking power, their first tool is to block trade. Freedom can mean many things, to philosophers, but pragmatically what it means is the ability to do interesting things with other people. And if you're a baker, that means buy from them and sell to them, without undue taxes, tolls, delays, or theft.
+
+++ Extraction Economies
+
+When a country doesn't develop a commercial middle class, industrial technologies, a strong military, and strong institutions, it is particularly vulnerable to a certain form of theft that I call "extraction". This is when a bunch of foreigners land on your shores, buy up some local chiefs, chop down your forests, rip the minerals out of your soil, enslave a few generations, and eventually go home, leaving their bastards in charge.
+
+If you're lucky enough to live in a malaria-infested swamp, they go home. If you live in a healthy, inviting landscape, you will be corralled into reservations in the worst parts of the country (those furthest from water, of course), your land will be taken away by "treaty", your rebels will be slaughtered by machine gun, the survivors poisoned with alcohol, and your prettiest women taken for concubinage. After a few generations, people will forget you ever existed, except as quaint memories.
+
+Extraction economies do not depend on a commercial middle class. There are no networks of trade. No-one needs to learn to read and write in order to carry rubies out of a deep mine. Educated middle classes make trouble. They form unions, elect honest politicians, and demand fair prices for their natural resources. Extraction economies don't just disregard the needs of the people, they actively oppress them. That is, for an extraction economy to operate at maximum efficiency, it must turn the mass of people into near-slaves.
+
+When a land has just some resources, the extraction economy will stop. When the trees are chopped down, farms spring up, and farmers are just bakers with mud on their boots. But if the soil is rich in minerals, the extraction economy can continue for generations, even hundreds of years.
+
+++ Africa's History
+
+Africa has three major rivers (Nile, Congo, Niger), and three times the land area of Europe. [http://swsi.info/a1900 Most cities before 1900] were in Mali-Niger-Nigeria or Sudan-Ethiopia. Most people did not live in cities but in villages and small towns spread out across vast distances, interconnected by foot, through difficult terrain.
+
+For the most part, there was no commercial middle class, no trade on the scale that was developing in Europe. Military technology meant horses or camels, and that only in open brush, not in the wet forested areas where most people lived.
+
+One of the exceptions is Nigeria, which before 1900 had half of the cities in Africa, and is today arguably the most democratic of African countries, and richest after Egypt and South Africa. Nigerian history is rich in trading kingdoms: the Hausa, Yoruba, Benin, which grew up from the 9th to 19th centuries. These kingdoms were powerful, socially and economically, and they still survive, in various ways.
+
+But in most of Africa, there was no way for a commercial middle class to develop. No cities to trade with, and no way to move goods around. 
+
+Once Europe discovered the potential wealth sitting up for grabs in Africa, there was literally a race to map and divide up the continent. Whereas Asia, also invaded by Europeans, already had powerful bakers, and industrial and military technology that lagged only a little behind that of Europe, Africa didn't. So the machine-gun did its work, and the mixed-blood malaria-resistant offspring of the first bandits to arrive built a new economy based on extraction.
+
+First, ivory, rubber, gold, and slaves. Then other minerals, foods, diamonds and eventually rarer minerals such as Coltan. Africa has always been a provider of cheap natural resources, rarely a business partner.
+
+Of course the African middle classes didn't sit still and accept this. There was rebellion after rebellion, war after war, but it comes down to military power, and geography. If you control the single port for a country, you control the country. Eventually the extraction businesses realized that they didn't need to control or run Africa, just the few harbor cities. Independence was a transfer of power from a mixed ruling elite that sold cheap natural resources to a mixed ruling elite that sold cheap natural resources.
+
+++ Conclusion
+
+Of course it is hard to separate cause from correlation. Is western Russia wealthier because it's closer to water, or does it have better transport because it's wealthier? There are feedback loops. Brussels was built on a small river but only when that was expanded into a canal did the city develop an industrial capacity.
+
+My assertion for Africa is this: there has been a feedback loop for 150 years in which a naturally poor geography has enabled the bandits to rule without difficulty. Whereas in the rest of the world the bakers have managed to organize, grow wealthy, and build common prosperity, in Africa they have not. They remain fragmented, isolated, and essentially locked-up in a continental prison.
+
+This analysis is not pessimistic. It offers us the answer, whereas analyses based on cultural differences, skin color, and disease do not. The answer is to give the bakers freedom and opportunity, so they can form commercial middle classes, and fix their own societies. Bakers do not need gifts: that just reinforces the beggars. Bakers don't need guns: that strengthens the bandits. Bakers need access to markets, and the freedom to trade in them.
+
+There is no way to change Africa's geography, and probably no way to break the bandit+bureaucrat cliques that control the port cities, but there is another way to liberate the bakers.
+
+And that is through the Internet, of course. The digital economy doesn't need physical transports. It just needs TCP/IP and a little power. If you've spent any time in Africa recently you'll be astonished by the desperate brilliance of the young generation of educated but still under-liberated programmers, teachers, engineers. Africa is breaking, and will continue to break its historical cycles and build itself a place in the future digital economy. While China, Europe, and the USA are handicapped by their strong legacy of industrial power, Africa is not. There are no copyright cartels in Africa.
+
+It will just take Internet capacity to transcend luxury and become commodity (as it did in Europe and the USA around 2000), and Africa is on its way. Countries like Rwanda are already [http://swsi.info/rwip investing heavily] in Internet capacity. It seems obvious to leaders like [http://swsi.info/pk Paul Kagame] that this is the road to a prosperous future. The irony is that these very fiber-optic cables will enable his own Facebook revolution, in time.
+
+++ Key Figures
+
+This chart shows some key figures for various countries around the world:
+
+* Population
+* Life expectancy
+* GDP per capita
+* Cost of shipping 50kg to/from Europe
+* Number of harbors
+* Volume of trade with the USA
+
+These figures are from 2007, and taken from the [http://swsi.info/cia CIA World Factbook] and [http://swsi.info/ports World Port Source].
+
+[[image figures.png width="800"]]
+
+++ Income vs. Trade
+
+The first chart shows the well-known difference in income between the richest and poorest countries on the planet:
+
+[[image income.png size="medium"]]
+
+The second chart shows a less familiar picture, the number of harbors (ports) in these countries:
+
+[[image harbors.png size="medium"]]
+
+We can see that per-capita income correlates to the number of harbors in a country. China is an exception, but less and less so.
+
+++ In Pictures
+
+Visually, Africa's handicap shows up even more strongly.
+
++++ USA
+
+[[image usa.png]]
+
++++ UK
+
+[[image uk.png]]
+
++++ Japan
+
+[[image japan.png]]
+
++++ France
+
+[[image france.png]]
+
++++ Italy
+
+[[image italy.png]]
+
++++ South Africa
+
+[[image south-africa.png]]
+
++++ China
+
+[[image china.png]]
+
++++ Kenya
+
+[[image kenya.png]]
+
++++ Ghana
+
+[[image ghana.png]]
+
++++ Congo DRC
+
+[[image congo.png]]

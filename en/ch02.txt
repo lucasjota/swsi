@@ -1,0 +1,541 @@
+[!-- The Architecture of Digital Society --]
+
+In Chapter One I described how the world has changed over the last twenty years, and how those changes threaten the economic and political structures that emerged from the industrial revolution and consolidated their hold over the world of the twentieth century. Most radically, while society used to be based around cities built by steam and coal, it is now based on communities built on software and silicon.
+
+These communities are not passive. They take control, and challenge the economic and political structures of the old industrial world. Even Facebook is used as a platform for revolution. I consider these on-line communities to be a modern form of collective intelligence. Human society has always been a collective intelligence, but never such a large and effective one. Given any complex long-term but solvable challenge, a well-formed collective intelligence will always solve it faster, more accurately, and more economically than a group of experts.
+
+Groups of experts -- such as sociologists, for example -- can be remarkably stupid. What is strange is that adding more experts to a stupid group makes it stupider. Stranger still, adding laymen -- people who know nothing about the subject matter -- can make a stupid group smarter. And strangest of all, a group of only laymen, without experts, can be smarter than the expert group. This happens in specific circumstances that we're just starting to understand and reproduce.
+
+In this chapter I'll explore those circumstances, and see how they allow on-line communities to form and survive. I'll take that a step further and explain how to design and build -- or rather, grow -- on-line communities. It's a discipline I call //Social Architecture//, and I consider myself a Social Architect.
+
+++ Background to Social Architecture
+
+My journey into Social Architecture started in the late 90's, when I began writing a book about cult techniques, and specifically, how these hooked into our social instincts. We're social animals, we survive by working in groups. We've developed, over the last million years, instincts that let us join groups and switch off parts of our individualism. We respect authority, conform, learn common languages, adopt shared behavior, and so on. Cults brainwash members by exploiting these instincts. For example, separating people from their families, removing their privacy, bombing them with confusing jargon, creating arbitrary rules, randomly punishing and rewarding, and so on.
+
+The goal for cults is to destroy individual thought and action, and turn normal people into cooperative zombies who will empty their bank accounts, steal from their families, work for years without pay. As a student, watching the occasional friend disappear into the caverns of Scientology and other cults, this struck me as malignant but difficult to understand. Later, when a cousin dropped out and lost five years of his life to Scientology, it became personal.
+
+Studying the [http://swsi.info/cult Cult Information Centre website], it struck me that these brain-washing techniques all had several things in common. First, they were all clearly focused on attacking individual thought and action, destroying that which makes us strong. Second, they were very familiar from environments I'd worked in. Big business works like a cult! Third, they all seemed reversible. I mean, they could be hacked into positive patterns.
+
+Take one of the techniques: "//Peer Group Pressure -- Suppressing doubt and resistance to new ideas by exploiting the need to belong//". Now, clearly we can reverse this. By creating freedom to leave and join groups, we can encourage new ideas and criticism. Or, "//Removal of Privacy -- Achieving loss of ability to evaluate logically by preventing private contemplation//". Give people private space and time to think, and they'll become better at thinking logically.
+
+I spent a year or so writing the "individual vs. the group" book, but as often happens, someone offered me lots of money to write software, so the book got shelved. But the analysis was a good one. We survive by attaching to groups, following others, and trying to make sense of the world. Some groups work by domesticating and brutalizing us. Other groups work by giving us freedom and allowing us to be stronger, smarter, more independent.
+
+In 2000, the Internet had not yet become a commodity and open source communities were small and often regional -- for example, focused around universities. Open source communities still operated] with legal entities, boards, treasurers, and so on (see http://swsi.info/debian).
+
+In 2005, I started on a number of collaborative projects. On the one side, the FFII and our work to stop software patents in Europe. On the other side, developing open standards starting with the AMQP protocol. The contrast was sharp. The FFII were crazy volunteers, creative beyond belief, filled with hard cold determination to stop SAP, Siemens, Microsoft, and Nokia from changing the law to allow patents on software.
+
+While the AMQP workgroup had banks and large software firms, and were crazy in a different and less enjoyable way. My research on social instincts and cult techniques suddenly became relevant again. With my friends in the FFII we launched campaign after campaign. Web sites, petitions, email lists, conferences, it never stopped. We learned and learned. Positive campaigns don't work, you need a bad guy. Make it really easy for people to get involved. Embrace argument and conflict, it's where good ideas come from. Delegate systematically, and create competition. Volunteers work better than employees. And so on, and on.
+
+Failure is a better and more patient teacher than success. We had enough live data to prove every pattern and anti-pattern. In 2006 I posted a website [http://www.wikiturfing.com/ "Wikiturfing for Kicks"] that said, //"You want to make something big happen. You have no money, no backers, just some time, a web connection, and a lot of patience. This site will explain how to make big things happen using just the power of communication and organisation. Social architecture is the broader skill of helping people organise themselves in effective networks. Wikiturfing is doing this using the Internet."//
+
+In 2007, leaving the FFII, I started **Software and Silicon**, and discovered Surowiecki's study of "wise crowds". Obviously he'd hit upon the core of social architecture, but in a kind of primitive form. The digital society is decades ahead of the real world, socially. On-line communities prove Surowiecki right, by showing how people organize intelligently on a massive scale, given undiluted freedom.
+
+In 2008, we launched a new project, ZeroMQ. My friend Martin Sustrik - a crazy brilliant programmer - wrote the software together with a team he put together in Bratislava, Slovakia. Tired of programming, I funded the project and designed the community, putting my money where my mouth was. I think this was the first time anyone deliberately and explicitly designed a software community along the principles of Social Architecture. It wasn't hard: I'd been collecting these patterns for years, and had elaborate designs that we'd used for instance in creating the [http://www.digistan.org Digital Standards Organization].
+
+ZeroMQ succeeded. Technically, it is an extraordinarily useful product that sells itself. But I'm also proud of the community, which is everything I'd hoped it could be: diverse, independent, smart, fast, accurate. The product and the community are chicken and egg. We formed a core community around a first version of the product, with the insane mission "Fastest. Messaging. Ever." and that community built the second and further versions of ZeroMQ.
+
+Social Architecture works. It's as close as possible to a social science, proven by years of reproducible experiments on living cases and study of existing communities. It mixes psychology, economics, politics, and technology. I'm proud to call myself a Social Architect, and to try to get this recognized as a new discipline fit for the 21st Century.
+
+++ Wiser and More Constant than a Prince
+
+Niccolo Machiavelli observed in "//Discourses on the First Decade of Titus Livius//" that:
+
+> "As for prudence and stability of purpose, I affirm that a people is more prudent, more stable, and of better judgment than a prince. Nor is it without reason that the voice of the people has been likened to the voice of God; for we see that wide-spread beliefs fulfill themselves, and bring about marvelous results."
+
+Machiavelli did not offer any analysis for his observations. But the understanding that the collective will is accurate and honest pervades our modern culture. It underpins our sometimes skeptical appreciation of democracy, it justifies our demands for transparency and access to information; it is the basis for our modern economies, based on free choice and free markets.
+
+The modern study of collective intelligences (again, what //have// sociologists been doing these last decades?) was kicked-off in 2004 by 'New Yorker' business columnist James Surowiecki. In "The Wisdom of Crowds" (the full title of Surowiecki's work is in fact "//The Wisdom of Crowds: Why the Many are Smarter Than the Few and How Collective Wisdom Shapes Business, Economies, Societies and Nations//"). (Doubleday, 2004), he wrote: "//under the right circumstances, groups are remarkably intelligent, and are often smarter than the smartest people in them//". He noted that if four basic conditions are met, a collective intelligence will produce better outcomes than a small group of experts, even if members of the crowd do not know all the facts or choose, individually, to act irrationally.
+
+Surowiecki identified four elements for a "wise crowd": diversity of opinion, independence of members from one another, decentralization and good ways to aggregate opinions. He describes the ideal wise crowd as consisting of many independent-minded individuals who are loosely connected, who are geographically and socially diverse, who are unemotional about their subject, who each have many sources of information, and who have some way to bring their individual judgments together into a collective decision.
+
+According to Surowiecki, [http://swsi.info/crowds the wise crowd] makes fast and accurate judgments, organizes itself to make the best use of resources, and cooperates without central authority. Some examples of wise crowds, such as Wikipedia, are extraordinarily successful despite intense and repeated criticism from naysayers and attacks from vandals and infiltrators. It's such a compelling proposition that we ask ourselves, why don't we see more wise crowds? Why is the world filled with so much stupidity if it's so easy to be smart?
+
+The apparent failure of collective intelligence convinces many that this is just a fancy theory which fails in practice. And yet if we look at on-line communities, for example those that form around popular open source software projects, what we see are groups that look a lot like Surowiecki's wise crowds. It may be hard to spot wise crowds in real life, but they seem to be the dominant model on-line. Through trial and error, digital society has rediscovered the principles of wise crowds and adopted them as its core operating principles.
+
+The trick is to accept authority without giving it the "right to command". Digital society's solution is elegant and successful: there are literally millions of communities - each backed by the authority of its founders. Citizens of the digital society choose freely which authorities to respect, and which to ignore. Thus there is intense competition to develop fair authority that does not command but instead enforces necessary rules. It is a deeply subversive truth. Generations that learn this model will refuse -- to the point of death -- to respect industrial society's model where the citizen literally belongs to the State.
+
+++ Basic Patterns
+
+Let's list the basic tools -- I use the term "patterns" meaning that we aim to recognize, name, and then apply these -- that a Social Architect might use to build a successful on-line community. Successful "natural" communities may develop these patterns by a process of natural selection, or may be planned in part or whole. As I explain these, compare with communities or workgroups, or organizations you know or are part of, and see how they compare. Keep score, it can be fun.
+
+* //Impossible mission//. In a world filled with interesting problems, the community needs a clear, long-term, and challenging mission that stands out. The mission defines the community. The mission must capture attention quickly, and hold it for as long as it takes to grow a mature community. To attract the best people, the mission should be close to impossible.
+
+* //Volunteer contributors//. Money makes us stupid. More accurately, when we're paid to take part in a community, we follow the opinion of our clients or bosses. This rapidly turns the group stupid. Smaller voices get shouted down, and decisions are made by people without competence to make them. A community must attract volunteer contributors who can express themselves independently.
+
+* //Freedom of access//. When searching for the answers, the more diverse inputs, even irrational ones, the better. A good idea gets stronger when challenged by other ideas, sane or insane. A bad idea that goes unchallenged can become orthodoxy. So how diverse is a group and what defines this diversity?  Mainly, if the group is self-selecting or has significant barriers to entry, i.e. membership is by invitation only, at a price, or determined by physical presence, its diversity will be low. If anyone can easily join the group, its diversity can be high.
+
+* //Weak group identity//. Emotions produce toxic logic, as Mr Spock so often observed. Some groups are driven by logical purpose, and others by more emotional factors such as peer-pressure, the herd instinct, even collective hysteria. The main factor seems to be the relationship between the group and its members. We can quantify this: //do members "belong exclusively" to the group//? Exclusive membership means putting the group's existence above its work. Exclusive membership ends in conflict with other groups. Membership must be a badge to collect, not an identity.
+
+* //Well-written rules//. All groups suffer at some point from conflicts. We survive these by developing rules that people can refer to, and which resolve conflicts. The insight that lets anarchists join wise crowds as happily as anyone is that the crowd can, of course, develop its own rules. Typically, these rules govern ethics, ranking, remixing, identity, and so on. Rules can be in many forms, but they must be simple, clear, and explicitly written down.
+
+* //Fair authority//. Without authority, rules have no strength. The community founders and main contributors are its de-facto authority. If they abuse their authority, they lose their contributors and their project dies. Authority needs to be scalable and transferable, as the group grows and changes over time.
+
+* //Space for conflict//. A healthy group must encourage and digest conflicting opinion. Critics, iconoclasts, vandals and trolls keep a group on its toes, and help keep it coherent. Wikipedia thrives thanks to, not despite, those who click Edit to make a mess of articles. But while we want to get broad discussion, even argument, a community must not trust contributors until they've proven their competence.
+
+* //Freedom to choose tasks//. Some people like to be told what to do but the best contributors and teams choose their own tasks. A successful community recognizes problems and organizes itself to solve them, and it does that faster and more accurately than any top-down management structure. This means the community should accept contributions in any area, without limit.
+
+* //Decentralization//. If a group is geographically concentrated, it becomes homogenized, all members getting much the same inputs and triggers. Close proximity also lets a minority dominate the mindset of the group, and quash unorthodox ideas. Surowiecki explains how the Columbia shuttle disaster was caused by a hierarchical NASA management bureaucracy that did ignored the knowledge of low-level engineers. If a group is decentralized, its members are more independent, they receive more diverse inputs, and they are also likely to be more diverse from the start.
+
+* //Openness and transparency//. Secrecy and incompetence seem bound together: groups that work in secret do not achieve wisdom. Transparency is necessary for many reasons: to get rapid feedback on ideas and work, to magnify the social credit of contributors, to attract new members to the crowd, to make it cheaper and easier for people to participate, and most of all, to expose flawed reasoning to mass critique. Digital society does its best work in the public eye. Ironically, the most efficient models are those that remove the barriers that traditionally generate profits.
+
+* //Free workspaces//. A community needs space in which to grow; in Internet terms this is typically a web site or collection of sites, and related structures like email lists, blogs, and so on. We've seen that it's become very cheap to create "space" in the digital society. The question is, can individuals create their own spaces within the community? If so, they will invest more in the collective project.
+
+* //Remixability//. Communities work by generating new knowledge out of old knowledge plus information. When individuals can freely remix the work of others, and be assured that their own work will always be free for remixing, they can invest more. The state of the art is "share-alike" licenses for digital content, which guarantee remixability and are backed by copyright law.
+
+* //Regular structure//. As a community grows larger, it gets harder to navigate. Complexity turns people away. There are classic ways to subdivide a community: by function or domain of interest, by language, and by hierarchy of power. These smaller communities can often replicate the structures of their parent -- rules, authority, etc. -- at their own level. The structure should be regular and easy to navigate.
+
+* //Smooth learning curve//. The ideal community is trivial to join, and offers a smooth curve of gradually increasing challenge. Every participant should be able to join and move along the curve until they reach their difficulty level. This ensures you get the maximum contribution from each person without any formal training process. In software projects we might start by "report a bug" and end with "maintain a core project".
+
+* //Measurable success//. Competition between projects is very stimulating, but only works when there are visible measures of success. The best criteria are popularity of some project within a given market, which defines relevance and usefulness (to that market, at least).
+
+* //Competition//. A volunteer wants to be admired for success, individually or as part of a team. How do we rate success? By comparison to others. Competition needs metrics, ways to measure. So a good way to motivate volunteers is to encourage participants to compete for high scores, preferably measured by peer approval rather than luck. Since success is relative, digital society has developed "everyone wins" models where people mainly compete against themselves, and so get better over time. Digital society can sometimes resemble a complex game.
+
+* //Clear enemy//. Mostly, emotions are bad for communities, but sometimes they seem constructive. Anger and fear can be effective at creating a common sense of purpose. In the FFII we used to say, "positive campaigns don't work". [http://www.ethipat.org Campaigns with no enemy] would just fizzle out. [http://www.noooxml.org Campaigns with a clear, precisely identified villain] could spread around the world. It should not be too serious.
+
+* //Sense of humor//. Humor is a way of defusing conflict. People don't hit the joker unless the joke is old or badly told. More subtly, humor defuses tribalism and emotion, and lets people work together even when they have huge differences. A shared joke creates strong bonds because it proves the intersection of minds. Humor is an essential part of a community and reduces stress.
+
+++ Social Anti-patterns
+
+So we've seen the basic ingredients of a successful on-line community. Just to prove the point, let's flip them over and see what the opposite looks like. I call these "social anti-patterns". They are guaranteed to make most people miserable, most of the time. Industrial society specializes in social anti-patterns:
+
+* //Vague or unspecified missions//. The main mission of many groups is simply to exist. People participate because they're paid to do so, or brainwashed into doing so. There's no other reason. Such groups attract the mediocre, the easily manipulated, those with no other options.
+
+* //Employees//. Paying people to sit in a chair and do some random work is a gloriously widespread anti-pattern, perhaps still the dominant one for most groups. It sounds insane to imagine a world without formal businesses, without employees, but this is what I think we'll eventually come to. It's already happening in sectors of the digital economy. And it's not new: the concept of employee is relatively recent and closely tied to the industrial economic model.
+
+* //Barriers to entry//. When we pay people to participate in a group, we also raise high barriers to entry. This reduces diversity. We don't generally like people who think differently from us. So when we use money -- not mission -- to build a group, it tends to be homogeneous and relatively stupid.
+
+* //You belong to us//. Industrial-age groups, like cults, specialize in owning their members. An employee belongs to his or her company. In some cases, even ideas you have in the shower are property of your employer. And when a group owns its members, it motivates them with emotions like fear, hate, jealousy, and anger, instead of purposeful logic. The threat of expulsion is widely used to get people to conform.
+
+* //Meaningless or unclear rules//. The use of meaningless and unwritten rules is so toxic to individuality that it's actually a cult technique. Befuddle people with complex, random rules and they stop thinking logically. Given the high cost of joining and leaving a group that uses the anti-patterns, individual members don't have much freedom to negotiate rules.
+
+* //Arbitrary authority//. While we need authority to build a flat playing field, many groups use authority as a way of controlling members, keeping them in the group, and making them conform. Another favorite cult technique is to randomly punish and reward people, so they become confused and stop questioning authority. The trick is to brutalize people without allowing them to leave.
+
+* //Coherence of thought//. It's a classic anti-pattern to suppress minority ideas and views on the basis that they are "dangerous". This inevitably means suppressing new ideas. The logic is usually that group coherence is more important than accuracy. The result is that mistakes aren't challenged, and get solidified.
+
+* //Top-down assignment of tasks//. Most people do not like being told what to do, unless they're already brainwashed. The anti-pattern of top-down task assignment has many weaknesses. It makes it impossible for individuals to act when they recognize new problems. It creates fiefdoms where work (and the resources to do it) "belongs" to some people. It creates long communication chains that can't react rapidly. It requires layers of managers just to connect decision makers with those doing the work.
+
+* //Centralization//. Insisting that all members of a group sit in the same office, department, or building, is an anti-pattern, one that's really hard to break. In fact we need a mix. At the start of a project, people need to spend a lot of time together. But they should regularly break off into discrete sub-groups that can think independently. There's a reason cults have compounds.
+
+* //Secrets and lies//. Secrets are essential to certain business models. A large part of the mythos of patents is that ideas are precious and rare. The truth is that ideas are cheap, and mostly bogus. When we try to get advantage over others by keeping secrets, we end up lying to them, and to ourselves, and this makes us stupid. Software that is not open source becomes an accumulation of inaccuracies.
+
+* //Tightly controlled workspaces//. When work is assigned top-down, so are the resources to carry it out. Any new infrastructure -- a web site, email list, wiki, etc. --  requires approval, a decision. Possibly even legal review due to copyright and patent concerns. The cost is high, so people are reluctant to take the risk. Thus, they don't experiment, and often work with one hand tied behind their back.
+
+* //Fully proprietary//. The inability to remix a piece of knowledge to create new knowledge is so grossly inefficient that it counts as an anti-pattern. So you hear some music you like, and you want to remix it. Sorry, you can't. So you want to improve our mobile phone design by removing a button and making the bezel thinner. We'll sue you for copying us. So it goes: knowledge ends up in dead-ends, over and over.
+
+* //Random structure//. Businesses love structural diagrams, but they inevitably describe people, not projects. They're huge and irregular. There's no way to navigate these structures except by learning them in detail. But then, since it's impossible to participate in multiple such projects, nor move around at will, there's little benefit in learning the structure.
+
+* //Instant complexity//. Many organizations make absolutely no effort to create a smooth curve. Everything starts complex, and stays there. To participate, you might need weeks of training. It's inefficient, frustrating, and ultimately boring. Much like playing a video game with just one very difficult level.
+
+* //Abstract measurements//. It would be great if most teams could get realistic measurements of success, but that's rare. Either there's just silence, or an annual review by the boss of individual work (not team work). Feedback turns into an exercise in power, which is toxic. Making your boss happy so he gives you a pay rise is not healthy.
+
+* //Material rewards//. Where digital society uses social credit, industrial society rewards us on purely material grounds. Higher salary, larger house, nicer car. It is effective, because we all like wealth, but dehumanizing, because ultimately we want people to love us, not bribe us. Employees are motivated to earn more money, by making their bosses happy. This mostly means taking fewer risks, being more conventional.
+
+* //No bad guys//. It's rare for businesses to explicitly target others. When they do, they can be very successful. Market winners are often firms that were very far behind and discovered how to http://swsi.info/mac focus their attention] on specific competitors. But it's more common for firms to settle into cartel-like divisions of power that work mostly to exclude newcomers. And blatant good-bad alignment is hard when all firms are much the same.
+
+* //Utter lack of humor//. If it wasn't for alcohol, the grim-faced industrial economy would barely ever laugh. It takes itself so seriously. The lack of humor in an organization is a sure sign that everyone there is fundamentally miserable. Worse, it makes the group vulnerable to conflict and fracture.
+
+++ Identity vs. Anonymity
+
+One of the most interesting questions about communities is //identity//. There are several opposing arguments, based in the dichotomy between the group and the individual. On the one hand, many social instincts depend on accurately identifying those we work with. We have a strong sense of fairness, and will pay a premium to punish cheaters. But that requires identifying and recognizing cheats. Likewise, we'll invest heavily in our individual reputations but only if people can recognize us.
+
+On the other hand, strong egos often dominate a group to the exclusion of smaller egos. On-line competitiveness creates "karma whores" who will do and say anything to collect rewards. Anonymous groups seem to be significantly more active and quick-thinking than those which use strong identities.
+
+On-line society will, in my opinion, tend towards two extremes. On the one hand, groups where identities are explicit and verified. This is how social networks operate: no aliases. It also seems inevitable in free software communities, because copyright laws don't work well with anonymous contributors. In ZeroMQ, for example, we tend towards real names for contributors, and aliases for participants (e.g. on the chat channel).
+
+On the other hand, discussion communities will tend towards the fully anonymous model. It's not just convenience (being able to participate without registration) but an emerging form of ethics. It's actually considered rude in some forums to use an alias (aka "tripcode"), as it's seen as trying to accumulate [http://swsi.info/tripfag individual credit]:
+
+> Tripfag (short for tripcode fag) is a derogatory term for anyone who uses a tripcode. Just as some tripcode users bash Anonymous posting, so too do some Anonymous bash tripcode users. Anonymous's gripe stems from the perception that many (but not all) tripcode users try to use their posts to gain personal accolades, whereas Anonymous prefers having the commentary directed at the post itself instead of the poster. Why anyone would actively seek out approval and flattery from people so warped and twisted as the 4channers is almost as unfathomable as why people bother arguing about tripcodes and anonymous posting in the first place. Flame wars and shitstorms over the merits (or lack thereof) of posting with a tripcode were growing increasingly common on /b/ prior to the institution of Forced Anonymous.
+
+It's ironic that the anonymous crowds open maximum space for individual expression while promoting the group above the individual.
+
+Why would an anonymous crowd be faster and more accurate than one with strong identities? Sites like 4chan have explored this in detail:
+
+* Commentary gets directed at the content of a post rather than the poster.
+* Anonymous contributors don't seek approval and flattery from others.
+* Anonymous contributors don't work to accumulate accolades.
+
+It's also clear that anonymous crowds get far broader participation, and faster. One can see this in the different 4chan communities: /b/, with its forced anonymous model, is the most lively of all the 4chan communities. It has spawned several other communities, like Anonymous (the political activist group). There are no barriers to participation. You can be an 11-year old in Istanbul or a 50-year old in London, it doesn't matter. Crowds with strong identities are much harsher in selecting participants, and making assumptions about their competence. Critics will say that anonymous crowds become gutters, filled with the worst kinds of commentary and content. Two points here. First, the "let's go crazy" response to undiluted freedom seems temporary. People grow out of it. Second, among the torrents of garbage are large amounts of genuinely interesting accumulated knowledge.
+
+Particularly, in how to conduct digital politics. Like digital society and digital economics, digital politics look absolutely nothing like industrial-age politics. There are no parties, politicians, budgets, or states. What there is instead are armies of self-organized, anonymous, properly paranoid, and highly competent minds organized around insane missions and bundles of knowledge, and willing and capable of challenging any authority. It might look like a bunch of out-of-control teenagers. It is not.
+
+I'll back come to digital politics later. Let's get back to Social Architecture now. "Forced anonymous" is a powerful pattern for simplifying the design of a crowd. To show how, I'll explain how strong identities work in a crowd. Bear in mind that all the following patterns can just be dropped when you remove people's ability to attach a name or alias to their contributions.
+
+* //Strong identities//. We create strong on-line identities by asking people to register, usually on the basis of their email address. In some cases, we ask people to use their real names. Identity acts as a net with which to collect social credit. It lets us identify trouble makers, and reward constructive contributors.
+
+* //Identity hierarchy//. Communities that use identities benefit from a scaled hierarchy. Typically, we have anonymous contributors, named but unregistered contributors, registered contributors, moderators, administers, and owners. Thus a new contributor can start with little investment and gradually commit more and more the the community.
+
+* //Meritocratic ranking//. Once an individual starts to contribute to a community, it makes sense to promote them gradually, as they prove their worth. This can mean recruiting them to help as moderators or admins in existing projects, or encouraging them to start their own projects.
+
+* //Metrics for success//. One needs ways to measure success. It seems better to measure projects (which emphasizes collaboration), rather than individuals (which encourages vanity). By measuring projects' popularity, we give contributors a tool for knowing where to invest. One invests in projects that are successful, because these are presumably more accurate solutions to real world problems.
+
+* //Controlling spam//. It's a fact of life that any successful on-line community will be targeted by spammers who want to divert traffic and page ranking to their own sites. A community needs tools for detecting and deleting spam, quite rapidly. In Wikidot.com we successfully turned this into a game, with high-scores for the best spam killers.
+
+* //Personal ownership//. When we allow people to own their work, we create positive feedback loops. The owner will invest in his or her project, will recruit others, will work hard to make it successful. And when a spammer vandalizes a work that's owned by someone, the owner will -- if they're sent a nice email telling them someone edited that page -- respond by working harder to fix and improve their work. Spam can be a force for good.
+
+++ Social Architecture 101
+
+It's one thing to dissect a frog, quite another to put it back together successfully. Knowing how things work does not give us the power to create them, particularly when that knowledge is incomplete and superficial. So far, people who have tried to apply Suroweicki's ideas literally don't have a lot of success. It's not sufficient to take a diverse bunch of people and say, "here, solve this problem".
+
+Communities -- successful wise crowds -- are organic structures. We don't make them, we //grow// them. There are probably many ways to do this, including natural selection, the dominant process. That is, we start a million communities, and through competition and elimination, evolve a few survivors that define the rules for all successive generations.
+
++++ Defining Social Architecture
+
+Social Architecture by analogy with conventional architecture, is the process, and the product, of planning, designing, and growing an on-line community. Social architectures, in the form of on-line communities, are the cultural and political symbols, and works of art of the Digital Society. The 21st century will be identified with its surviving social architectures.
+
+As Social Architects, we participate in communities, we identify successful naturally-occurring patterns, or we develop new patterns, and we apply these deliberately to our own architectures. We apply psychology (our social instincts), economics (how we create common wealth through specialization and trade), politics (how we collect and share power), and technology (how we communicate). We continually adapt our toolkit based on new knowledge and experience. Our goal is to create on-line communities that accurately solve the problems we identify, that grow healthily, and that survive by themselves.
+
+All successful communities are based on the inherent contract of mutual benefit. That is, it is possible to build a billion-dollar business based on volunteer labor, but only if every participant contributes for selfish reasons. Often participants do not realize, or care, that they are part of a community. However, every single act is economic. Thus, "crowd sourcing" (as the exploitation-for-profit of volunteer labor is sometimes called) only works when the crowd really wants to solve the problems you throw at it.
+
++++ Gender-biased Architectures
+
+Fundamentally, Social Architecture rests on psychology. If you believe human behavior is socially indoctrinated, you will make a poor social architect. If you look at psychology as an evolved set of mental tools that are sharpened and polished by experience, you will do much better. Many of these tools are gender weighted, i.e. they are more male or more female. This affects how we organize. Let me summarize some key differences between the male and female minds:
+
+* //Human males organize around problems and opportunities for profit.// They create temporary alliances based on mutual need and capabilities. Males communicate by boasting, telling stories, describing possibilities, developing plans and tactics, and expressing dominance. Male power is a function of number of followers. Male minds accept authority, so long as it is competent. They are happy to become part of a larger group, if that group will win some prize. Male social debt is measured in favors.
+
+* //Human females organize around knowledge of people and events.// They create long-lasting peer-to-peer networks based on mutual value. Females communicate by exchanging knowledge about people and events. While male stories are "What I did last summer", female stories are "what he and she did last summer". Female power is a function of network size and quality. Female minds detest authority. They are happy to be part of a larger group, but not anonymously, and for knowledge, rather than material rewards. Female social debt is measured in knowledge.
+
+We can classify social architectures as more "blue" (male oriented) or "pink" (female oriented). Most of the patterns I've described in this chapter are blue. That is, you will not use them successfully to create communities aimed at women.
+
+However, the top web sites have all succeeded in attracting fairly equal gender ratios. In Facebook and Twitter, women dominate [http://swsi.info/mvf by almost 60-40]. The news portals (Yahoo!, Live.com, and QQ) appear to attract more [http://swsi.info/portals women than men]. I can't find figures for YouTube and Blogger but would assume these are fairly balanced, like the search engines. Wikipedia is perhaps the only solidly "blue" architecture, and as I'd expect, heavily dominated [http://swsi.info/blue by male contributors].
+
+Look at Facebook's slogan: "//helps you connect and share with the people in your life//". It's aimed directly at women and the way female minds measure status and power: how many people you know, and what they know. Twitter's slogan is fluffy: "//Follow your interests. Instant updates from your friends, industry experts, favorite celebrities, and what's happening around the world//". It clearly works, but feels alien to my male mind.
+
+Facebook and Twitter succeed with men despite their pink exteriors. Facebook says to men, silently: "//helps you stay in touch with women//", and Twitter's [http://swsi.info/rose unspoken slogan for guys] is "//whomever collects the most followers wins//".
+
+So the evidence suggests that to build a web site that gets massive traffic, you need to attract women first, men second. It's the nightclub model. If you want to build a community that thinks fast, and solves complex problems accurately, you should focus mainly on the male mind and its psychology of collaboration and competition.
+
+Male and female society are very disjoint, even when counter-gender indoctrination [http://swsi.info/sweden starts at an early age]. But human society is a whole, and male hierarchies do connect to, and depend on, female networks. There are digital architectures waiting to be discovered that connect these elegantly and naturally.
+
++++ The Core Architecture Process
+
+The core architecture process is as follows:
+
+* We define a compelling long-term mission that people can relate to. The mission is clear, short, aggressive, and close to impossible. The mission is the slogan of the community and our prime marketing to those minds we want to attract. The [http://swsi.info/wp "free encyclopedia that anyone can edit"] is a good example.
+
+* We create structures where people can join to work together. These structures should have minimum barriers. In 2011, there is no need to build custom software, everything is available in the cloud. A domain name is usually enough. Cloud services like github.com and wikidot.com do the rest.
+
+* We invest in a core 'seed' product. This may take one or two years to build and takes money and/or time. We build it in public view, so that potential participants see the process, and start to get emotionally drawn to it. There will be few contributors for the first 6-12 months.
+
+* We feed the structures with short-term problems that people can solve easily. The best problems are gaps or errors in our own work. People love to correct others, and it draws them in as contributors.
+
+* We create competition for status within and between these structures, using the concept of "project" to make areas of work more tangible. We encourage contributors to start projects, even duplicate each others' work.
+
+* We promote the most active members into positions of authority, and we do this rapidly and without fear. There is a short window for recruiting new contributors to positions of authority.
+
+* We develop codes and rules for sharing and for resolving disputes. Some rules must be established very early (e.g. licenses for contributions). Others can be developed when needed (e.g. processes for resolving conflicts).
+
+* We participate actively in the community, as users as much as developers. A social architect must experience the pains and joys first hand to know what to fix, and what to leave alone.
+
+* We act as benevolent dictator. At least in not-for-profit cases, as architect we are responsible for the community. We've yet to see Social Architecture emerge as a profession -- building communities for clients -- but that will happen.
+
++++ Less is More
+
+You make a racing car faster and more agile by removing weight, not adding power. There are a number of techniques for making organizations lighter, faster, more agile:
+
+* //Do the minimum that probably works.// Do the absolute minimum that probably works, then invest more only as people start to use your work, and complain. Never invest more than the absolute minimum to get "bite" from users. User feedback -- more than your own vision -- is the best guide for where to make further investments.
+
+* //Perfection precludes participation.// Releasing buggy, half-finished works is an excellent way to provoke people into contributing. This can be hard for big egos to swallow, but flaws can be more attractive than perfection.
+
+* //Legal entities suck hugely.// One of my communities, Digistan, was designed, grown, and did its work (building a new generation of legal templates and political arguments for open standards) in about six months. The Open Web Foundation -- solving the same problem -- spent two years simply building a legal entity, defining bylaws, and electing officers.
+
+* //Upfront contracts are a barrier.// Many open source projects ask contributors to assign their copyrights to the project. This creates a huge barrier that most potential contributors don't cross. Use shared-ownership models and share-alike licenses so everyone owns their contributions, and collective works are free for anyone to remix.
+
+* //Use available cloud services.// Many organizations end up trying to build custom software for their organization. Apart from being expensive and distracting, it creates huge inertia. Use cheap and free platforms like Wikidot.com and github.com.
+
+* //Use existing legal frameworks.// It's less of a problem today, but communities still work with lawyers to draft contracts covering ownership and remixing. The Creative Commons and Free Software Foundation provide excellent reusable contracts, use them.
+
+* //Power structures are liquid cement.// Communities need power hierarchies but they should be fluid and heavily delegated. That is, choose the people you work with, but let them choose the people they work with. Power structures are like liquid cement, they harden and stop things moving around as they need to.
+
+* //Permanent staff are a burden.// While you may need to fund work at some point -- see my discussion of burn-out -- do not turn this into structure. Treat all funding as temporary and specific. Aim funding at projects, not individuals. Allow projects to use funding as they see fit.
+
+* //Egos can be crippling.// There is still research needed to prove that forced anonymous works better, but it looks like it does, at least for certain kinds of exchange. Forced anonymous lets you dispense with large pieces of the architecture, making the result lighter, faster, more agile.
+
++++ Psychology of Participation
+
+There are a few techniques you can use to get people to participate. Don't over-use these, they work by being invisible:
+
+* When someone makes a suggestion or an idea, the implication is that they're asking someone else to make this happen for them. "Wouldn't it be great if..." The correct answer is, "excellent idea, I'm curious to see how you will make that happen". And of course it must actually be //feasible//. If there are structural reasons why a good idea cannot translate into action, fix them.
+
+* When there is something that has to be done, and you don't know how to do it yourself, announce publicly that it is impossible. Or, propose a solution that is so awkward and hopeless that it annoys the real experts into stepping up.
+
+* When there is an interesting problem, try to get multiple teams competing to solve it. Competition can be great fun for all involved, and produce much better answers than monopolized problems. You can explicitly create competitions, with prizes.
+
+* Sometimes, you can pretend to forbid or discourage people from exploring certain avenues. It's also a form of reverse psychology. It's best if you can find a third party to do the forbidding. E.g. "no-one can crack this code, and even if they could, it'd probably be illegal".
+
++++ Economics of Exhaustion
+
+I've emphasized the value of volunteer work. It's more accurate, honest, and creative than paid work. But there's a strong caveat here. Some of the Social Architecture patterns can be dangerous. When you define a compelling mission and a tangible enemy, you can motivate people close to self-destruction. This was a major problem in the FFII before I took over. Many core members were in a state of deep exhaustion -- burnout -- that I recognized from my own past.
+
+Research into burnout doesn't seem to match what I've observed and experienced in the real world. But data trumps theory. Here's what I've observed, several times:
+
+* This specific form of burnout manifests itself as a kind of disgust with a specific project. We push it aside, stop answering emails, leave the community. Other people start saying, "he's acting strange... depressed, or tired..."
+
+* //It is project-related.// That is, we burn-out on specific projects but not on others. In severe cases, we become dysfunctional for a few months, and when we start working again, it's on something different.
+
+* //It tends to hit after a period of 12-18 months to several years//, depending on our character. Very stubborn, driven individuals will take longer to burn out.
+
+* //It is directly related to compensation//, i.e. material reward. I've said that social rewards motivate us more than money, and this is true. But that motivation can become toxic if there's no way to pay the bills.
+
+* //It is preventable and curable.// This is the weirdest aspect, which I proved by taking individuals that had burnt-out, and finding ways to pay them to do what they were doing before.
+
+Here's my hypothesis of the mechanisms behind burnout. Men, more than women, invest heavily in careers and professions. We take great risks, especially when young, in the hope of getting rewards. We're able to postpone material reward for a long time, years, if we think we're on the right track.
+
+Thus a young writer or musician will tolerate being poor for years, if they think they are on the track to eventual fame and fortune. (Just as there are more male engineers, there are more male guitar players. It's not sexism, just gender specialization.)
+
+No matter how subtle and subconscious the calculations, they are always present. We are essentially economic animals. All life is. We can lie to ourselves really well, but beneath every act and decision is an economic motive. We invest in projects because we feel they will propel us to success, even if it takes years. We compete with others, trying to find niches where our particular talents can shine.
+
+So, it happens that the young male mind striving to invest in the right places finds itself in a situation where the weight of lies accumulates and tips over. The path it's on suddenly proves itself to be wrong. The people it was following are manipulative liars. The mission was a fraud. The praise of others is emotional blackmail. The years of investment was a waste, and even a further minute would be wasted. When we burn-out on a project, we abandon the project like it was toxic, with much the same feeling as if we ate something bad.
+
+Here are some simple rules to reduce the risk of burnout:
+
+* People must not work alone on projects. This is probably the main factor: the concentration of responsibility on one person who does not set their own limits.
+
+* People need day jobs. This can be hard but necessary. Getting money from somewhere else makes it much easier to sustain a sacrificial project.
+
+* Projects need some kind of a business plan. As long as there is an eventual prospect of economic balance, the mind can survive hard work without material reward.
+
+* People must set limits, in terms of how long they work on tough projects. If necessary, rotation can be enforced in various ways.
+
+* Education on burnout can be helpful. When we explain to people what burnout is, they recognize it faster and call for help before it is too late.
+
+* The community needs good tools and processes that make people easily replaceable. This lets people relax and delegate work.
+
+Groups that do any real work need some kind of sustainable funding. Without this, the group burns itself out as individuals find themselves unable to continue working. There are three areas that need money. First, a long-term project needs a professional core to avoid amnesia as volunteers come, burn-out, and leave. (Yes, many unfunded groups can be quite predatory.) Second, groups may need face-to-face meetings and events, which cost money. Third, even today, groups may need to pay for servers and hosting. Too much money will corrupt a community, and too little will starve it.
+
++++ Participation is not Optional
+
+As Social Architect, you must eat your own dog food. There is no way to judge the success or failure of a particular pattern without being an active member of the communities you create. As you develop your toolkit, you'll add and remove patterns depending on the context. For example, you can use Social Architecture in business -- see Appendix 2 -- but it works somewhat differently than in a volunteer community.
+
+The successful Social Architect is brutally honest with himself and others. The biggest challenge is overcoming our own prejudices and biases, and then those of everyone we know. There is never enough data, never enough time to collect and analyze enough data. What's left is insight and observation.
+
+Here are some techniques I've found to be helpful in developing a rich toolkit of reliable patterns:
+
+* Practice and repetition. It is cheap to experiment, and failure is healthy. By definition, if you start a project and it fails, no-one notices. So start many, many projects.
+
+* Do first-line support. All communities have a place where newcomers arrive and ask questions. Be there, observe how new visitors get lost, what mistakes they make, and improve your designs accordingly. Perhaps they are confused by the mission. Or maybe the structures are confusing. A good designer sympathizes with his users, feels their pain, and works to remove it.
+
+* Release early, release often. This is a mantra from free software communities. It's accurate. You want to do your design work in the open, and get critical feedback as early as possible.
+
+* Consume your own product obsessively. If you are not a fanatical user of whatever your community is making, you are half-blind. I learned this when working for Nigerian Breweries in the 90's.
+
+* Learn and teach all the time. Teaching gives you perspective, and learning lets you pick up new patterns over time. Social Architecture is a young craft, and though the basics are solidly anchored in human psychology, there are still many unknowns.
+
++++ Worked Example - ZeroMQ
+
+I'm not going to discuss ZeroMQ as a software product except to say that it's very different today from what was originally planned, it's simpler and better in ways that were inconceivable then. Part of this comes from the determination of the core architect (Martin Sustrik) to aim for scalability above features. Part of this comes from the expert community we built up around the first versions of the software.
+
+Let me walk through the specific things we did to make ZeroMQ succeed as a community:
+
+* The original mission was: "Fastest. Messaging. Ever." which was quite crazy considering that large firms like IBM spend hundreds of millions of dollars in making their messaging faster.
+
+* We designed a brutal logo and color scheme which Martin described as "hitting the neocortex". The goal was to create a strong emotional response to the mission. It's crazy, impossible, and bright, bright red!
+
+* We used the Free Software Foundation's LGPL license, which guarantees remixability -- licenses like BSD and MIT/X11 do not -- but allows the ZeroMQ library to go into commercial products.
+
+* We used free web services, starting with Wikidot.com and later github.com, where users could easily create their own projects or fork existing ones.
+
+* We created layers where people could extend ZeroMQ to work with specific languages in just a few days. This spawned 30-40 projects around ZeroMQ, and was the main growth point of the community.
+
+* We recruited the main contributors (those building language bindings on top of ZeroMQ) into the community as administrators, until we were ten or so. However, we have not needed a decision making structure, because each contributor is lord of their own projects.
+
+* While we initially used contributer agreements and copyright assignments, we later switched to a fully distributed ownership model where each contributor owns their code, and everyone is free to remix the results. It makes it impossible for anyone to every buy and shut-down ZeroMQ. It also makes it easier for people to contribute.
+
+* We encouraged people to create projects rather than try to force everyone into a single large project. The tools we used (git and github) made this easy. The result is more diversity, and practically no conflicts.
+
+* We conducted all technical discussions and decisions publicly (except when there was money involved, which did happen), so that users could participate.
+
+* We did first-line support, helping newcomers with questions and we used this experience to make it simpler to get ZeroMQ and become a participant. The [http://www.zeromq.org zeromq.org website] is minimalist and works.
+
+* We do not have feature requests. If someone wants a feature, they either make it themselves, or they find the money to pay someone else to make it. No-one makes anything they don't want to make for their own benefit or interest.
+
+* We fix issues immediately. That is, if we make something and it's broken, we always fix it. We encourage people who find problems to help us test the fixes. This brings them into the process, happily.
+
+* While version 1 of the product was built by a professional team, versions 2 and later have been built and maintained by the community (iMatix acts as part of the community rather than owner of it). This has allowed the product development to move much faster.
+
+In summary, the more we moved the ZeroMQ community towards the Social Architecture ideals, the better it worked.
+
+++ The Collective Intelligence Index
+
+I'm going to propose a tool for measuring the intelligence of a community; in other words, how accurately and efficiently the community will work. Also, how enjoyable it will be to participate in. This is a relatively "male" perspective, and the most successful communities, according to this index, are also likely to be highly gender-biased.
+
+We have twenty criteria, taken from the patterns and analysis above. I'll weight these, based on how important I think they are, from experience and observation. Full remixability, which defines the freedom of knowledge in the community, is the most important criteria. A clear enemy and sufficient money are at the bottom of the list. The top five criteria by themselves can be sufficient for a thriving community, whereas the bottom five criteria match a well-organized military unit.
+
+||~ Criteria  ||~ Weight ||
+||  Remixability    ||  9   ||
+||  Volunteer contributors  ||  8   ||
+||  Competition ||  7   ||
+||  Freedom of access   ||  6   ||
+||  Freedom to choose tasks ||  6   ||
+||  Culture of minimalism   ||  5   ||
+||  Space for conflict  ||  5   ||
+||  Impossible mission  ||  5   ||
+||  Weak group identity ||  5   ||
+||  Decentralization    ||  5   ||
+||  Free workspaces ||  5   ||
+||  Smooth learning curve   ||  5   ||
+||  Measurable success  ||  5   ||
+||  Sense of humor  ||  4   ||
+||  Openness and transparency   ||  4   ||
+||  Fair authority  ||  4   ||
+||  Regular structure   ||  4   ||
+||  Well-written rules  ||  3   ||
+||  Clear enemy ||  3   ||
+||  Sustainable economics   ||  2   ||
+||  ||  100    ||
+
+Now, to score any given community, give it a rating for each criteria, from zero to the weighting. Add those up, to get a percentage. The resulting number indicates how smart the community is, how likely it is to survive on its own feet, how much fun it would be to take part.
+
+I'm going to take a number of networks, organizations, web sites, and on-line communities, and rank them. It's not science, but more like creative abuse of numbers. As everyone knows, 67% of statistics are invented on the spot, and 91% of people accept them without question.
+
+* Wikipedia
+* Lawyers, as a profession
+* The fashion industry
+* The Hollywood movie industry
+* The Nigerian movie industry, aka Nollywood.
+* The news/discussion site [http://www.reddit.com Reddit]
+* The Fox News group
+* The military (in some random western nation)
+* Facebook
+* Twitter
+
+I'm not going to make any judgment about the value of any specific community. It's impossible and deceptive. Twitter's implied mission is "collect the most followers", which sounds weak compared to Wikipedia's "assemble the world's knowledge". But once formed, a smart and agile crowd can as easily create new missions like "bring down the dictator". Arguably, the value (to society) of a social architecture is not the products they produce, but the community itself. With Wikipedia, or ZeroMQ, it's hard to separate the crowd from the content. But with Twitter it's really obvious. The content is transient and mostly worthless. But the crowd is not.
+
+Here's the scorecard I came up with:
+
+||~ Criteria ||~ Weight || Wikipedia || Twitter || Reddit || Facebook || Fashion ||
+|| Remixability             || 9 || 9 || 9 || 9 || 5 || 9 ||
+|| Volunteer contributors   || 8 || 8 || 8 || 8 || 8 || 2 ||
+|| Competition              || 7 || 3 || 5 || 7 || 5 || 7 ||
+|| Freedom of access        || 6 || 6 || 6 || 6 || 6 || 3 ||
+|| Freedom to choose tasks  || 6 || 6 || 6 || 6 || 6 || 5 ||
+|| Culture of minimalism    || 5 || 4 || 5 || 5 || 4 || 3 ||
+|| Space for conflict       || 5 || 4 || 5 || 5 || 4 || 4 ||
+|| Impossible mission       || 5 || 5 || 2 || 2 || 1 || 3 ||
+|| Weak group identity      || 5 || 5 || 5 || 4 || 5 || 4 ||
+|| Decentralization         || 5 || 5 || 5 || 5 || 5 || 5 ||
+|| Free workspaces          || 5 || 5 || 5 || 5 || 5 || 3 ||
+|| Smooth learning curve    || 5 || 3 || 5 || 5 || 5 || 5 ||
+|| Measurable success       || 5 || 5 || 5 || 5 || 4 || 5 ||
+|| Sense of humor           || 4 || 2 || 4 || 4 || 2 || 3 ||
+|| Transparency             || 4 || 4 || 4 || 4 || 2 || 3 ||
+|| Fair authority           || 4 || 4 || 3 || 3 || 1 || 2 ||
+|| Regular structure        || 4 || 4 || 4 || 4 || 4 || 1 ||
+|| Well-written rules       || 3 || 4 || 3 || 2 || 2 || 0 ||
+|| Clear enemy              || 3 || 3 || 0 || 0 || 0 || 0 ||
+|| Sustainable economics    || 2 || 2 || 2 || 1 || 2 || 2 ||
+||                          ||100||91 ||91 ||90 ||76 ||69 ||
+
+||~ Criteria ||~ Weight || Nollywood || Military || Fox News || Lawyers || Hollywood ||
+|| Remixability             || 9 || 8 || 4 || 7 || 9 || 1 ||
+|| Volunteer contributors   || 8 || 2 || 0 || 0 || 0 || 0 ||
+|| Competition              || 7 || 7 || 6 || 3 || 7 || 5 ||
+|| Freedom of access        || 6 || 3 || 2 || 1 || 0 || 1 ||
+|| Freedom to choose tasks  || 6 || 3 || 0 || 0 || 3 || 1 ||
+|| Culture of minimalism    || 5 || 3 || 3 || 2 || 0 || 0 ||
+|| Space for conflict       || 5 || 5 || 0 || 0 || 0 || 2 ||
+|| Impossible mission       || 5 || 4 || 5 || 4 || 0 || 1 ||
+|| Weak group identity      || 5 || 3 || 0 || 0 || 0 || 3 ||
+|| Decentralization         || 5 || 1 || 1 || 0 || 0 || 1 ||
+|| Free workspaces          || 5 || 2 || 0 || 0 || 0 || 0 ||
+|| Smooth learning curve    || 5 || 3 || 0 || 0 || 0 || 1 ||
+|| Measurable success       || 5 || 5 || 2 || 5 || 4 || 5 ||
+|| Sense of humor           || 4 || 4 || 0 || 4 || 0 || 1 ||
+|| Transparency             || 4 || 3 || 0 || 0 || 0 || 1 ||
+|| Fair authority           || 4 || 0 || 4 || 0 || 0 || 0 ||
+|| Regular structure        || 4 || 2 || 4 || 1 || 4 || 3 ||
+|| Well-written rules       || 3 || 0 || 4 || 3 || 4 || 1 ||
+|| Clear enemy              || 3 || 1 || 3 || 3 || 0 || 3 ||
+|| Sustainable economics    || 2 || 2 || 2 || 2 || 2 || 2 ||
+||                          ||100||61 ||40 ||35 ||33 ||32 ||
+
+Once we can measure the collective intelligence of a community or organization, we can increase it. For example, a formal military organization scores very low. The same fighting force could score much higher if it removes barriers to knowledge sharing and problem solving.
+
+++ Case Studies
+
+Let's look at in more detail at some samples of major communities. Each of these have their critics and enemies, who may complain that I'm biased, which is undoubtedly true. But my prediction is that the examples I provide here will survive for a long time, indeed they will become established as fundamental layers in the digital society's fabric, so obvious that we cannot imagine how things worked before. Remember, according to Surowiecki, the wise crowd makes fast and accurate judgments, organizes itself to make the best use of resources, and cooperates without a central planning authority. This is a winning combination, one that beats less well organized competition.
+
++++ Wikipedia
+
+When I explain collective intelligence or Social Architecture to people, the simplest and most effective example I can give is Wikipedia, which is today universally known. Wikipedia has survived the predictions of its own death since it was born, and has proven to be a robust tool, perhaps the best so far, for collecting knowledge. It calls itself "a multilingual, web-based, free content encyclopedia project".
+
+When I started writing this text, Wikipedia's entry on itself said:
+
+> As of July 25, 2007, Wikipedia has approximately 7.9 million articles in 253 languages, 1.92 million of which are in the English edition.[1] This makes it the world's largest, most extensive, and fastest growing encyclopedia ever compiled.[citation needed] It has been written collaboratively by volunteers around the world and the vast majority of its articles can be edited by anyone with access to the Internet. Steadily rising in popularity since its inception,[3] it currently ranks among the top ten most-visited websites worldwide.[4]
+
+Today, just four years layer, it says:
+
+> Its 19 million articles (over 3.6 million in English) have been written collaboratively by volunteers around the world, and almost all of its articles can be edited by anyone with access to the site.[3] As of July 2011, there were editions of Wikipedia in 282 languages. Wikipedia was launched in 2001 by Jimmy Wales and Larry Sanger[4] and has become the largest and most popular general reference work on the Internet,[2][5][6][7] ranking around seventh among all websites on Alexa and having 365 million readers.[2][8]
+
+The collective intelligence that is Wikipedia consists of a well-organized and diverse army of volunteers, governed by a hierarchy of powers that individuals earn by contributing to the project:
+
+> Maintenance tasks are performed by a group of volunteers; these include developers, who work on the MediaWiki software, and other trusted users with various permission levels including "steward", "bureaucrat" and "administrator."[21] Administrators are the largest group of specially privileged users, and have the ability to delete (remove) pages, lock articles from being changed, and deter users from editing.[22]
+
+Despite its size and growth, Wikipedia is very cheap to run:
+
+> Wikipedia is funded through the Wikimedia Foundation. Its 4th Quarter 2005 costs were $321,000 USD, with hardware making up almost 60% of the budget.[23] The Wikimedia Foundation currently relies primarily on private donations, and holds regular fundraisers;[24] the January 2007 fundraiser raised just over $1 million.[25]
+
+Hardware costs fall by about the same rate as Wikipedia grows, following Moore's Law in both directions. So, it can expand infinitely on a constant hardware budget. One reason Wikipedia is so cheap is that it is run by volunteers, the other is that it uses all free software:
+
+> The operation of Wikipedia depends on MediaWiki, a custom-made, free and open source wiki software platform written in PHP and built upon the MySQL database. MediaWiki is licensed under the GNU General Public License and used by all Wikimedia projects, as well as many other wiki projects.
+
+As I've said before, it's hard to over-state the importance of free software in powering the digital revolution. If Wikipedia had worked with closed software, it would have died at birth. Cost is one issue, but the simple need to remix the software before coming to a mature result is more significant. MediaWiki was not developed overnight:
+
+> Originally, Wikipedia ran on UseModWiki written in Perl by Clifford Adams (Phase I), which initially required CamelCase for article hyperlinks; the present double bracket style was incorporated later. Starting in January 2002 (Phase II), Wikipedia began running on a PHP wiki engine with a MySQL database; this software was custom-made for Wikipedia by Magnus Manske. The Phase II software was repeatedly modified to accommodate the exponentially increasing demand. In July 2002 (Phase III), Wikipedia shifted to the third-generation software, MediaWiki, originally written by Lee Daniel Crocker.
+
+No free software would mean no Wikipedia. Remember this when I come back to the importance of free software to the digital economy.
+
+The main conventional criticism of Wikipedia has come from people who doubt that it can produce accurate articles. This view is especially strong in academic circles, perhaps because Wikipedia directly challenges the authority of traditional experts. If everything is well documented and explained on wikipedia.org, who needs to consult a professor? This is of course a standard fear in old professions facing new technology, and the standard answer is the same: the digital revolution benefits all sectors if they decide to take advantage of it. Wikipedia should be to academia what mobile phones and Facebook are to social life.
+
+> Due to Wikipedia's open nature, critics have questioned its reliability and accuracy.[5] The site has been criticized for its susceptibility to vandalism and the addition of false or unverified information,[6] uneven quality, systemic bias and inconsistencies,[7] and for favoring consensus over credentials in its editorial process.[8]
+
+"Favoring consensus over credentials in its editorial process" sounds exactly right for a wise crowd. And indeed, it seems to work:
+
+> Two scholarly studies have concluded that vandalism is generally short-lived[11] and that Wikipedia is generally as accurate as other encyclopedias.[12]. In a study of Wikipedia as a community, economics PhD student Andrea Ciffolilli argued that the low transaction costs of participating in wiki software create a catalyst for collaborative development, and that a "creative construction" approach encourages participation.[39]
+
+The quality of Wikipedia articles is not accidental; a lot of work goes into eliminating bias through the strict application of carefully-designed rules:
+
+> Wikipedia tries to address the problem of systemic bias, and to deal with zealous editors who seek to influence the presentation of an article in a biased way, by insisting on a neutral point of view. Wikipedia appeals to the authority of peer-reviewed publications rather than the personal authority of experts. Wikipedia does not require that its contributors give their legal names or provide other information to establish their identity. Although some contributors are authorities in their field, Wikipedia requires that even their contributions be supported by published sources.
+
+Before Wikipedia existed, people used a simpler, less accurate technique to collect information from the Internet: searching and then reading web sites. The key value of Wikipedia is not that it creates knowledge -- most of the information it contains was already on websites or other on-line resources. What Wikipedia does, excellently, is //aggregate//, which as we've seen, is a key function of a wise crowd.
+
+I predict that Wikipedia will reach 1 billion articles by 2015 and it will peak at a massive figure, perhaps a hundred billion articles, before its job of aggregating all current written knowledge begins to be over. It will then grow a little more slowly, but still double in size every several years.
+
+Other more immediate aggregation platforms -- like Wikinews -- will become more active once Wikipedia has matured. Wikipedia has some fundamental design constraints. Not everything we know can be captured as an encyclopedia article. Watch out for collaborative video and photo journalism, made possible by smooth integration of mobile phone cameras into the digital fabric. Traditional media is just starting to be absorbed and turned into a fully digital remix.
+
+My admiration for Wikipedia is not limitless. There are some very important areas where Wikipedia fails miserably, and does not yet admit it. Most visibly any article that covers current events or politics is liable to be the scene of intense "edit wars" between opposing camps. Imagine an article on a presidential candidate: it will be bitterly fought over for years, decades even, and no amount of creative construction can resolve structural differences of opinion. Any attempt to create a balanced view of current events can be, and is, easily undermined by a determined protagonist, especially if paid to edit Wikipedia full-time.
+
+And Wikipedia excludes primary sources, which makes biographical articles sometimes ludicrous.
+
+Wikipedia needs to find a way to split off current events where this controversy can be constructive, rather than destructive. Perhaps by allowing multiple versions of the same article. The very fact that an article on open standards or president Bush is subject to an edit war is interesting and worth recording: such controversies get lost in history, which tends to record only the "winning" point of view, minus all the arguments, which are often more interesting material.
+
++++ Google Search
+
+Some collective intelligences are so subtle that only when we deliberately look for them can we see them. One of these, probably the largest and most efficient of all, is Google Search. This unlikely wise crowd has solved, elegantly, one of the hardest problems in computing, namely how find useful information. The problem is not simply to find information, any computer can do that. It is to decide what information is most "interesting", a problem that is in my opinion unsolvable by software acting alone.
+
+Google Search consists of a number of algorithms. Am I suggesting that these are "intelligent"? No, I am not. Have I stumbled upon the secret of artificial intelligence? Well, perhaps yes, in a modest way. The algorithms are just part of the story, as important as the MediaWiki software that powers Wikipedia. MediaWiki is not the clever part, it's just an aggregation tool. The intelligence lies in the brains of millions of contributors.
+
+It is of course people like you and me, not algorithms, that tell Google Search how important pages are. It is simple: if your website refers to mine, and Google Search catches that reference, it knows that you rank me at least a little higher than sites that you ignore. Google's key trick is to collect these implicit rankings over billions of web pages and use them to give sites a relative ranking.
+
+At this point I hope a light clicked in your mind. If not, you're either way ahead of me, or you did not read the previous paragraph. Collective wisdom can be amplified by the right software, just as our voice can be amplified by a mobile phone. It's not a perfect solution -- few are -- but on the whole it works so well that the problem of indexing the web can be considered definitively 'solved'.
+
+Google Search has a clear mission ("index the web") and lets anyone join at zero cost. Contributors are volunteers and spread out geographically. There's no notion of "belonging" and no emotional attachment to Google Search (unless you're a professional Search Engine Optimizer). Participants are free to work on whatever they choose. There are excellent tools for ranking participants, and intense competition to beat the others. The rules are clear and well-enforced. The architecture is neat and predictable - it's the search index itself.
+
+Google Search fails in some key areas. It's not open and transparent, meaning that over time the key algorithms will accumulate inaccuracies. Google are pretty good at fixing these but they exclude the crowd from helping.
+
+We can see a clear weak point in Google's structures: its reliance on secrecy and control to keep order. At its very heart, the company is not a wise crowd but a classic industrial age expert group that makes money by dominating its market. It's clearly a //very// successful expert group. But in the long term, it is exactly this expert group will actively //prevent// Google search from solving the next 'impossible' mission in indexing the Internet, and I predict that by 2020 or so, Google Search will be replaced as the people's choice by something that scores higher.
+
++++ Google Gmail Spam Filter
+
+Email is about 90% spam, it seems. Spam has been one of the hardest problems to solve, it pits the freeloader against society, a classic case of cheats who use other peoples' bandwidth and time to make money. Spam has long been considered an unsolvable problem: no matter what algorithm one uses to detect spam, a spammer can gets around it. There is [http://swsi.info/spam a classic page] on craphound.com that starts:
+
+> Your post advocates a ( ) technical ( ) legislative ( ) market-based ( ) vigilante approach to fighting spam. Your idea will not work. Here is why it won't work...
+
+And proceeds to list dozens of reasons. It used to be traditional, when someone proposed a solution to spam on a forum, to copy the craphound.com page, check the reasons that apply, and post that to the forum. However, despite the weary cynicism that the craphound.com author displays, I see less than one spam a day on average, though my email address is widely published.
+
+The solution to spam is found in several places now. I'll describe it, using Google Gmail as an example.
+
+Across the world, the millions of Gmail users receive spam almost in real-time. When a spammer sends out emails, he cannot generate millions of unique emails. The cost is too high. There is some redundancy, i.e. the same spam email sent to multiple people. Gmail provides a mechanism to detect this redundancy and to act on it, accurately and rapidly. Spam emails reach some Gmail users first. These people recognize and mark the email as 'spam'. Gmail starts to recognize the spam, and filters it out for other users. It happens quickly, and only a small minority of users will ever see the spam. Like search ranking, the best spam detection is done by people, not software.
+
+So Gmail asks people to act as spam detectors, and uses software to aggregate and act on these decisions. I do not know for a fact, but I assume that Gmail also tracks how accurately people flag spam, by counting false positive detections, so that individual contributions to spam detection are ranked.
+
+Gmail's spam filter suggests an exciting model for artificial intelligence, namely "computer aided collective intelligence". We do not need to ask machines to make decisions. We can do that ourselves, cheaply and rapidly and accurately. We only need machines to help us aggregate those decisions to produce overall accurate results, and act on those decisions to apply them rapidly.

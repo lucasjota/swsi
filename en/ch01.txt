@@ -1,0 +1,381 @@
+[!-- How Everything Became Digital --]
+
+In this chapter I'll look at how the Internet is changing our society. It's happened quickly, in just the last ten years or so. More and more of our knowledge about the world, and about other people, is going digital. What we know, who we know, is moving out of minds and into databases. These changes scare many people but they also free us. And our freedoms let us improve our society in ways that were never possible before. While most of the world has already been wired, Africa stands out. I'll look at Africa's story to highlight just how dramatic these changes have been, and will be.
+
+++ One Very Long Number
+
+Many corporations were born and grew large in the industrial age. This old money tends to look at the wilder aspects of the digital economy and see a mortal threat. Often it works directly to try to control, slow, or reverse these changes. But it's a safe bet despite the best efforts of old money, every product of the human mind that can be digitized will be. We've crossed the digital horizon in many industries already, and the rest will follow. Whether it be the notes of a new symphony, the design of a new pair of jeans, or the frames of a subway surveillance camera, human culture is ultimately going to end up as one very long number, a stream of bits. This is a historic inevitability.
+
+Knowledge is already moving rapidly on-line, with Google acting as the general index and Wikipedia and Facebook as the aggregates of human knowledge. Who you know is as important as what you know. Business has moved on-line in many cases: email, VoIP, wikis, mobile phone, video chat, virtual teams working for virtual companies, selling virtual products to virtual customers for virtual money. Digital entertainment products -- music, video, games, social networks, pornography -- are one of the main attractions of the digital society to many people.
+
+Art students in the rich world switched to easier "new media" like video in the late 90's and early part of the 21st century. Analogue culture -- the typewriter, the board game, the printed book, the hand-written letter -- are becoming antiques. Painting and sculpture will become lost arts. Collect those postcards, because your kids won't ever receive one.
+
+But when culture becomes digital it's more than just a technological shift. We also see new behaviors emerge. Take the music industry as an example. It used to be a top-down, an industrial economy in which large firms delivered products to the market, and small firms just wanted to become large. Today, the avant-garde music industry consists of 'mix tape' communities centered around a handful of artists. Scale and growth means reaching more people, not hiring staff and buying larger offices. Music has always been language, but when that language is digitized, a group of underground DJs with computers are more creative and powerful than the largest music business. Not only are bricks and mortar irrelevant in the digital economy, they are a definite handicap.
+
+++ The Digital Petri Dish
+
+In 1965, Gordon Moore, founder of Intel, wrote:
+
+> The complexity for minimum component costs has increased at a rate of roughly a factor of two per year... by 1975, the number of components per integrated circuit for minimum cost will be 65,000. I believe that such a large circuit can be built on a single wafer.
+
+His prediction that chips would double in capacity each year became known as "Moore's Law". He thought that the rate of exponential increase would last maybe 10 years. It has in fact lasted over forty years -- though Moore's twelve months became eighteen -- and it shows no signs of decelerating. Chips (and disks, which follow the same curve) are the soil in which our digital culture grows, and we've seen that space double and double and double, every year and a half. For the last 45 years. That's an increase of 1,000,000,000 times.
+
+When I bought extra memory for my first computer -- a Commodore VIC-20 -- in 1981, the bulky expansion pack provided me with about 3,500 bytes of memory and cost fifty pounds. Space for the digital culture has long been limited. Writing my thesis, I had to strip all the comments out of my software source code so that I could save it on a floppy. As a young programmer, I learned how to make software that was lean and mean.
+
+In 2010 I can buy a four gigabyte memory card for 10 Euro. To put that into perspective: as a writer I can produce ten pages of finished text in a day, about 30K bytes. I could fill the 3.5K memory pack in about one hour. It took me about three months to fill the 170K floppy that I stored my thesis on. It would take me about four lifetimes of non-stop writing to fill that 4GB memory card.
+
+I think it's significant that we passed a point where space for the digital culture changed from a luxury to a commodity. The cost of capacity -- disk, memory, network, processor -- has long been a limit to purely experimental or not-for-profit projects. But by 2004 or so, there was a glut in capacity. A new wave (aka 'Web 2.0') of experimentation and social growth started, based on the availability of close-to-free resources for any individual or team with an idea.
+
+Moore's Law applies to silicon but I've come to believe that it is actually a general law that applies to all technology. I call this the "technology half life": the production cost of technology drops by 50% every 18 months, more or less. In some cases it's 12, others it's 24 months. Ignoring materials, labour, distribution, marketing, and sales, the eventual cost of any given technology will approach zero. Products are of course not just raw technology, they also require materials, time, energy, and knowledge. A fine wine is expensive because it depends on rare raw materials and knowledge, time, and scarce land. Green beans grown on the hills of Kenya remain expensive to western consumers because they have to travel a long distance, rapidly, which costs energy. But chips produced in a Korean fab are ultimately just sand processed by very clever machines, and should ultimately cost not much more than imported green beans.
+
+Hardware falls in price according to its half-life, or to put it another way, a given budget will buy exponentially increasing hardware. Thus we have an ever-expanding petri dish for the ever-expanding digital culture. The hard disk is always 60% full.
+
+Software represents distilled knowledge about how to solve specific types of problems that can be solved using general purpose computers. Collecting this knowledge is expensive at the start, since it means fishing it out of individuals' brains. People need to travel, meet, talk, think together. But once that's been done, it is almost free to distribute, share, remix the resulting knowledge. So the digital economy has rapid cycles where new products move from costly luxury to free commodity in five to ten years. In 1992, an email account cost me about 1,200 Euro a year. That's about 3,000 Euro in today's money. In 1999, my Yahoo! web mail account cost me nothing at all.
+
+And the digital economy is built around accepting or distorting this process. There are many ways to make a lot of money in the digital economy. One: build up a company based on a not-yet-commoditized product and sell it to a larger, less agile firm (Hotmail, Flickr, and YouTube were sold like this). Two: make and give away for free products that other (slower) firms are still trying to sell, and use this to open the market to new services (Google does this). Three: create your own captive society and force it to use your products where without real competition, prices can remain artificially high (Microsoft and more recently Apple). Four: sell luxuries and fashion to people who have more disposable income (Apple).
+
+And cheaper digital technology affects the real world economy as well. Transport gets more efficient, and cheaper. Production is automated, and gets cheaper. Administration is more efficient, and automated, and cheaper. The rapid global spread of digital technology over the last decade is a principal cause of the general global growth in prosperity.
+
+++ The First Law
+
+The Net -- the fabric of digital society -- was born a few years after Gordon Moore coined his Law, on 7 April 1969. The event was the quiet and rarely celebrated publication of a "request for comments" on something called the "HOST software". The document, [http://swsi.info/rfc1 simply called "RFC001"], says:
+
+> During the summer of 1968, representatives from the initial four sites met several times to discuss the HOST software and initial experiments on the network. There emerged from these meetings a working group of three, Steve Carr from Utah, Jeff Rulifson from SRI, and Steve Crocker of UCLA, who met during the fall and winter. The most recent meeting was in the last week of March in Utah. Also present was Bill Duvall of SRI who has recently started working with Jeff Rulifson.
+
+Crocker, Carr, and Rulifson are not household names. But Steve Crocker and his team invented the RFC series. The RFCs became the laws of the Internet, specifying every standard in clear form that was freely usable by all. These were spectacularly successful standards by any measure: implemented in hundreds of thousands of products, and surviving forty years with no sign of decay. The RFC system did not only define standards for protocols, it also defined rules for the legislative process itself.
+
+Today, despite this success, it is becoming harder and harder to make new protocols and standards. There are too many billions that depend on controlling, taxing, and corrupting standards. Patents are a major threat. The calculation is usually simple: imagine if email had been patented... how much money would the patent holder have earned?
+
+But the truth is that if email had been patented -- which happily it was not -- then we would be stuck in some weed-ridden alley instead of cruising on the information superhighway. Silicon may be the space in which the digital society grows, but knowledge is its blood and software is its muscles. Patents make it illegal to reuse knowledge, and kill the incentive to make new software.
+
+++ A Brief History of the Internet
+
+I will summarize the history of the Internet thus: a generation that grew up with computers in college and university went out into the real world and colonized it with their freaky but ultimately accurate visions of what was possible with ever more, cheaper, and faster communications. It took about four decades to go from three terminals on a local network to four billion mobile phones on a global network. Here's a brief history of the Internet.
+
+In the sixties, mainframes ruled. These were huge expensive machines run like private empires. People were experimenting with simple networks. In 1962, I was born, and someone also invented network packets. These are like envelopes of information that could be sent around different routes to get to their destination. In the sixties, the military began developing packet-switched networks that could survive a lot of damage. Around 1965, people invented mainframe email, in 1969 the first RFC was written, and in 1971, the '@' sign was born.
+
+The first Internet was actually built out of smaller networks like Arpanet, which had a whopping 213 hosts in 1981, and Usenet, which had 940 hosts by 1984. The Internet doubled in size every eighteen months. The Internet Protocol (IP) made it possible to route packets between networks, not just inside single networks, and after Big Brother failed to appear in 1984 (except in Apple adverts), the Internet grew into a world-wide research network that reached most places except Africa.
+
+The Internet as we know and love it -- with spam, viruses, porn sites, download sites, credit card fraud, identity theft, etc. -- had a brief preview in 1988, when a worm flattened the academic Internet. But we had to wait until 1990, when commercial restrictions on Internet use were lifted, then 1991, when Tim-Berners Lee invented the web, and finally 1993, when Al Gore found funding for the development of a graphical web browser named Mosaic. Suddenly any fool with a PC and a modem could get on-line, and The Real Internet was born.
+
+It still took Microsoft more than two years to catch on. Rather than recognize the new Internet, it stubbornly rolled out its own "Microsoft network" that hardly talked to the Internet at all. Windows 95 had no Internet functionality. When Netscape became the dominant browser, Microsoft realised its mistake, and brought out a patch for Windows 95 and a branded version of Mosaic. It then slowly beat Netscape to death by giving its browser away for free, destroying Netscape's market, and became the new bully on the Internet block.
+
+In 1998, the domain name system was privatized and opened to competition and suddenly the cost of buying a dot-com name fell to rock bottom. Not surprisingly, lots of people bought dot-com names. Sensing a gold mine, the island kingdom of Tonga started selling .to names, and soon every country was selling its "national" domains to all and sundry. The coolest were probably .tv and .fm, though.
+
+In 1998, too, Google was founded, and soon their revolutionary concept of "it works the way you expect" made them King of the Search Engines. Once upon a time, the list of all websites was twenty pages long, the appendix in a book. Then the list got too long to print and sites like Yahoo! organized them into "indexes". Then the index got too large to keep updated, and Lycos invented the full-text search. Then the results for any search got too long, and Google invented the ranked search, which pretty much fixed the search issue. Google also threw all the clutter off the main page. Less is more.
+
+The dot-com boom bubbled in 1999, driven by the dream of cheap access to millions -- no, billions -- of consumers. Investors threw huge amounts of money at firms whose business plan typically went: "//1. Give people something free. 2. ??? 3. Profit!//" In 2000, the dot-com bubble burst, mainly because big firms had spent so much cash on solving the Y2K "crisis" that they had to freeze all new IT spending for two or three years. Big IT firms' profits fell, investors panicked, the stock market collapsed, and so did most dot-com firms. And most of those business plans were empty anyhow.
+
+In 1999 Napster started to let people trade songs on-line. It was blatantly illegal, and incredibly popular. It was almost immediately sued, and was shut down by lawsuits in 2001, the same year that Wikipedia -- the blatantly legal, and incredibly popular shared knowledge collection website was launched. After shrugging off many years of ridicule for allowing anyone to edit pages, Wikipedia made Encyclopedia Britannica redundant in 2005 or so.
+
+Around the Millennium, it was not yet clear that the digital revolution was real. By the late nineties, the widespread use of computers at work had lowered, not raised productivity. The dot-com crash seemed to prove that brick-and-mortar was still the real world, that "digital mindshare" was a hoax.
+
+But from 1999 to 2004, huge swathes of the post-industrial service economy quietly continued to go digital. The fast fiber optic cable links from the US to India that were used in 1998-99 to do Y2K conversions became the portals for massive outsourcing. And as businesses quietly off-shored and re-organized around an ever cheaper global communications network that let them move help-desks to Bangalore and insurance claims processing to Haiti, the second Internet boom, aka Web 2.0, exploded, somewhere around 2003-2004.
+
+Ironically, given their reluctance to innovate and their dependence on a captive market, it was Microsoft that triggered Web 2.0. They released a small toolkit called Ajax that let web authors escape the click-page box of the classic web page. Google Maps showed what Ajax could do, and Flickr and YouTube, launched in 2004 and 2005, mixed the pretty new Ajax web with community and self-created content to create massive hits.
+
+From 2005 to today, the Internet has continued to grow technically, socially, economically, and politically. The core of a 2000-era laptop now fits into the body of a mobile phone and costs a hundred dollars to produce. Socially, every Internet user above the age of ten or so is on Facebook, every professional is on Twitter or Linked-in. Economically, Google fights Oracle, Facebook, and Apple for control of the future. Politically, digital activism has never been more aggressive, confident, and successful, as it confronts governments, topples dictators, spreads its [http://swsi.info/anarchy philosophical anarchist vision of the future].
+
+++ Why Drives the Digital Society?
+
+Technology is not inevitable. There have to be powerful reasons for people to keep pushing the envelope, keep demanding more and more of a particular field of knowledge. In my view the digital society is driven by several factors:
+
+* **Cheaper communications**. The first and most important driver is our demand for ever cheaper and easier communications. In 1960, we could perhaps keep in touch with fifty people, by meeting them face to face, writing them letters, and sometimes giving them a phone call. Super-well organized people kept indexes of people they knew. Today, we can keep in touch with tens of thousands of people, and computers have become social memories. They help us track who we know, and what context, and what we've talked about. All human society depends on communications. When we can reach a hundred times more people, all of society is turbocharged. The demand for communications is intense and apparently limitless. In Tanzania in 2007 there were 150,000 fixed phone lines and 2 million mobile phone subscribers. Today more Tanzanians have mobile phones than have electricity.
+
+* **Entertainment**. Humans are neotenous animals: we act like kids most of our lives. This is a result of our technology, starting with fire, which gave us cooked food and freedom from the adult ape jaw bone. Every labor-saving invention since then, has gradually reduced away our need to become self-sufficient independent wild animals, and turned us into a domesticated species. Neoteny gave our brains space to grow, with smaller jaws. Unlike wolves, but like our dogs, we play, and the Internet has always been a fertile space for imaginative ways to have fun. Chatting to friends, on-line games, porn, random surfing, shopping, swapping music and films... the Internet has a powerful pull on our baby ape nature.
+
+* **Communities**. Since the earliest bulletin-board systems, on-line communities have always been attractive places to join and spend time in. The Internet has since its birth offered a rich world of special interest groups. Whatever your particular passion, you can find hundreds, even millions, of people who share it. The old pre-Internet commercial networks like Compuserve and AOL basically sold "community" as their main product, and today this still drives big sites like Facebook, Twitter, and YouTube.
+
+* **Business**. Even though the Internet opened to commercial use only in the early 90's, it's become an essential tool for all industries. Of course, there's communications as a big driver for business. Email is very cheap. But we also adopted the Internet because it became an excellent research tool, a cheap way to handle clients' problems (via forums and wikis), a cheap way to do marketing and sales (websites), a cheap distribution channel for digital goods (especially for the software industry), and a cheap backbone for virtual organizations. In 1996, one of our large clients was shocked when we proposed to make a new application using the web. By 1999, everyone was trying to move their business on-line, and despite a rough start, most US and European businesses were firmly on-line by 2003 or so.
+
+* **Politics**. The citizens of the digital society organized themselves to fight off the threats they saw from hostile organizations, and these organizations became political structures that of course used the Internet in an extreme fashion. The FFII, in 2005, had over five hundred mailing lists and twenty thousand wiki pages. In the US presidential elections of 2000 and 2004, the Internet played a big role in reaching people, exchanging news, and helping to organize people. The US presidential elections of 2008 were organized and fought in the blogs and forums more than on TV.
+
+* **Globalization**. The 'G' word invokes much emotion but the truth is that we've woken up in a global society where it's almost as easy to reach someone in Bangalore as it is in Brussels. Keeping in touch with relatives abroad used to be painful and costly. Now it's a matter of email and VoIP. And the same goes for business -- cheaper communications let US businesses out-source massively to India, then further afield. If the dream of real free trade -- without the price fixing and geopolitics that still typifies today's markets -- ever comes true, it'll be largely thanks to the Internet.
+
+* **Deconstruction of the past**. Rarely discussed, but present in the minds of many of the first generations of active Internet users was the feeling that they were changing the world. One small step at a time, we've deconstructed industrial-era industries like telecommunications, insurance, and travel. Banking and retail and academia are slowly but surely following. Politics is seduced. The feeling of power and freedom that comes from helping to bury the past is addictive to many people. Perhaps it's a form of rebellion, or maybe it's just optimism and faith in a bright shiny future.
+
+++ Of Mice and Dinosaurs
+
+The thing we call "a business" has been revolutionized in the four decades since RFC001 broke the ice. A serious firm used to require: premises, stock, notaries, salesmen, equipment, directors, vice-presidents, secretaries, a mail room, printing service, human resources, middle managers, regional offices and regional managers. The cost of starting even the smallest firm was so high that people made complex financial arrangements to collect the necessary capital. The high cost to society of failed businesses meant that every aspect of starting and running a business was heavily regulated, which added to the cost and complexity. The cost of starting and running a business meant that most people had no choice but to work as employees for existing firms.
+
+Today, of course there are still firms that look exactly like their predecessors of four decades ago. But these are the dinosaurs, and their size and weight disguises their weaknesses. For every large firm that occupies an impressive building in the "business district", there are a tens of thousand of entities that operate from cyberspace, with no offices, no formal construction, and no capital. Most scarily for classic businesses, there is a single, increasingly level playing field. Clients barely care about the impressive offices. The high costs that used to act as a useful barrier to entry are now just an overhead.
+
+Let's look at the practical realities of starting a small new business today:
+
+* We don't need impressive offices because customers don't care much about seeing how solid and well-established we are. It's all about ability to deliver and long term (Internet-based) reputation. The perception that a real firm must be backed by a real building died around the turn of the millennium. We need a postal address and Internet+coffee space for project teams to get together.
+
+* We don't need to hire employees or have a human resources department because more and more skilled staff chose to work as contractors, or as subcontractors (with their own small businesses). Contracting is so more flexible than classic employment, especially in Europe which struggles with archaic labor laws.
+
+* More and more of our communications infrastructure (web sites, email, archives) can be handled by free or low-cost managed services. This means we don't need dedicated computer systems or support staff.
+
+* Resources and information are available cheaply on-line. This means we don't need staff to do research. For example, we used to have to pay a travel agent to organize travel. Today we can do it ourselves.
+
+* The cost of creating legal entities is falling, driven by a very competitive US market. Europe still lags behind, but some smaller countries such as Switzerland, Estonia, and Macedonia are positioning themselves as the EU's Delawares.
+
+* Governments are increasingly using email, and accepting tax returns and other reporting via the Internet through standardized formats. This reduces the need for accountants and other middlemen.
+
+* Products have gone digital in many domains, eliminating manufacturing costs, and sharply reducing the costs of packaging and marketing. When physical products need to be built, there are many "assembly" firms that will make these: dedicated manufacturing is a thing of the past.
+
+* And of course, as I've explained before, the costs of communications, both internal and external -- the biggest cost of the classic firm -- have been reduced to practically zero.
+
+Let me take a concrete example of a young business that wants to develop and sell a new high-tech product. The core design and engineering team consists of perhaps ten people. In the classic firm, these ten people would need about a hundred further people to help develop, package, market, sell, and support a product. More products would mean more people. A successful product would mean growth, not of core engineers, but of salesmen, middle managers, and support people. Today those ten people need no further support at all, and can handle large successes without needing much growth.
+
+Ten times cheaper? I think more like a hundred, for in many cases just one or two people can play the role of those ten.
+
+And so we see something totally unique in the history of commerce: the largest firms on the planet face direct competition from tiny start-ups that can move rapidly, experiment with high-risk strategies, adapt overnight, and grow large to fill new areas before large firms even realise those areas exist.
+
+Many of the competitors to established businesses do not even consider themselves "businesses". This makes them hard to fight using the traditional weapons of the marketplace, namely marketing, aggressive pricing, buyouts, and so on.
+
+Let's look at some major old industries and see what challenges they're facing from new forms of organization:
+
+* The old news industry faces blogs, social networks, and mobile phones.
+* The old advertising industry faces Google.
+* The old music industry faces file-sharing, home studios, and mixing.
+* The old telecoms industry faces email and voice-over-IP.
+* The old academic industry faces Wikipedia.
+* The old software industry faces free software.
+
+At the same time, each of these threats presents unique opportunities for teams and firms agile enough to adapt. For example, in the music industry, it's true that people can exchange songs so trivially that the business of selling music has become very hard. But look at all those gigabytes of MP3 player space that cry to be filled -- even if not listened to -- and one should see a market, not a problem.
+
+What I can conclude from looking at this breakdown is that many industries have passed a "digital boiling point" where their industrial-age products and services are turning into digital vapor, and like frogs in the pot, they are often slow to make the leap to safety. Will the music industry ever embrace file sharing? Will academia ever learn to love Wikipedia?
+
+Perhaps the key to answering this question is to understand that the real competition does not simply come from smaller, faster, lower-cost organizations. These simply drive down prices. The real competition comes from radical new approaches to the very nature of work. These can totally destroy existing markets as they create new ones.
+
+++ Under Assault
+
+In the early 90's I wrote an article imagining the future. "I want to be able to record the bytes off my music CDs, which are digital", I said, "and compress them. Imagine, my own digital music jukebox." This was a year or two before MP3 hit the stage, but already the music studios had gone digital, and no-one seriously doubted that CDs would beat vinyl. Today of course I can hold the digital contents of my old thousand-CD collection on a tiny memory card. Music has become the epitome of the digital good, exchanged and collected by billions of people, while the music industry goes through a slow, complex, and painful rebirth around this new reality.
+
+It's instructive to look briefly at the digitization of the music industry, because the same process is happening in many other industries. DVDs replaced the video cassette, and video followed music onto the Internet as a shareable artifact of popular digital culture.
+
+The music industry moved to digital technology for its own production processes in the eighties. Sony and Philips published the CD-ROM audio standard in June 1980, consumer music went digital, and consumers found themselves with a cornucopia of new digital content, albeit at a higher price. Music CDs were typically priced 25% higher than LPs, as luxury items. When CDs became mass-market items and cost under a dollar to produce and distribute, they remained expensive in the shops. The perceived unfairness of this pricing model gave many people the feeling that Internet music "file swapping" was justified. Later, on-line exchange of movies, TV programs and music simply became so convenient and wide-spread that it became normalized. Audio CDs were not initially "digital goods", since we could only play them in CD players that roughly imitated LP players. However in the mid-nineties, home computers became powerful enough to "rip" and store these digital goods, process them into more efficient forms (the MP3 format) and by the late nineties, networks were capable of carrying these, and the first mass-market file sharing network, Napster, grew.
+
+Napster and its successors were smashed by the music industry. But in a pattern we saw many times, stamping down one pirate business just created dozens of new ones to take it place. Killing Napster turned a handful of networks into dozens, then hundreds of them. It has proven impossible for the music industry to kill file sharing, but they still try, declaring "war on downloaders", suing their clients, criminalizing copyright infringement. The economics of downloading make it a struggle that can end only in the total locking down of all Internet access, or the end of conventional copyright enforcement on digital goods.
+
+During the long fight between the industry and the pirates, Apple managed to produce the first end-to-end solution that let users easily buy music and play it on their portable players. They were hugely successful -- from 2004 to 2011, Apple's stock value increased from $10 to $380 per share. A Russian site, AllofMP3, was very successful at selling music cheaply by the megabyte, but it did not pay royalties to the US music industry. And so after years of scuffles that failed to shut it down, it was finally killed by direct political pressure from the White House to the Kremlin.
+
+After more than fifteen years, lawsuits against file sharing businesses (LimeWire being in the courts in 2010), the CD business is history, and the music industry has been forced into [http://swsi.info/spotify all you can eat services] to continue to make any money at all. It's still not a viable, satisfactory business model on which to serve the digital society. Will it ever find such a model? I think the answer is "no, probably not". There are many profitable and sustainable business models based on delivering music to consumers. Even just selling bandwidth to download "free" music would be profitable overall. The music industry's dilemma is that it must step out of the way to allow these new business models to grow, and then adopt them. But that would mean suicide for existing structures so that new ones can be born, and businesses don't work like this.
+
+So, the music industry continues to fight the inevitable, wasting time and money, building private armies, extending and abusing the powers of the state in a "War on Piracy". It does move slowly towards the inevitable, but each time after years of delay, and lost opportunity. This seems to be a recurring theme: individually logical but ultimately pointless and unprofitable conflicts between the industrial economy and the digital economy.
+
+++ It's All in the Remix
+
+The most radical challenges to established ways of working have come in the software and music industries. In 1987, Fred Brooks -- a leading expert of the problems of the software industry -- [http://swsi.info/brooks famously wrote] that "//we see no silver bullet. There is no single development, in either technology or in management technique, that by itself promises even one order-of-magnitude improvement in productivity, in reliability, in simplicity.//"
+
+Brooks listed a number of steps that together, he said, might solve the software crisis. In 1987, the software industry was already seen as vital to the economy, and it was considered to be in crisis. We could not, at the time, produce sufficient software, of high quality and low price, as needed by industry. Brooks was previously head of a major IBM project to write a new mainframe operating system. The experience was one of trying to manage ever-expanding budgets and failing deadlines. It left him deeply skeptical of the software industry's capacity for self-improvement. He wrote, in his landmark 1975 book, "The Mythical Man Month" that "//adding manpower to a late software project makes it later//", a lesson that Microsoft would have been wise to understand when they built Windows Vista, over five long years from 2001 to 2006.
+
+Fred Brooks was technically right when he said "no single element" could solve the software crisis. Yet like everyone at the time, he missed the point and failed to see the oncoming revolution in software development.
+
+I'll argue that two elements combined to create a silver bullet.
+
+The first was the relentless half-life of computing and communications technology, which from 1975 to 1995 brought the cost of software development infrastructure -- computers and networks -- down by 8,000 times, and by 2005 over 1 million times. Technology half-life is what makes the Internet possible at all. Without it, the boxes that route packets of data around the world would be the size of rooms and consume ten kilowatts of power and cost millions of dollars.
+
+If we assume that the computers we program on today are 1,000 times more powerful than the mainframes that Fred Brooks' team used in 1975, then they cost 1,000 less. By 1995, it had become easily possible for individual programmers to buy computers, and link them together by email, ftp, and other young protocols like HTTP. So while IBM had to bring expert developers together in huge research facilities, the Internet allowed the same developers to work from anywhere, to create flexible ad-hoc teams, and solve problems in much more intelligent ways.
+
+The second element is what I consider one the key technological developments of the 20th century digital revolution. It was a new private contract for collaborative development called the GNU [http://swsi.info/gpl General Public License, or GPL]. It was this document, this license, that finally solved the software crisis. I doubt that Richard Stallman, the man behind this document, had such goals. As far as I can tell from his writings at the time, he simply wanted to prevent volunteer efforts (quite common in the software sector since its first days) from being converted into closed commercial products, locking out the original contributors. Inadvertently Stallman also fixed the software crisis, spelled the end of the classic software industry, and laid the foundations for the 21st century software industry.
+
+The GPL is a model for a broader kind of collaborative innovation that people call "remixing" and which we see in other sectors such as music and digital art. Remixing is a surprisingly effective way of producing certain kinds of knowledge goods.
+
+Remixing is when a group of creative people agree to allow each other to reuse ("remix") their work into new forms, freely, but under the condition that any new mixes are available to all under the same conditions. It is a 'share-alike' form of collaboration that feels comfortable to many groups, and is widespread in society, once we look beyond the gates of media businesses.
+
+The Creative Commons project offers a whole raft of licenses and tools that "give everyone from individual creators to large companies and institutions a simple, standardized way to grant copyright permissions to their creative work."
+
+But groups often adopt remixing conventions without formality and legalisms. For example, many music scenes consist of DJs who remix original material with new samples, lyrics, and their own sounds. Or, a group of graphic designers might swap material and combine each others' work. Lawyers tend to remix contracts without guilt. A knitting circle will share patterns and techniques. Gardener's clubs exchange tips, seeds, pottings. Doctors exchange remedies and diagnostics. Farmers share solutions to animal husbandry and pest control. The fashion industry depends on remixing.
+
+Remixing is a natural way of working that has a long history, and roots in our social psychology. Sharing one's ideas and work is good for everyone. No-one likes a hoarder: imagine the reaction to a doctor who discovers the cure for a disease -- using all the knowledge given to him by others -- but refuses to share his new knowledge with others. He would be condemned as evil. Yet with a single patent, he can claim "free enterprise".
+
+The lust for money, especially in the form of business, breaks down this collaborative model. This is a example of how the market, which I generally like and respect, can work completely opposite to the interests of society at large. When businessmen get involved with a commercializing a successful work, they have little choice (in the conventional business model, in any case) but to stop people remixing the now precious work into new forms. Too bad if the commercial hits are based on others' work. Informal sharing agreements don't survive when the economic incentive to cheat is higher than the incentive to share.
+
+Some types of work are so "utilitarian" that they don't have copyright protection. This is the basis for the fashion industry, for example, where designs are copied without shame. Courts repeatedly refuse to punish those who copy others' designs for shoes and clothes. The fashion industry is also an order of magnitude larger than industries that use copyright.
+
+But software, despite being highly utilitarian, falls under copyright law and that makes it easy for businesses to close off software source code. They can easily take software that is developed collaboratively, e.g. by students at a university, and create closed products that even authors whose work was used in those products cannot remix.
+
+Stallman found the answer to this problem. He defined a simple written license that put the remixing agreement into words and made it much harder to cheat. The license says: //you can use my work in your mix but you must give me the same rights over your mix//. Such an agreement is easy to back-up with standard copyright law and the GPL has been upheld by courts in many instances.
+
+When done properly, a remixing license is incendiary. First, it effectively prevents cheating, and gives creators a high level of confidence that their work won't at some future date be taken out of the mix. Second, it lets the mix scale by explicitly defining the rules so that complete strangers can collaborate. Confidence and scalability -- no longer just a group of friends who agree between themselves, but a community of thousands or millions who can work together in confidence.
+
+In software, the GPL spawned a massive new remix, called "free software", commonly but wrongly lumped together as "Linux". Free software is so abundant and of such high quality that the software crisis can be considered definitively solved. Noting that 90% of everything is crud, [http://swsi.info/sturgeon Theodore Strurgeon pointed out] that this did not detract from the quality of the other 10%. It is only firms that refuse to use this technique, like Microsoft, SAP and Oracle, that suffer the traditional high costs and delays of old-fashioned software development.
+
+For a large-scale mix to be successful it must be one hundred percent //self-hosting//; that is, it cannot depend on any proprietary -- legally unremixable -- material at all. When a DJ makes the error of remixing in a little commercial pop music, their work cannot be legally distributed at all.
+
+The mix definitely threatens established interests. More broadly, conflict between old and new is a constant, defining part of the history of the digital society. Sometimes this conflict affects hundreds of millions of people. Nowhere is this more dramatic than in Africa, a continent that the Internet has almost totally bypassed.
+
+++ The Lost Continent Gets On-line
+
++++ Poverty on Purpose
+
+Let's start by asking a question often asked, but in my experience rarely usefully answered. //Why is sub-Saharan Africa so persistently and so stubbornly poor?// I was born and grew up in Africa, and have lived in, worked in, or visited both Congos, Kenya, Tanzania, Rwanda, Angola, Togo, Ghana, Nigeria, Burundi, Uganda. My wife is of Congolese origin, my father was a diplomat mostly working in Africa, my sister is a professor of political science specializing in Africa. Yet in my whole life I've never heard a satisfactory answer for this question. And it matters, because Africa's poverty is the world's poverty. It shames us, but also cripples us. Poverty can be profitable for a few, but not for the species.
+
+The economist Jeffrey Sachs [http://swsi.info/sachs has argued] that Africa's geography -- it is a huge landmass with few waterways and many barriers to transport -- is one of the underlying reasons that this continent missed the industrial revolution. Sub-Saharan Africa (which I'll just call 'Africa' here) is geographically challenged beyond most people's comprehension.
+
+One example makes this clear: natural harbors. The UK has 279 ports and harbors. The USA has 371. China: 157. Japan: 144. Italy: 83. France: 70. South Africa: 10. Ghana: 4. Kenya: 3. Congo DRC: 3. A quick look at the map shows why. The coastline of Europe, carved by rivers and glaciers, is very "crinkly" with hundreds of natural harbors. The coastline of Africa, old and continental, is mostly smooth.
+
+In Appendix 1 I develop the hypothesis that as geography drove Europe towards prosperity, it drove Africa towards poverty.
+
+Geography almost cost Africa its place in the digital revolution as well, though as we'll see, in the last ten years something miraculous has happened that will, in my opinion, mark a watershed in African social, economic, and in time, political history.
+
+First, let's look at the sorry state of the Internet in Africa. You'll remember that Arpanet, the network of universities that was one of the main pieces of the original Internet, had no presence in Africa. That was in 1984, and today -- a full generation later -- things are barely better.
+
+In 2010 Africa has in theory four Internet backbones, high-capacity submarine fiber-optic cables that link its coastal cities to the rest of the world. One (SAT3/WASC/SAFE) running from Portugal around the west African coast, down to South Africa, then across the Indian Ocean to India. The others: TEAMS, SEACOM, and EASSY, link the east African coast to Sudan. EASSY was launched in 2003, and finally came on-line in 2008.
+
+SAT-3 connects to nine African cities: Dakar, Abidjan, Accra, Cotonou, Lagos, Douala, Libreville, Cacuaco, and Melkbosstrand. It misses about twelve countries on the way, including both Congos. Still, it works and in theory the lucky citizens of those cities should be able to get cheap access to that vast fiber-optic bandwidth, right?
+
+Wrong. SAT-3 is collectively owned by the state telecoms firms in each country it joins, and they are doing what monopolies always do: extorting the market and keeping out competitors. To get a 256KB link (enough to download a 3-minute MP3 track in 20 seconds) costs USD$5,000 to $10,000 per month, about fifty times the cost in the U.S. And the effective cost?  Per-capita GDP is $43,500 in the U.S. and $1,500 in Nigeria, one of the wealthier states that SAT-3 connects. That's a difference of 29 times. So the real cost of sending a TCP/IP packet from Lagos to Lisbon is not 50 but //1,450 times higher// than from Los Angeles to New York.
+
+Think about this for a minute as you surf the web. Imagine being asked to pay $30,000 per month for an ADSL link that costs you $20 today, and you start to understand what kinds of hurdles ordinary Africans -- surely aware of what the Internet offers -- face as they try to get hooked into the modern world. Curious factoid: that $30,000-per-month connection, if running full-time downloading songs from iTunes, would carry $3.7m worth of music, adjusted for GDP. I don't know what to make of this except that the music industry is about 120 times more crazy than the West African state telecoms firms.
+
+Think about this when you see an young black man who has walked and hitched, in constant danger, from West Africa across the Sahara, has managed to cross the Mediterranean and make it to safety in Spain or Italy. Before sneering at one more unwanted //sans papiers//, ask yourself "//what drives these young men to cross deserts and seas, at terrible risk, to a life of marginalization in a hostile West?//"  Perhaps part of it is simply the desperate need to get on-line and become a citizen of the new world.
+
+Lacking data, it's impossible to know how important getting on-line is to young Africans but speaking from personal experience, I'd place it about as high as getting an education, wife, house. Since there are few artificial barriers to movement inside Africa, I'd expect to see significant, measurable movement of young men from countries with no affordable Internet, to those with it. I'd expect this to be linked to economic booms in the host countries.
+
+But surely there are alternatives? Well, yes, in theory. Parts of the East African coast start to look better connected. But cable on the beach is not the same as Internet in the towns and villages. The VSAT satellite system lets you set-up a Internet access point anywhere in Africa. This is much more suited to Africa's terrain than cable. (Pulling fiber-optic cable from SAT-3 to the African heartlands would increase its costs by many times.)
+
+Well, the cost of a VSAT package is about USD$8,500 for set-up and equipment, and $5,000 for a 128KB link per month, surprisingly close to the SAT-3 costs. It's pretty clear that Africa is not served by an Internet monopoly so much as by a price-fixing cartel.
+
+VSAT installations are either used by as personal toys by wealthy businessmen and political elites, or are shared out in urban cyber-cafe clusters where a tiny amount of bandwidth is horribly overloaded. The [http://swsi.info/vsat recommended model] is one VSAT link for fifty users, who each get 20Kbit/sec download, and 5Kbit/sec upload, at a cost of $150 per month. In reality, a hundred or two hundred people may be crammed onto that network, day and night, waiting patiently for slow monster pages to load. And these people are the lucky ones; they have to be wealthy to afford this access. $150 is still several times the average monthly wage in Africa.
+
+If we look more widely we see that most of Africa's infrastructure -- electricity, water, highways, schools, communications -- are mainly built by a local political and foreign corporate elite with borrowed money to serve their own interests. And this elite is as possessive of its Internet privileges as it is of its Mercedes-Benz's and SUVs. It's not just that the state-owned telecoms firms are monopolies who want to extort the market. They are not even designed as profit-making entities. Rather, it's about patronage and selling favors.
+
+Sachs says that geography is a major cause of poverty in Africa, and he's right. But it's only the start of the story. Geography has enabled the foreign corporate and local urban political elites to maintain a choke-hold over the essentials of life. There is no other way to import rice or TCP/IP packets except through those very few harbors and the cities that grow around them. Control those few gateways, and a life of luxury is guaranteed. Entire families have made it their business, for generations, to control these gateways together with their foreign partners, and keep the choke tightly applied. Wars have been fought, over and over, for control of these gateways.
+
+So, Africa's enduring poverty, while enabled by geography, results from this choke-hold, which has survived a hundred and fifty years. In some places it has been much longer: the Portuguese started extracting resources from Angola in the 16th century.
+
+It is bitterly ironic that much of the West's so-called "aid" actually goes to cementing this choke-hold. Every project -- even those like EASSY -- that is funded by the World Bank in collaboration with local partners ends-up as another point of control over local economies. Whereas across the globe the Internet brings freedom and enlightenment (as well as porn and viruses), in Africa it is poised to become one more tool to keep the power in the hands of the few.
+
+Don't feel complacent as you read this: Africa is just an extreme example of a general global problem. The economics of elitism that have kept Africa destitute for six generations also apply to the U.S. and Europe. We could all be a lot wealthier, happier, and more free if governments kept to their role as arbitrator and regulator, and spent less time trying to interfere in markets to benefit their friends.
+
+Since 2000, however, there has been a dramatic change, a real revolution. It is starting to topple the old elite's hold on power, both over infrastructure and (inevitably, I believe) over economics and then politics. This change is the growth of mobile phone networks across Africa, which have done the impossible, and slowly brought almost every adult in the continent into the digital society.
+
++++ The Market Fights Back
+
+Poverty on purpose may be good for the few in control, but it's bad for business in general. The market eventually finds a way to hack the tight barriers that the controlling elites put into place. It just takes the right combination of circumstance and revolution.
+
+The revolutionary factor that will one day have eliminated Africa's poverty was the mobile phone. How the phones came to Africa is a nice story of greed and incompetence working for the benefit of society.
+
+In 1990, New Zealand was the first country to use government-run auctions to allocate radio spectrum. In 2000, many European countries held auctions to sell 3G space. These auctions raised a huge amount of money -- nearly breaking the European telcos -- and inspired several African governments to try the same. In January 2001, Nigeria auctioned off three GSM licenses and [http://swsi.info/gsmng raised $285 million]. The genie was out of the bottle and before long, multi-colored teams of South African engineers were filling Lagos' luxury hotels and planning how to cover the country with mobile phone base stations. I worked in Lagos at the time and vividly remember the buzz that the teams of young engineers brought to the city. Things were changing, finally.
+
+More or less same happened across the entire African continent, as every country organized its own lucrative spectrum auctions. Initially, handsets were very expensive, as expected. But Moore's Law never sleeps and the little things got cheaper and cheaper and cheaper until they went from another luxury for the urban elites to a commodity available to literally everyone, even if shared or rented.
+
+The BBC [http://swsi.info/mason has written that]:
+
+> With one in three adults carrying a cellphone in Kenya, mobile telephony is having an economic and social impact that is hard to grasp if you are used to living in a country with good roads, democracy and the Internet. In five years the number of mobiles in Kenya has grown from one million to 6.5 million -- while the number of landlines remains at about 300,000, mostly in government offices.
+
+To poor people in remote areas, the mobile phone is much more useful than any conventional computer. It is portable, cheap, tough, has a long-lasting battery, and can do a lot. First, once a mobile network exists, it can very rapidly scale up to the latest state of the art. Nigerian mobile operators offer the same modern handsets -- like the Blackberry -- as do western ones. Second, the lack of regulation -- which enables corruption and stagnation in classic industries -- creates space to innovate in the telecoms industry. The Economist wrote, on December 20th 2005: "//a call from a Somali mobile phone is generally cheaper and clearer than a call from anywhere else in Africa. The trick is the lack of regulation..."//
+
+With no rules to limit what is possible, the new African mobile phone networks have rapidly become more sophisticated than their Western counterparts. A striking example is how mobile operators have become banks. Classic African banking is another example of infrastructure closely controlled by an urban elite for its own benefit. Most Africans cannot use conventional banks in any way. But... add a simple menu item, "Send money" to a mobile phone interface (invented by the Kenyan phone company Safaricom, and rapidly copied by others, an elegant example of innovation done the right way, by the right people, at the right place and time), and those hundreds of millions of pre-paid mobile phone accounts suddenly become bank accounts.
+
+Mobile phone banking is a significant technology. It is a service that is logical, easy, cheap, and effective. Similar services have failed in Europe because mobile operators are focused on price control, not innovation. A typical mobile operator lobbyist in Brussels will be fighting competition authorities to keep prices high on roaming mobile Internet, not fighting for the right to act as an ultra-cheap unregulated bank.
+
++++ Power to The People
+
+Moving too rapidly for the urban elites to respond with political crackdowns, African mobile operators have shown what can be done with cheap mobile devices. Today their networks have brought hundreds of millions of people into the digital society, quietly, and effectively, and for very little money.
+
+The African story is far from over; it's just started. The mobile networks will become fully-capable Internet networks. They will connect to those cables on the beaches, no other infrastructure can cover the continent. Mobile handsets will become browsers and email clients as Chinese producers adopt Google's free Android mobile phone software. Ad-hoc zero-cost grid networks will cover major areas as these devices run voice-over-IP software. Mobile phone companies will stop selling voice, and switch to selling Internet and more exotic banking services.
+
+Cheap computers will raise a generation of connected children. Local websites will spring up and digital societies will grow across Africa, creating fertile ground for an African digital economy. African minds will solve the unique problems of African life, dependency on foreign aid will end, and poverty can be attacked as it has been across the world. Industrialisation is not a necessary step on the road to development. The digital society routes around models it does not find useful.
+
+African entrepreneurs skilled in thin, fast, solar-powered networks and the software to make them work will start to sell their technology to other countries. Eventually Africa will become fully integrated into the global digital society and African parents will worry about porn and paedophiles, like mums and dads across the world.
+
+Economically and politically this will transform Africa. Five years of mobile connectivity has already done more to end poverty in Africa than five decades of IMF loans and World Bank grants, and I'm optimistic that this trend will continue strongly. Even if occasional political interference and censorship throttles the Internet in some countries, Africa is huge and diverse and competition between countries will ensure that things keep moving.
+
+So to summarize: remoteness and isolation create poverty, and mobile phones are a compelling cure. They are cheap, accessible and usable by everyone, and a gateway to more sophisticated use of the Internet. Mobile phones are de-marginalizing the African majority. But although mobile phone usage is growing faster in Africa than anywhere else, the benefits of mobile phones are global.
+
+++ The Other Two Thirds
+
+When looking at the digital society, it's easy to focus on the Internet, email and web, but this is a prejudice. There are one billion Internet users, and about four times more mobile phone users. Is a mobile phone user a member of the digital society? My answer is: absolutely.
+
+In Europe and America, immigrants, young people, and the aged have typically been marginalized and excluded from active society. Internet cyber-cafes help a little, but it's mobile phones that have really changed things. A young African immigrant to Europe, fleeing a life on the margins, first buys himself a mobile phone, then looks for a place to stay, then looks for work.
+
+In 2005, already, more than 85% small businesses run by black people, surveyed in South Africa, [http://swsi.info/sa2005 relied solely on mobile phones for telecommunications]. American teenagers may send up to a thousand messages a month, and many young people today have completely bypassed email, relying only on text messages and social networking sites like Facebook.
+
+Although mobile phones don't look like computers, they are. Every mobile phone is a gateway to the future. Indeed, many people believe the future of the Internet is in small portable devices that look a lot more like mobile phones than desktop computers. Once hooked to a phone network, we have an identity, and over time this identity will become part of the universe of Internet identities: email accounts, Facebook logins, domain names. Many operators already deliver email to and from mobile phones.
+
+It's a trend that is moving fast. Low cost producers in China have developed very fast production lines based on open sharing of knowledge. They can design and build new mobile phones in weeks. Mostly this flexibility has been aimed at cloning European and American designs (sometimes so rapidly that a pre-announced phone is cloned before the real phone comes out). Until 2009 these producers lacked decent software. But Google's Android operating system solves that problem. And suddenly we get Android smart phones -- small portable computers, then -- at $100 and down. Only 18 months after it was launched, Android already powered most of the smartphones coming from Asia, built by firms like HTC and Samsung.
+
+We are heading over the next twenty years towards a massively connected planet, in which 95% of those above the age of 10 will be literate, on-line 24/7, and tied into a global society that never sleeps, never stops thinking, never forgets, never forgives.
+
+++ The Social Impact
+
+Going digital and getting connected has already redesigned our lives and society. These changes are accelerating, not slowing down. In many ways we've only started the process.
+
+We now react to our social world in real-time, rather than relying on up-front planning and arrangements. Events used to take days to reach us, provoke reaction. Now they take minutes. [http://xkcd.com/723 XKCD proposes] that reports of an earthquake across Twitter will travel faster than the earthquake itself. We send an email instead of going to meet someone. We call home on our mobiles instead of being there at an agreed hour. We leave on a trip without preparation, knowing that we can make things up as we go along. What used to be a usual sight: hundreds, thousands of people simply waiting, exists only in airports and train stations when there are delays.
+
+The appointment, which used to be the cornerstone of social life, has disappeared except as a business or medical formality. Scheduled meetings become more and more irritating, as people learn to work asynchronously, each on their own clock. The clock, a tool designed to get us to the right place at the right time, has become less and less important. We stroll through our days, browsing on digital snacks, woken to action by emails, text messages, chats, tweets, and phone calls.
+
+The event-driven lifestyle is so addictive (because it lets us be much more productive with much less effort) that a tool like the Blackberry (a now-defunct mobile email computer) was nicknamed "Crackberry". Mobile phones are becoming mobile Internet computers: my Android phone tells me instantly when I get a new email, Skype chat, Facebook alert, or Google chat. Take away our email and mobile phones and many of us would be unable to function.
+
+The result of this is that many more people participate actively in society than ever before. It used to be hard to get involved beyond our physical world, that is, people we could meet face to face, places we could visit in person. Now it's trivially easy. The costs of publishing a work used to be a barrier to all but the lucky few. Being "published" used to be a sign of success. Today there is no barrier except willpower and time. It means we have a lot more rubbish then ever before, but also a lot more genius. Overall, the digital society is many orders of magnitude smarter and more interesting than the industrial society ever was.
+
+Society used to be physical, based around where we lived and worked. Today, that is becoming less important, or at least more balanced. Our real cities no longer need to act as hubs of industry or business, they can instead become places to live in. And on-line, we have created new vitual cities where people spend much of their lives, making deep emotional ties that can last a lifetime.
+
+It used to be very hard to find other people with the same interests as us. Now, a five-minute search finds friendly people across the globe who share our passions, no matter how esoteric. Often this lets us turn passions into professions. More and more of us have built our own jobs doing things we deeply enjoy, and this is possible mainly because we can get in touch with enough people who share our passions that they are willing to pay a little for whatever specialist abilities we have.
+
+Freedom to choose one's own lifestyle has profound and positive psychological effects. Groups and organizations tend to domesticate their members by imposing more or less consistent styles of dress, language, diet, daily rhythms, space, emotion and personal relationships. Aggressive groups -- like cults -- can break down a person's mind by forcing out all independence and replacing it with a synthetic group-think. People who undergo such treatment become compliant, and accept authority without question. There is a whole dark science of turning intelligent individuals into accepting morons, simply through the manipulation of their social context. I'll come back to this later.
+
+Happily my experience is that this process also works in reverse. When we can construct our own lives, we generally get happier, more productive, more critical. The easy dogmas of the past are broken down and a form of wisdom based on uncovering objective truths takes their place. Like planting a forest tree by tree, it's a slow and almost invisible process but one that is, for me, absolutely key to understanding the digital society. Freedom -- which I define as the capacity to do interesting and useful things with other people -- makes us better people. And the digital society is truly a society of freedom.
+
+When we spend a lot of time on-line, we can know many more people than ever before. Our social networks used to be small, limited by our memories for names and faces. Today our mobile phone and email contact lists can be vast, and we can get to know hundreds, thousands of people, on a first name basis.
+
+So digital society is more connected than the old industrial society, and its members are more mobile, more interested, better informed, more critical and independent, and more able to react quickly to new events and opportunities. Planning and habit are redundant; instead we keep our phones switched on, which beep when we get new mail. Our social reaction time has dropped from weeks and days to minutes and seconds.
+
+This happens both on-line -- with new communities springing up very rapidly around new challenges and opportunities -- and in the real world -- with mobile crowds responding rapidly to events in the streets.
+
+++ The Economic Impact
+
+> Without protectionism, Germany sells the precision instruments to produce the optics, Japan designs the semiconductors, Taiwan fabs the chips and the Chinese assemble them with equipment bought from the West. Everyone benefits, is employed and makes enough money to buy a $10 camera. -- 1stworld, on Slashdot
+
+The economic impact of the billions of new citizens joining the digital society is vast and only starting to be understood. Where this will take us is not clear, but we can see the trends:
+
+* All markets have more participants. In any given area of activity, the number of people who participate and compete has greatly increased.
+* Rather than creating a race to the bottom, we see increasing specialization and diversity of suppliers, and lucrative new businesses constantly emerge.
+* All markets are more equal. The tools available to even the smallest players give them real power with their markets.
+* Smaller players are more educated and informed. The cost of getting information has fallen close to zero and today the size of larger players actively works against them.
+* Competition has driven up efficiency and productivity and driven down costs in many markets.
+* Industrial "capitalist" agreements such as the division of firms into owners, managers, and workers, have stopped working and are being replaced with far more egalitarian and flexible structures.
+* Industrial stage regulation of markets is become less relevant as people choose more and more to rely on private law. For example in the workplace, contracting has become a growing replacement for regulated employment.
+
+The employee, working for a large static firm, is a zombie concept. The future belongs to the self-employed contractor who joins highly-focused groups, some of which may be small companies, but most are simply "projects". The Internet hosts tens, maybe hundreds of millions of such projects -- an informal economy that exceeds the formal economy by at least an order of magnitude, in my estimation.
+
+The reason is very simple: an employee, who can work on one project at once, is an order of magnitude less productive than a contractor who can share bandwidth with half a dozen projects. Not only can the contractor specialize, and so be more efficient, but he can also reuse his knowledge and skills over and over, in different contexts. And the cost of creating a new project has fallen to almost zero.
+
+The result is that the most skilled people are no longer content to work for established firms. It's so easy, such fun, and potentially so lucrative to work in small meritocracies, that this lifestyle is today seen as a badge of success. "Employee" increasingly means "failure".
+
+With flatter playing fields, more competition, and larger markets, we've seen a dramatic fall in the prices of all goods that have a significant digital aspect, in their development, production, or distribution.
+
+Adam Smith wrote, one cold Scottish night in 1776 at the dawn of the industrial revolution: "//the wealth of nations comes from the division of labour, the pursuit of self-interest, and freedom of trade//." He explained that economies and wealth are not cakes to be divided among the available hands and mouths. Instead they are a product of how many of us there are, and how we organize ourselves. The cake fallacy is an error that even experienced economists sometimes make, equating, for instance, increased population with poverty, making the obvious -- but wrong -- reasoning that more people means less to go around.
+
+Smith's ideal merit-driven free-trade markets have rarely appeared, because most politicians don't really care about prosperity except as a side-effect of their drive to get and then hold onto power.
+
+But the digital society seems to come very close, at least until governments intervene with taxes, barriers, and censorship. There is a great temptation, a strong economic incentive, for people with power to see markets as opportunities for self-enrichment. Markets organize themselves and fight back. And thus we get the start of political structures emerging from the economic ones.
+
+++ The Political Impact
+
+Following some decades after the social and economic changes, and no less disturbing to the old state of affairs, come the political changes.
+
+The first years of the Internet were innocent. Business was banned and its political aspirations were childishly idealistic. Up until 1999 or so, most citizens of the digital society who even considered the question would have answered that the Internet was going to define its own laws, that it would be free of the shackles of old laws, that peace and prosperity would rule. Some even tried to set-up their own virtual countries.
+
+Like many visions of the future, these early attempts were not inaccurate so much as set to a totally unrealistic time-scale. The digital society, if it wanted freedom, would have to wrest it, by force, from the clenched claws of old power, just as every new society has had to do since the dawn of time.
+
+Those who set-up virtual countries, complete with embassies and passports were making a poetic statement, not trying seriously to get a seat at the UN (unless they were mad). But people //were// naive enough in 1999 to invest real money in businesses like Napster that traded in copyrighted materials, in broad daylight, so to speak, in the assumption that the laws of the land did not apply to the Internet.
+
+Around 2000, global content businesses -- music, TV, cinema, news -- looked at the Internet and saw a vast new world to conquer, sadly already squatted by pirates and hippies. The large and growing digital economy was consuming entire sections of the their traditional economy. Some firms moved on-line, a very few got it right. Most firms just sent in the lobbyists and the lawyers.
+
+Two great clashes, which I'll examine in detail later, perhaps define the digital society's passing into adulthood. The first of these was the copyright debate, most notably the total lack of respect for conventional copyright law that people demonstrated by exchanging music, TV programs, and films, in great numbers. The second was the patent debate, in which the industrial-age patent industry tried to move into software, successfully in the U.S., and with partial success in Europe.
+
+Both these fights -- which are huge and ongoing -- involve the basic definitions of "property" and the right of large firms to lobby governments into changing these definitions for their own benefit. Both these fights are also typified by the politicization of digital society, as it finds that its road to freedom is blocked by old (copyright) laws, or new (software patent) laws.
+
+There are other fights as well, related to these. One is over the way the state is using digital technology to censor the Internet, to spy on its citizens and to build up databases of every aspect of our lives. Somehow, we don't mind too much if Google records every search we make, every site we visit. But when our government records every phone call we make and every email we send, we do get annoyed.
+
+Unlike previous historical clashes between revolutionaries and reactionaries, the digital society is highly knowledgeable, independent-minded, and not afraid of confrontation or risk. It's also well-connected and able to organize rapidly around new challenges. As business has started to lobby and litigate to try to keep control over the digital economy, digital society has reacted by organizing itself into civil movements. And like its businesses, digital society's small political organizations are ferocious and can be exceptionally effective. In some of the civil society campaigns I used to be involved in, we estimated that the professional lobbyists we were fighting had to spend as much as 1,000 times more money to win. Well-organized volunteer activists are much more creative and accurate than professional lobbyists.
+
+These are the main factors that affect political organization in the digital society:
+
+* Rapid dissemination of information to many people (typically, using blogs, email lists, or websites).
+* Rapid analysis, discussion, and aggregation (typically, via wikis and email lists).
+* Cheap tools for bringing many people into virtual organizations (wikis, email lists, IRC).
+* Ease of hooking into the existing news networks (producing press releases, writing articles on blogs, etc.)
+* Huge size of politically-motivated communities, which tend to think globally and act locally or nationally.
+* Increasing sophistication of these communities as they improve their organization and techniques.
+* Increasing links between parts of the digital economy and activist movements as businesses see the benefits of joining the "winning" side.
+* Increasing links between industrial political parties and activist movements as politicians get attracted by the amplifying power of digital society.
+
+In some countries, digital society activism seems tied to certain political viewpoints: often a left-wing, collectivist point of view. But more widely, digital society activism defines a new direction that is neither left nor right, sensing that industrial-era political parties, from left to right, are dinosaurs of a lost age and that 21st century politics is about new issues.

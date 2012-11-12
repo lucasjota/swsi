@@ -1,0 +1,43 @@
++ Social Architecture for Managers
+
+If you are a manager in a business, you can profitably apply social architecture patterns to your teams. I could write a 200-page book on this, but that would waste your time and mine. Here is a 1-page summary:
+
+* Create very explicit, somewhat crazy missions that people respond to. Make it challenging, but also fun. Missions are the problems your group has to solve.
+
+* When it makes sense, define a Bad Guy. Usually I don't like emotional drivers, but anger and fear can be powerful motivators. Be careful to not take this too far, it can be exhausting.
+
+* Make it clear that you are there for the work, not the money. If there are rewards for success, make sure they're shared by all. Reward successful collaboration, not individual strengths.
+
+* Create as much diversity as you can: ethnic, gender, education, culture, age, personality. Mix laymen with experts. It's not about political correctness but about making sure orthodoxy gets challenged.
+
+* Encourage your people to think of themselves as free agents who can leave at any time, and who can recruit other people. Try to mix in some consultants with the employees.
+
+* Invest in rules and group contracts that help people divide the work and share knowledge. For example, rules on quality. Allow anyone to propose improvements and changes to the rules.
+
+* Enforce the rules consistently, and use your authority mainly to enforce the rules.
+
+* Create competition between individuals and projects to turn conflict into healthy competition. Encourage individuals to challenge others, make this technically easy and low-risk.
+
+* Let everyone choose their own work. Don't allow any individual or team to own a problem, only a particular solution. Accept that some problems may end up with multiple solutions.
+
+* Reward teams on the basis of how well they solve the problems they choose, sticking to the rules. Do not reward individuals, but projects.
+
+* Never assign work to people or teams. If necessary, forbid people from certain tasks, or assert that some problems are impossible (i.e. define an impossibly crazy mission). That usually works.
+
+* Never assign people to teams. Allow teams to recruit freely, allow people to belong to as many teams as they like, start new teams, etc.
+
+* Encourage your teams to work from home, the local coffee shop, or anywhere else they want. Assume that they will do their utmost to succeed, especially if they have competition.
+
+* Enforce immediate sharing of knowledge: everyone publishes their work as it develops. The rules should allow others to copy and reuse that, but under reciprocal conditions.
+
+* Allow anyone to start a new project, at no cost and no risk. Make sure the technical infrastructure allows this. Starting a project means being responsible for it.
+
+* Ensure that projects are structured in a clear overall architecture that can be learned quickly. Slice your architecture into two or three layers, and group projects in layers.
+
+* Define good criteria for success, and apply these to projects so that it's clear which projects are winning. It could be number of downloads, number of dependent projects, etc.
+
+* Make it trivial for people to start contributing, and make sure there are always more challenging projects they can move on to. Smart people enjoy learning.
+
+* Be prepared to drop individuals who are unable to build or join successful teams. Some people simply cannot use freedom.
+
+* Enjoy yourself at work, and infect your staff with the same sense of enjoyment. Laugh at yourself often, it makes others feel at ease.
